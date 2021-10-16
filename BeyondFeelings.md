@@ -1,3 +1,7 @@
+[TOC]
+
+## Chapter 1 Who Are You?
+
 ### The Influence of Time and Space
 
 **Not only are you a member of a particular species, Homo sapiens, but you also exist at a particular time in the history of that species and in a particular place on the planet.** That time and place are defined by specific circumstances, understandings, beliefs, and customs, all of which limit your experience and influence yout thought patterns, If you had lived in America in *colonial* times, you likely would have had no objection to the practice of barring women for serving on a jury, entering into a legal contract, owning property, or voting. If you had lived in the nineteenth century, you would have had no objection to young children being denied and education and being hired out by their parents to work sixteen hours a day, nor would you have given any thought to the specical needs of adolescence. (The concept of a adolecence was not invented until 1904.)
@@ -99,3 +103,24 @@ Many proponents of self-esteem went far beyond Maltz's demonstration that self-c
 ​	Finding meaning, according to Frankl's theory, involves "perceiving a possibility embedded in reality" and searching for challenging tasks "whose completion might add meaning to [one's] existence." But such perceiving and searching are frustrated by the focus on self: "As long as modern literature confines itself to, and contents itself with, self-expression-not to say self-exhibition-it reflects its authors' sense of futility and absurdity. What is more important, it also creates absurdity. **This is understandable in light of the fact that meaning must be discovered,** it cannot be invented. Sense cannot be created, but what may well be created is nonsense."
 
 ​	Whether we agree completely with Frankl, one thing is clear: Contemporary American culture would be markedly different if the emphasis over the past several decades had been on Frankl;s theory rather than on the theories of Maslow and the other humanistic psychologists. All of would have been affected- we can only imagine how profoundly-in out attitude, values, and beliefs. 
+
+### Becoming an Individual
+
+In light of what we have discussed, we should regard individuality not as something we are born with but rather as something acquired-or, more precisely, earned. Individuality begins in the realization that it is impossible to escape being influence by other people and by circumstance. The essence of individuality is vigilance. The following guidelines will help to achieve this:
+
+1. **Treat your first reaction to any person, issue, or situation as tentative.** No matter how appealing it may be, refuse to embrace it until you have examined it.
+2. **Decide why you reacted as you did.** Conside whether you borrowed the reaction from someone else-a parent or friend, perhaps, or a celebrity or fictional charactoer on television. If possible, determine what specific experiences conditioned you to react this way.
+3. **Think of other possible reactions you might have had to the person, issue, or situation.** 
+4. **Ask youself whether one of the other reactions is more appropriate than your first reaction.** And when you answer, resist the influence of your conditioning. 
+
+To ensure that you will really be an individual and not merely claim to be one, apply thest guidelines throughout your work in this book, as well as in your everyday life. 
+
+### Applications
+
+*Note: One of the best ways to develop your thinking(and writing) skills is records your observations, questions, and ideas in a journal and then, as time permits, to reflect on what you have recorded-considering the meaning and application of the observation, answering the questions, elaborating on the ideas(and, where appropriate, challenging them), and recording your insights. An inexpensive bound notebook or spiral notebook will serve the purpose. A good approach is to record your initial observations, questions and ideas on the left side of the page, leaving the right side blank for your later analysis and commentary. The value of this reflective process is so great that you should consider keeping such a journal even if your instructor does not make is a formal part of the course.*
+
+1. Do a bried study of attention shifts such as the one described in the chapter. Record a half-hour show. Then play the show back twice, the first time counting the number of shifts within the program, excluding commercials, and the second time counting only those within commercials. Complete the necessary arithmetic and be prepared to share your results in class.
+2. Reflect on your findings in application 1. Write several paragraphs discussing the implications of those findings for education, business, and family life.
+3. Many people cheerfully pay \$6 or \$7 a gallon for designer drinking water but moan and groan when they have to pay \$3 a gallon for gasoline. Does anythind you read in this chapter help you understand why this is so?
+4. Imagine how different America might be if Frankl's emphasis on self-transcendence and personal responsibility, rather than Maslow's emphasis on self-actualization and popular culture's emphasis on self-esteem, had been dominant for the past fifty years. List as many ways as you can in which our society might be different today and comment on whether each would be beneficial or harmful. Be prepared to explain your views in class discussion.
+5. 
