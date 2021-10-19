@@ -195,9 +195,51 @@ The following passage summarizes an important difference of opinion. After readi
 
 ​	Should captured terrotiest^
 
-
-
-
-
 ## What is Critical Thinking?
+
+When Arthur was in the first grade, the teacher directed the class to "think." "Now, class," she said, "I know this problem is a little harder than the ones we've been doing, but I'm going to give you few extra minutes to think about it, Now start thinking."
+
+……
+
+Your experience may have been similar to Arthur's. In other words, many people may have simply told you to think without ever explaining what thinking is and what qualities a good thinker has that a poor thinker lacks. If that is the case, you have a lot of company. Extensive, effective training is thinking is the exception rather than the trule. This fact and its unfortunate consequences are suggested by the following commnets from accomplished observers of the human conditio:
+
+> The most interesting and astounding contradiction in life if to me the constant insistence by nearly all people upon "logic," "logic reasoning," "sound reasoning," on the  one hand, and on the other their inability to display it, and their unwillingness to accept it when displayed by others.
+>
+> Most of our so-called reasoning consists in finding arguments for going on believing as we already do.
+>
+> Clear thinking is a very rare thing, but even just plain thinking is almost as rare. Most of us most of the time do not think at all. We believe and we feel, but we do not think.
+>
+> Mental idolence is one of the commonest of human traits.
+
+​	What is this activity that everyone claims is important but few people have mastered? Thinking is general term used to cover numerous activities, from daydreaming to reflection and analysis. Here are just some of the synonyms listed in Roget's Thesaurus for think:
+
+> appreciate 
+>
+> ……
+
+### Mind, Brain, or Both?
+
+Most modern researchers use the word mind synonymously with brain, as if the physical organ that resides in the human skull were solely responsible for thinking. This practice conveniently presupposes that a problem that has challenged the greatest thinkers for millennia-the relationship between mind and physical matter-was shomhow solved when no one was looking. The  problem itself and the individuals who spent their lives wrestling with it deserve better.
+
+​	Neuroscience has provided a number of valuable insights into the cognitive or thinking activities of the brain. It has documented that the left hemisphere of the brain deals mainly with detailed language processing and is associated with analysis and logical thinking, that the right hemisphere deals mainly with sensory images and is associated with intuition and creative thinking, and that the small bundle of nerves that lies between the heimspheres-the corpus callosum-integrates the various functions.
+
+​	The research that produced these insights showed that the brain is necessary for thoughts, but it has not shown that the brain is sufficient for thought. In fact, many philosophers claim it can never show that. They argue that the mind and the brain are demonstrably different. Whereas the brain is a physical entity composed of matter and therefore subject to decay, the mind is a metaphysical entity. Examine brain cell under the most powerful microscope and you will never see an idea or concept-for example, beauty, governement, equality, or love-because ideas and concepts are not material entities and so have no physical dimension. Where, then, do these nonmaterial things reside? In the nonmaterial mind.
+
+​	The late American philosopher Wiliam Barret observaed that "histtory is, fundamentally, the adventure of  human consciousness" and "the fundamnetal history of humankind is the history of mind." In his view, "one of the supreme ironier of modern history" is the fact that science, which owes its very existence to the human mind, has had the audacitu to deny the reality of the mind. As he put it, "the offspring denies the parent."
+
+​	The argument over whether the mind is reality is not the only issue about the mind that has hotly debated over the centuries. One especially important issue is whether the mind is passive, a blank slate on which experience writes, as John Locke held, or active, a vehicle by which we take the initiative and exercise our free will, as G. W. Leibnitz argued. This book is based on the latter view.
+
+### Critical Thinking Defined
+
+Let's begin by making the important distinction between thinking adn feeling. I feel and I think are sometimes used interchangeably, but that practice causes confusion. Feeling is subjective response that reflects emotion, sentiment, or desire; it generally occurs spontaneously rather that through a conscious mental act. We don't have to employ our minds to feel angry when we are insulted, afraid when we are threatened, or compassionate when we see a picture of starving child. The feelings arise automatically.
+
+​	Feeling is useful in directing our attention to matters we should think about; it also can provide the enthusiasm and commitment necessary to complete arduous mental tasks. However, feeling is never a good subtitute for thinking because it is notoriously unreliable. Some feelings are benefical, honorable, even noble; others are not, as everyday experience demonstrates. We often feel like doing things that will harm us-for example, smoking, sunbathing without sunscreen, telling off our professor or employer, or spending the rent money on lottery tickets.
+
+​	Zinedine Zidane was one of the greatest soccer players of his generation, and mant experts believed that in his final season(2006) he would lead Frane to the pinnacle of soccer succes-winning the coveted World Cup. But then, toward the end of the championship game against Italy, he viciously head-butted an Italien player in full view of hundreds of millions of people. The referee banished him from the field, France lost the match, and a single surrender to feeling forever stained the brilliant career Zidane had dedicated his life to building.
+
+​	In contrast to feeling, thinking is a conscious mental process performed to solve a problem, make a decision, or gain understanding. Whereas feeling has no purpose beyond expressing itself, thinking aims beyond itself to knowledge or action. This is not to say that thinking is infalliable; in fact, a good part of this book is devoted to exposing errors in thinking and showing you how to avoid them. Yet for all its shorcomings, thinking is the most reliable guide to action we humans possess. To sum up the relationship betweem feeling and thinking, feelings need to be tested before being trusted, and thinking is the most reasonable and reliable way to test them.
+
+​	There are three brooad categories of thinking: reflective, creative, and critical. The focus of this book is on critical thiking. The essence of critical thinking is evaluation. Critical thinking, therefore, may be defined as the process by which we test claims and arguments and determint which have merit and which do not. In other words, critical thinking is a search for answers, a quest. 
+
+
 
