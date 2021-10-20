@@ -239,7 +239,26 @@ Let's begin by making the important distinction between thinking adn feeling. I 
 
 ​	In contrast to feeling, thinking is a conscious mental process performed to solve a problem, make a decision, or gain understanding. Whereas feeling has no purpose beyond expressing itself, thinking aims beyond itself to knowledge or action. This is not to say that thinking is infalliable; in fact, a good part of this book is devoted to exposing errors in thinking and showing you how to avoid them. Yet for all its shorcomings, thinking is the most reliable guide to action we humans possess. To sum up the relationship betweem feeling and thinking, feelings need to be tested before being trusted, and thinking is the most reasonable and reliable way to test them.
 
-​	There are three brooad categories of thinking: reflective, creative, and critical. The focus of this book is on critical thiking. The essence of critical thinking is evaluation. Critical thinking, therefore, may be defined as the process by which we test claims and arguments and determint which have merit and which do not. In other words, critical thinking is a search for answers, a quest. 
+​	There are three brooad categories of thinking: reflective, creative, and critical. The focus of this book is on critical thiking. The essence of critical thinking is **evaluation**. **Critical thinking, therefore, may be defined as the process by which we test claims and arguments and determine which have merit and which do not.** In other words, **critical thinking is a search for answers, a quest**. Not surprisingly, one of the most important techniques used in critical thinking is asking probing questions. Where the uncritical accept their thoughts and other people's statements as face value, **critical thinkers challenge all ideas in this manner:**
+
+| Thought                                                      | Question                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Professor Vile cheated me in my composittion grade. He weighted some themes more heavily than others. | Did he grade everyone on the same standard? Were the different weightings justified？ |
+| Before women enter the work force, there were fewer divorces. That show taht a woman's place in the home. | How do you know that this factor, and not some other one(s), is reponsible for the increase in divorces? |
+| A college education isn't worth what you pay for it. Some people never reach a salary level appreciably higher than the level they would have reached without the degree. | Is the money the only measure of the worth of an education? What about increased understanding of self and life and increased ability to cope with challenges? |
+
+​	**Critical thinking also empoys questions to analyze issues**. Consider, for example, the subject of values. When it is being discussed, some people say "Our country has lost its traditional values" and "There would be less crime, especially violent crime, if parents and teachers emphasized moreal values." Critical thinking would prompt us to ask, 
+
+1. What is the relationship between values and beliefs? Between values and convictions?
+2. Are all values valuable?
+3. How aware is the average person of his or her values? Is it possible that many people deceive themselves about their real values？
+4. Where do one's values originate? Within the individual or outside? In thought or in feeling?
+5. Does education  change a person's values? If so, is this change always for the best?
+6. Should parents and teachers attempt to shape children's values?
+
+
+
+### Characteristics of Critical Thinkers
 
 
 
