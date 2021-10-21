@@ -260,5 +260,20 @@ Let's begin by making the important distinction between thinking adn feeling. I 
 
 ### Characteristics of Critical Thinkers
 
+Miconceptions about critical thinking:
 
+- Being able to support beliefs with reasong mmakes one a critical thinker.
+  - The test of critical thinking is whether the reasons are good and sufficient.
+- critical thinkers never imitate others in thought or action
+  - critical thinking means making sound decisions, regardless of how common or uncommon thos decisions are.
+- critical thinking is synonymous with having a lot of right answers in one's head.
+  - critical thinking involves the process of finding answers when they are not so readily available.
+- critical thinking cannot be learned, that one either has it or does not.
+  - critical thinking is matter of habit
+
+characteristics of critical thinkers:
+
+- skill in asking apporpriate questions
+- control's of one's mental activities
+  - John Dewey: more of our time tthan most of us are to admit is spent "trifling with mental pictures, random recollections, pleasant but unfounded hopes, flitting, half-developed impressions." Good thinkers are no exception. However, they have learned better than poor thinkers how to stop that casual, semiconscious frift of images when they wish and how to fix their minds on one specific matter, examine it carefully, and form a judgement about it.
 
