@@ -277,3 +277,22 @@ characteristics of critical thinkers:
 - control's of one's mental activities
   - John Dewey: more of our time tthan most of us are to admit is spent "trifling with mental pictures, random recollections, pleasant but unfounded hopes, flitting, half-developed impressions." Good thinkers are no exception. However, they have learned better than poor thinkers how to stop that casual, semiconscious frift of images when they wish and how to fix their minds on one specific matter, examine it carefully, and form a judgement about it.
 
+- some additional characteristics of critical thinkers
+
+  | Critical Thinkers                                            | Uncritical Thinkers                                          |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | Are honest with themselves, acknowledging what they don't know, recognizing their limitations, and being watchful of their own errors. | Pretend they know more than they do, ignore their limitations, and assume their views are error-free. |
+  | Regard problems and controversial issues as exciting challenges. | Regard problems and controversial issues as nuisances or threats to their ego. |
+  | Strive for understanding, keep cuiosity alive, remain patient with complexity, and ready to invest time to overcome confusion. | Are impatient with complexity and thus would rather remain confused that make the effort to understand. |
+  | Base jugments on evidence rather than personal preferences, deferring judgement whenever evidence is insufficient. They revise judgement when new evidence reveals error. | Base judgments on first impressions and gut reactions. They are unconcerned about the amount or quality of evidence and cling to their views steadfastly. |
+  | Are interested in other people's ideas and so are willing to read and listen attentively, even when they tend to disagree with the other person. | Are preoccupied with themselves and their own opinions and so are unwilling to pay attention to other's views. At the first sign of disagreement, they tend to think, "How can I refute this?" |
+  | Recognize that extreme views(whether conservation or liberal) are seldom correct, so they avoid them, practice fairmindedness, and seek a balances view. | Ignore the need for balance and give preference to views that suppoer their established views. |
+  | Practice restraint, controlling their feelings rather than being controlled by them, and thinking before acting. | Tend to follow their feelings and act impulsively.           |
+
+  As the disirable qualities suggest, critical thinking depends on mental discipline. **Effective thinkers exert control over their mental life, direct their thoughts rather than being directed by them, and withhold  their endorsement of any idea-even their own-until they have tested and confirmed it**. John Dewey equated this mental discipline with freedom. That is he argued that people who do not have it are not free persons but slaves to whim or circumstance:
+
+> If a man's actions are not guided by thoughtful conclusions, then they are guided by inconsiderate impulse, unbalanced appetite, caprice, or the circumstances of the moment. To cultivate unhindered, unreflective external activity is the foster enslavement, for it leaves the person at the mercy of appetite, sense, and circumstance.
+
+### The Role of Intuition
+
+**Intuition is comonly defined as immediate perception or comprehension of something-that is, sensing or understanding something without the use of reasoning.** Some everyday experiences seem to support this definition. You may have met a stranger and instantly "known" that you would be partners for life. When a cat salesman told you that the price he was quoting you was his final, rock-bottom price, your intuition may have told you he was lying. 
