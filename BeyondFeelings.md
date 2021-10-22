@@ -296,3 +296,43 @@ characteristics of critical thinkers:
 ### The Role of Intuition
 
 **Intuition is comonly defined as immediate perception or comprehension of something-that is, sensing or understanding something without the use of reasoning.** Some everyday experiences seem to support this definition. You may have met a stranger and instantly "known" that you would be partners for life. When a cat salesman told you that the price he was quoting you was his final, rock-bottom price, your intuition may have told you he was lying. 
+
+……
+
+Such examples seem to suggest that intuition is very different from reasoning and is not influenced by it. But before accepting that conclusion consider these facts:
+
+> Breakthrough ideas favor trained, active minds. It is unsusual for someone totally untrained in a subject to make a signigicant new discovery about it. Thus if Kekule had been a plumber, Goethe a bookeeper, and Coleridge a haidresser, they would almost certainly not have received the intuitions fot which they are famous.
+>
+> Some intuitions eventually prove to mistaken. That attractiove stranger may turn out to be not your lifelong partner but a person for whom you develop a strong dislike. The car salesman's final price may have proved to be exactly that. And instead of doing poorly in that course, you may have done well.
+>
+> It is difficult to make an overall assessment of the quality of our intuitions because we tend to forget the ones that prove mistaken in much the same way a gambler forgets his losses.
+
+​	These facts have led some scholars to conclude that intuitions is simply a consequence of thinking. They would say that something about the stranger appealed to you, something the salesman said or did suggested insincerity, something about the professor frightened you. In each case, they would explain, you made a quick decision-so quick, in fact, that you were unaware that you'd been thinking. In the case of the breakthrough ideas, the scholars would say that when people become engrossed in problems or issues, their unconscious minds often continue working on them long after they have turned their attention elsewhere. Thus, when an insight seems to come "out of nowhere", it is actually a delayed result of thinking.
+
+​	Which view of intuitions is the correct one? Are intuitions different from the independent of thinking or not? Pherhaps, for now, the most prudent answer is that sometimes they are independent and sometimes they are not; we can't be sure when they are, and therefore it is imprudent to relay on them.
+
+### Basic Acitivities in Critical Thinking 
+
+The basic activities in critical thinking are **investigation, interpretation, and judgement,** in that order. The following chart summarizes each activity in relation to the other two.
+
+| Activity       | Definition                                                   | Requirements                                                 |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Investigation  | Finding evidence-that is, data that wil answer key questions about the issue | The evidence must be both relevant and sufficient.           |
+| Interpretation | Deciding what the evidence means                             | The interpretation must be more reasonable that competing interpretations. |
+| Judgement      | Reaching a conclusion about the issue                        | The conclusion must meet the test of logic.                  |
+
+​	As we noted previously, irresponsible thinkers first choose their conclsions and then seek out evidence to jusify their choices. They fail to realize that the only conclusion worth drawing is one based on a thorought understanding of the problem or issue and ts possbile solutions or resolutions. Is it acceptable to speculate, guess, and form hunches and hypotheses? Absolutely. Such activities provide a helpful starting point for the thinking process. (Beisides, we couldn't avoid doing so even if we tried,) The crucial thing is not to let hunches and hypotheses mainpulate our thinking and dictate our conlusion in advance.
+
+### Critical Thinking and Writing
+
+Writing may be used for either of two broad purpopses: to discover ideas or to communicate them. Mostt of the writing you have done in school is undoubtedly the latter kind. But the former can be very helpful, not only is sorting out ideas you've already produces,  but laso in stimulating the flow of new ideas. For some reason, the very act of writing down one idea seems to generate additional ideas.
+
+​	Whenever you write to discover ideas, focus on the issue you are examinng and record all your thoughts, questions, and assertions. Don't worry about organization or correctness. If ideas come slowly, be patient. If they come suddenly, in a rush, don't try to slow down the process and develop any one of them; simply jot them all down.(There will be time for elaboration and correction later.) Direct your mind's effort, but be sensitive ot ideas on the fringe of consciouness. Often they, too, will prove valuable. 
+
+​	If you have done your discovery wrinting well and have thought critically about the ideas you have produced, the task of writing to communicate will be easier and more enjoyable. You will have many more ideas-carefully evaluated ones-to develop and organize.
+
+### Criticak Thinking and Discussion
+
+As its best, discussion deepens understanding and promotes problem solving and descision making. At its worst, it frays nerves, creates animosity, and leaves important issues unrsolved. Unfortunately, the most prominent models for discussion in contemporary culture-radio and TV talk shows-often produce the latter effects.
+
+​	Many hosts demand that their guests answer complex questions with simple "yes" or "no" answers. If the guests respond that way, they are attcked for oversimplifying. If instead, they try to offer a balanced answer, the host shouts, "You're not answering the question," and proceeds to answer it himseld. Guests who agree with the host are treated warmly; others are debating, each takes a turn interrupting while the other shouts, "Let me finish." Neither shows any desire to learn fro the other. Typically, as the show draws to a close, the host thanks the paticipants for a "vigorous debate" and promises the audience more of the same next time.
