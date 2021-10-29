@@ -357,5 +357,21 @@ As its best, discussion deepens understanding and promotes problem solving and d
 
 ### Avoiding Plagiarism
 
-Once ideas are put into words and published, they become intellectual property, and the author has the same rights over them as he or she has over a material possession such as a 
+**Once ideas are put into words and published, they become intellectual property,** and the author has the same rights over them as he or she has over a material possession such as a house or a car. The only real difference is that intellectual property is purchased with mental effort rather than money. Anyone who has ever wracked his or her brain trying to solve a problem or trying to put an idea to into clear and meaningful words can **appreciate how diffcult mental effort can be.**
+
+Plagiarism is passing off other people's ideas or words as one's own. It is doubly offensive in that it both steals and deceives. In the academic world, plagirism is consderiaed an ethical violation and is punished by a failing grade for a paper or course  or even by dismissal from a the institution. Outside the academy, it is a crime that can be prosecuted if the person to whom the ideas and words belong wished to bring charges. Either way, the offender suffers dishonor and disagrace, as the following examples illustrate:
+
+- When a university in South Africa learned that professor Marks Chabel had plagiarized most of his doctoral disseration from Kimberly Lanegran of the University of Florida, the university fired Chabel. Moreover, the university that had awarded him hid Ph.D. revoked it.
+
+- ……
+
+- When *New York Times* reporter Jason Blair was discovered to have plagiarized in his stories from other reporters and fabricated quotations and details in his stories, he resigned his position in disgrace. Soon afterward, the two senior editors who had been hist closest mentors also resigned, reportedly because of their irresponsible handling fo Blair's reportage and the subsequent scandal.
+
+  Some cases of plagiarism are attributable to intentional dishonesty, others to carelessness. But many, perhaps most, are due to misunderstanding. The instructions **"Base your paper on research rather thatn on your own unfounded opinions" and "Don't present other people's ideas as your own" seem contradictory and may confuse students, especially if no clarification is offered.** 
+
+
+
+## Even the Wisest Can Err
+
+So far, we've established that people can be mistaken in what they perceive and remember and that the information they receive can be faulty or incomplete. But these matters concern individuals. What of group judgement-the carefully analyzed observations of the best thinkers, the wisest men and women of the time? 
 
