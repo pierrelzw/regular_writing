@@ -326,27 +326,61 @@ Mimetic competition is visible in every aspect of social life. People shift thei
 
 ### **Competitive Strategy in Business**
 
+
 Thiel’s Christianity-inspired worldview lines up with Michael Porter’s philosophy of business strategy. Porter is a Harvard Business School professor known for his theories on economics and business strategy. He believed that strong businesses aim to be unique, not the best. Trying to outcompete rivals leads to mediocre performance, so companies should avoid competition and seek to create value instead of beating rivals. 
+
+泰尔受基督教启发的世界观与迈克尔·波特的商业战略哲学相一致。波特是哈佛商学院教授，以其经济学和商业战略理论而闻名。他认为，强大的企业旨在成为独特的，而不是最好的。试图超越对手会导致平庸的表现，所以公司应该避免竞争，寻求创造价值而不是击败对手。 
+
 
 As Thiel once wrote: 
 
+正如泰尔曾经写过的那样。 
+
+
 > _“Once you have many people doing something, you have lots of competition and little differentiation. You, generally, never want to be part of a popular trend… So I think trends are often things to avoid. What I prefer over trends is a sense of mission. That you are working on a unique problem that people are not solving elsewhere.”_
+
+> _"一旦你有很多人在做某件事，你就会有很多竞争，而且几乎没有差异化。一般来说，你永远不想成为流行趋势的一部分…… 所以我认为趋势往往是要避免的东西。与趋势相比，我更喜欢的是一种使命感。你正致力于解决一个其他人没有解决的独特的问题。
+
 
 After the 2008 financial crisis, when the new General Motors went public in 2010, CEO Dan Akerson announced that his company was free of legacy costs and ready to compete again. As he shouted to reporters: “May the best car win!” This phrase reflects an assumption that competition is the best way to grow shareholder value. It implies that if you want to win, you should try to be the best. But this is the wrong way to think about competition. 
 
+2008 年金融危机后，当新的通用汽车公司在 2010 年上市时，首席执行官丹·阿克森宣布他的公司已经摆脱了遗留成本，并准备好再次竞争。正如他对记者们所喊的那样。“愿最好的汽车获胜！” 这句话反映了一种假设，即竞争是增长股东价值的最佳方式。它暗示，如果你想赢，你应该努力成为最好的。但这是思考竞争的错误方式。 
+
+
 We analogize business to war. In war, victory requires that the enemy is crippled or destroyed. Rivals who pursue the “one best way” to compete will converge on a collision course, where everybody listens to the same advice and pursues the same strategies, leading to zero-sum outcomes where total industry profits fall towards nothing. 
+
+我们把商业比作战争。在战争中，胜利需要敌人被削弱或被摧毁。追求 “一种最佳方式” 竞争的对手将汇聚在一个碰撞的过程中，每个人都听从同样的建议，追求同样的战略，导致零和的结果，行业总利润下降到零。 
+
 
 When you compete to be the best, you imitate. When you compete to be unique, you innovate. In business, multiple winners can thrive and coexist. You don’t have to annihilate your competition. While imitation creates a race to the bottom, innovation promotes healthy competition and economic growth. In that way, business is like the performing arts, not war. In the performing arts there are many entertaining singers and actors, each with a distinct style. The more talented and differentiated performers there are, the more the arts flourish. This is the essence of positive-sum competition. 
 
+当你为成为最好的而竞争时，你就会模仿。当你为成为独一无二的人而竞争时，你就会进行创新。在商业中，多个赢家可以茁壮成长，共存共荣。你不需要消灭你的竞争对手。虽然模仿会造成竞争，但创新会促进健康竞争和经济增长。这样一来，商业就像表演艺术，而不是战争。在表演艺术中，有许多娱乐性的歌手和演员，每个人都有独特的风格。有才华的、有差异的表演者越多，艺术就越发繁荣。这就是正和竞争的本质。 
+
+
 To drive the point home, let’s turn back to Peter Thiel. The third chapter of his book, [_Zero to One_](https://amzn.to/2LM7Uxt) is called “All Happy Companies Are Different.” 
+
+为了说明问题，让我们回头看看彼得·蒂尔。他的书 [_Zero to One_](https://amzn.to/2LM7Uxt)的第三章叫做 “所有快乐的公司都是不同的”。 
+
 
 Thiel’s book applies Girard’s ideas to business. Like Girard himself, he says companies should avoid competition and walk the path of differentiation. He explains that many businesses create a lot of value, but don’t capture a lot of the value they create. As a result, even very big businesses can be unprofitable. 
 
+泰尔的书将吉拉德的思想应用于商业。像吉拉德本人一样，他说企业应该避免竞争，走差异化的道路。他解释说，许多企业创造了很多价值，但却没有抓住他们创造的很多价值。因此，即使是非常大的企业也可能无利可图。 
+
+
 According to Thiel, monopoly is the end state of every successful business. If you want to create and capture lasting economic value, don’t compete. The more unique companies are, the more the business world can flourish. Consider Thiel’s favorite example: the airline industry. 
+
+根据泰尔的说法，垄断是每个成功企业的最终状态。如果你想创造和获取持久的经济价值，就不要竞争。公司越是独特，商业世界就越能蓬勃发展。考虑一下泰尔最喜欢的例子：航空业。 
+
 
 As I type these words, I’m sitting in the United Airlines lounge at Denver International Airport. I’m writing during a five-hour layover on my way from New York to Los Angeles. In front of me, I see a lemon yellow Spirit Airlines jet preparing for takeoff. To advertise its affordable prices, the engine on the right wing says “Home of the Bare Fare.” Like the Southwest Airlines Boeing 737 to its left, the rise of low-cost airline carriers reflects the price sensitivity of flyers. I’m part of the bargain-hungry tribe too. This morning, I woke up at 3:50am so I could take a dirt-cheap 6:10am flight from La Guardia. As part of the journey, I also swallowed a five-hour layover in Denver so I could pay with frequent flyer points. My body screams for sleep, my mind shouts for productivity, and thankfully, due to the triple-shot cappuccino on the table in front of me, I’ll meet my writing quota today. 
 
+当我打下这些文字时，我正坐在丹佛国际机场的联合航空公司的休息室里。我在从纽约到洛杉矶的途中，在五个小时的停留期间写作。在我面前，我看到一架柠檬黄色的精神航空公司飞机正在准备起飞。为了宣传其实惠的价格，右翼的发动机上写着 “裸价之家”。就像它左边的西南航空公司的波音 737 一样，低成本航空公司的崛起反映了飞行者对价格的敏感度。我也是渴望讨价还价的部落的一员。今天早上，我在 3:50 起床，以便能够乘坐早上 6:10 从拉瓜迪亚起飞的廉价航班。作为旅程的一部分，我还获得了在丹佛停留五个小时的时间，这样我就可以用飞行常客的积分来支付。我的身体呼唤着睡眠，我的头脑呼唤着生产力，值得庆幸的是，由于我面前的桌子上有三杯卡布奇诺，我今天会达到我的写作配额。 
+
+
 Let’s wrap my morning in economic language. Air travel is an “elastic good.” Small changes in price lead to big changes in demand for a flight. Behavior differs between leisure travelers and business travelers. Leisure travelers are particularly sensitive to price fluctuations, so they fly much less when prices are high than when they are low. In contrast, business travelers don’t have as much flexibility. Since there’s money at stake, their decision to travel isn’t as influenced by shifts in price. 
+
+让我们用经济语言来包装我的早晨。航空旅行是一种 “弹性商品”。价格的微小变化会导致对航班需求的巨大变化。休闲旅行者和商务旅行者的行为是不同的。休闲旅游者对价格波动特别敏感，所以他们在价格高的时候比价格低的时候飞得少。相比之下，商务旅行者没有那么多的灵活性。由于事关金钱，他们的旅行决定不会受到价格变化的影响。 
+
 
 ![public.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/public-1.jpeg?w=750&ssl=1)
 
@@ -354,19 +388,41 @@ Let’s wrap my morning in economic language. Air travel is an “elastic good.�
 
 The airline industry suffers from near-perfect competition. Each year, U.S airlines serve millions of passengers and create hundreds of billions of dollars in consumer value. But in 2012, when the average airfare each way was $178, the airlines made only 37 cents per passenger trip. Whenever one airline makes a move such as lowering prices or adding an extra inch of leg room, its rivals match it. Since all the airlines chase the same price sensitive customers, they compete for every sale. That’s why, compared to the major tech companies, the major airlines in America are starving for profit. 
 
+航空业遭受着近乎完美的竞争。每年，美国的航空公司为数以百万计的乘客提供服务，创造了数千亿美元的消费者价值。但在 2012 年，当单程平均机票价格为 178 美元时，航空公司每趟乘客只赚了 37 美分。每当有一家航空公司采取举措，如降低价格或增加一英寸的腿部空间，其竞争对手就会配合它。由于所有的航空公司都在追逐同样的价格敏感型客户，他们为每笔销售而竞争。这就是为什么，与主要的科技公司相比，美国的主要航空公司都在为利润而挨饿。 
+
+
 As a contrast to the hyper-competitive airline business, consider Google. Here’s Peter Thiel: 
+作为与竞争激烈的航空业的对比，考虑一下谷歌。这里是彼得·泰尔。 
+
+
 
 > _“Compare \[the airlines\] to Google, which creates less value but captures far more. Google brought in $50 billion in 2012 (versus $160 billion for the airlines), but it kept 21% of those revenues as profits—more than 100 times the airline industry’s profit margin that year._ 
+
+> _"比较一下谷歌 —— 它创造的价值较少，但捕获的价值却多得多。谷歌在 2012 年带来了 500 亿美元的收入（而航空公司为 1600 亿美元），但它将这些收入的 21% 作为利润，是当年航空业利润率的 100 倍以上。 
+
 > 
 > _Google makes so much money that it’s now worth three times more than every U.S. airline combined. The airlines compete with each other, but Google stands alone.”_
 
+> _ 谷歌赚了很多钱，它现在的价值是美国所有航空公司总和的三倍。航空公司相互竞争，但谷歌却独善其身。"_
+
+
 Perfect competition is the default state in Economics 101. In a perfectly competitive market, undifferentiated companies sell homogenous and substitutable products. Firms don’t have market power, so their prices are determined by the iron laws of supply and demand. 
+
+完全竞争是经济学 101 中的默认状态。在一个完全竞争的市场中，无差别的公司销售同质化和可替代的产品。企业没有市场力量，所以它们的价格由供求关系的铁律决定。 
 
 High profits attract competition. According to economic theory, if outside entrepreneurs hear about profits, they’ll start a new firm and enter the industry. Increased supply will drive prices down, which will decrease total industry profits. If too many firms enter the market, the entire industry will suffer losses. If companies start to lose money, they’ll go out of business until industry prices rise back to sustainable levels. Most importantly, in a world of perfect competition, no company will make an economic profit in the long run. Just like the airline industry.
 
+高利润吸引竞争。根据经济理论，如果外部企业家听说了利润，他们就会创办新公司，进入这个行业。供应的增加将促使价格下降，这将减少行业总利润。如果太多的公司进入市场，整个行业将遭受损失。如果公司开始亏损，他们就会倒闭，直到行业价格回升到可持续的水平。最重要的是，在一个完全竞争的世界里，从长远来看，没有公司会获得经济利润。就像航空业一样。
+
 Thiel offers an alternative to perfect competition: monopoly. Without competition, they can produce at the quantity and price combination that maximizes their profits. Successful strategies attract imitators, so the best businesses are difficult to copy. Firms in a competitive industry who sell a commodity product cannot turn a profit.  But companies who have a monopoly can set their own prices since they offer an in-demand product that cannot be replicated. Monopoly firms are big fish in a small pond. 
 
+泰尔提供了一个完全竞争的替代方案：垄断。在没有竞争的情况下，他们可以按照使其利润最大化的数量和价格组合来生产。成功的策略会吸引模仿者，所以最好的企业很难被复制。在一个竞争性行业中，销售商品产品的企业无法实现利润。  但是，拥有垄断地位的公司可以设定自己的价格，因为他们提供的是一种无法复制的需求产品。垄断企业是小池塘里的大鱼。 
+
+
 Don’t copy your neighbors.
+
+不要模仿你的邻居。
+
 
 * * *
 
