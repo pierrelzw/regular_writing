@@ -130,33 +130,77 @@ Law school was worse. Like lobsters in a bucket, wannabe lawyers battled for law
 
 ### **How Girard Influenced Thiel in Business**
 
+
+
 Thiel sees the world at a strange angle. His contrarian streak runs through everything he does. But until now, nobody has explained the roots of his singular philosophy. 
+
+泰尔以一种奇怪的角度看待世界。他的逆向思维贯穿于他所做的一切。但直到现在，还没有人解释过他奇特哲学的根源。 
+
 
 His verbal tendencies double as a mirror into his mind. Listen to a Thiel interview and you’ll notice how often he reframes the question before answering. When he speaks, he skips between perspectives faster than a game of hopscotch. He says things like “One version of this is…” or “You could say that…” He has an uncanny ability to consider cultural trends and investment trades from a diversity of perspectives. Sometimes, I wonder if he sees life as a game of chess, where he plays against himself and simultaneously switches from black, to white, and back again. Listen carefully and you’ll see how often he hides answers inside of questions. By playing both sides of the board with the rigor of a Dostoyevsky novel, he sees what others miss with crystal clarity. 
 
+他的言语倾向是了解其思想的一面镜子。听一听泰尔的采访，你就会注意到他在回答问题之前经常重构问题。当他说话时，他在各种观点之间跳来跳去，比玩跳房子游戏还快。他说 “这个问题的一个版本是…… ” 或 “你可以说…… ” 之类的话。他有一种不可思议的能力，从不同的角度考虑文化趋势和投资交易。有时，我怀疑他是否把生活看成是一盘棋，他与自己对弈，同时从黑棋切换到白棋，再切换回来。仔细听，你会发现他经常把答案藏在问题里面。通过以陀思妥耶夫斯基小说的严谨态度下棋，他能清晰地看到别人忽略的东西。 
+
+
 In the [words](https://amzn.to/2JZ6LiF) of one of his friends: 
 
-> _“Peter is of two minds on everything. If you were able to open his skull, you would see a number of Mexican standoffs between powerful antagonistic ideas you wouldn’t think could be safely housed in the same brain.”_
+用他一个朋友的[话语](https://amzn.to/2JZ6LiF)来说。 
+
+
+>  _“Peter is of two minds on everything. If you were able to open his skull, you would see a number of Mexican standoffs between powerful antagonistic ideas you wouldn’t think could be safely housed in the same brain.”_
+
+> _"彼得对任何事情都有两种想法。如果你能打开他的头盖骨，你会看到一些像墨西哥人对峙一样的强大的对立的想法，你不会认为它们可以安全地放在同一个大脑中。
+
 
 Before playing a game, you have to know the rules. Breakthrough businesses are so innovative that people don’t have the words to describe them. He focuses on questions as much as answers, so he can identify the difference that makes the difference. For example, people still talk about Google as a search engine and Facebook as a social networking site. Both descriptions miss the point. Google succeeded because it’s a _machine-powered_ search engine. Until Facebook, social networks mostly helped people become virtual cats and dogs. Facebook succeeded because it helped people create real identities online. 15 years after its founding, people incorrectly frame the history of social networks. He doesn’t just focus on the brushstrokes. He looks at how the painting is framed. 
 
+在玩一个游戏之前，你必须知道规则。突破性的企业是如此的创新，以至于人们没有词汇来描述它们。他关注问题，也关注答案，所以他能找出与众不同之处。例如，人们仍然把谷歌说成是一个搜索引擎，把 Facebook 说成是一个社交网站。这两种描述都忽略了问题的关键。谷歌的成功是因为它是一个由机器驱动的 _ 搜索引擎。在 Facebook 之前，社交网络大多帮助人们成为虚拟的猫和狗。Facebook 的成功是因为它帮助人们在网上创造了真实的身份。在其成立 15 年后，人们错误地框定了社交网络的历史。他不只是关注笔触，他看的是这幅画是如何被勾勒起来的。 
+
+
 Thiel’s companies are governed by Girard’s wisdom. Girard observed that all desires come from other people. When two people want the same scarce object, they fight. In response, as CEO of PayPal, Thiel set up the company structure to eliminate competition between employees. PayPal overhauled the organization chart every three months. By repositioning people, the company avoided most conflicts before they even started. Employees were evaluated on one single criterion, and no two employees had the same one. They were responsible for one job, one metric, and one part of the business. 
+
+泰尔的公司受吉拉德的智慧所支配。吉拉德观察到，所有的欲望都来自于其他人。当两个人想要相同的稀缺物品时，他们就会打架。对此，作为贝宝的首席执行官，泰尔设置了公司结构，以消除员工之间的竞争。贝宝每三个月就会对组织结构图进行一次大修。通过重新定位人员，公司在冲突开始之前就避免了大多数冲突。对员工的评估只有一个标准，没有两个员工有相同的标准。他们只负责一项工作、一个指标和业务的一个部分。 
+
 
 Thiel provided the first outside money into Facebook and still serves on the company board. His $500,000 [investment](https://www.reuters.com/article/us-facebook-stake/peter-thiel-sells-most-of-remaining-facebook-stake-idUSKBN1DM2BQ) was partially informed by Mimetic Theory because he saw Girard’s ideas validated by social media. As Thiel said: “Facebook first spread by word of mouth, and it’s about word of mouth, so it’s doubly Mimetic. Social media proved to be more important than it looked, because it’s about our natures.” 
 
+泰尔为 Facebook 提供了第一笔外部资金，并仍在该公司董事会任职。他的 50 万美元[投资](https://www.reuters.com/article/us-facebook-stake/peter-thiel-sells-most-of-remaining-facebook-stake-idUSKBN1DM2BQ)部分是由模仿理论提供的，因为他看到吉拉德的想法被社交媒体所验证。正如蒂尔所说 “Facebook 首先通过口碑传播，而它是关于口碑的，所以它有双重模仿效果。事实证明，社交媒体比它看起来更重要，因为它是关于我们的本性”。 
+
+
 To be sure, not all of Thiel’s investments have been successful. Thiel’s hedge fund, _Clarium Capital,_ was unsuccessful. The fund fell 13 percent in August 2008, 18 percent in October 2008, and lost money for the third year in a row in 2009. By September 2009, the total assets under management had fallen from a peak of $7.8 billion to a mere $850 million, most of which was Thiel’s personal capital.
+
+可以肯定的是，并非所有泰尔的投资都是成功的。泰尔的对冲基金 _Clarium Capital_ 是不成功的。该基金在 2008 年 8 月下跌了 13%，2008 年 10 月下跌了 18%，并在 2009 年连续第三年亏损。到 2009 年 9 月，管理的总资产已从 78 亿美元的高峰下降到仅有 8.5 亿美元，其中大部分是泰尔的个人资本。
+
 
 People who work with Thiel are told to look for heterodox ideas and people with clear visions of the future. Thiel doesn’t like to be an operator because it’s a low-leverage activity. Instead of banging the keyboard himself, Thiel installs strong CEOs and leaders whose judgements are similar to his own. Time and again, these skilled operators have the agency to act without Thiel’s approval, and are encouraged to pursue bold visions of the future. They have freedom to pursue bizarre ideas and people who don’t fit the standard mold. 
 
+与泰尔一起工作的人被告知要寻找异类的想法和对未来有清晰愿景的人。泰尔不喜欢做经营者，因为这是一种低杠杆的活动。泰尔不亲自敲打键盘，而是安装强大的首席执行官和领导人，这些人的判断与他自己相似。一次又一次地，这些熟练的经营者拥有不经泰尔批准而采取行动的权力，并被鼓励追求对未来的大胆设想。他们有追求怪异想法和不符合标准模式的人的自由。 
+
+
 In an epic exchange between two billionaires, Jeff Bezos said: 
 
-_“Peter Thiel is a contrarian, first and foremost. You just have to remember that contrarians are usually wrong.”_
+在两位亿万富翁之间的史诗般的交流中，杰夫·贝佐斯说。 
+
+
+_“Peter Thiel is a contrarian, first and foremost. You just have to remember that  contrarians are usually wrong.”_
+
+彼得·蒂尔首先是一个逆向思维者。你只需记住，逆向思维者通常是错误的。"_
+
 
 In an email to [Ryan Holiday](https://amzn.to/32HoS58), Peter responded as such: 
 
+在给 [Ryan Holiday](https://amzn.to/32HoS58)的电子邮件中，彼得是这样回答的。 
+
+
 _“Contrarians may be mostly wrong, but when they get it right, they get it really right.”_
 
+“反叛者可能大部分都是错的，但当他们做对了，他们就真的做对了。”_“反叛者”。
+
+
 Across PayPal and Facebook, Peter Thiel’s philosophy can be summarized in a single sentence: Don’t copy your neighbors. It’s like a search for keys. Instead of looking in the light, Thiel and his employees look in the dark, where nobody else is looking.
+
+在 PayPal 和 Facebook 上，彼得·泰尔的哲学可以用一句话来概括。不要复制你的邻居。这就像在寻找钥匙。泰尔和他的员工不是在灯光下寻找，而是在黑暗中寻找，在别人不注意的地方寻找。
+
 
 * * *
 
@@ -165,23 +209,51 @@ Across PayPal and Facebook, Peter Thiel’s philosophy can be summarized in a si
 
 _“Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world. And the world is passing away, and the lust of it; but he who does the will of God abides forever.”_ — 1 John 2: 15–17
 
+不要爱世界和世界上的东西。若有人爱世界，父的爱就不在他里面了。因为凡是世上的事 —— 肉体的情欲、眼目的情欲、生命的骄傲，都不是从父来的，乃是从世界来的。世界和它的情欲都要过去，惟有遵行神旨意的，是永远常在。
+
+
 Everybody imitates. We cannot resist Mimetic contagion, and that will never change. But there are bad ways to copy and good ways to copy. Bad imitators follow the crowd and mirror false idols, while good imitators copy a transcendent goal or figure. 
+
+每个人都会模仿。我们无法抵制模仿的传染，这一点永远不会改变。但模仿有坏的方式，也有好的方式。坏的模仿者随波逐流，照搬虚假的偶像，而好的模仿者则模仿一个超然的目标或人物。 
+
 
 Imitation draws people together. Then, it pulls them apart like an ocean riptide. 
 
+模仿将人们吸引到一起。然后，它又像海洋的激流一样把他们拉开。 
+
+
 At first, two people who share the same desire will be united by it. But if they cannot share what they both desire, their relationship will transform. They’ll turn from the best of friends to the worst of enemies. Conventional wisdom says that we loathe people who are nothing like us. But when it comes to envy, jealousy, and resentment Girard takes a different perspective. Since small disagreements loom large in the imagination, Girard wrote that social differences and rigid hierarchies maintain peace. When those differences collapse, the infectious spread of violence accelerates. The fiercest rivalries emerge not between people who are different, but people who are the same. The more two people share the same desires, the greater the risk of Mimetic competition. 
+
+起初，两个有共同愿望的人将因其而结合在一起。但如果他们不能分享他们都渴望的东西，他们的关系就会转变。他们会从最好的朋友变成最坏的敌人。传统的智慧说，我们厌恶那些与我们完全不同的人。但是当涉及到羡慕、嫉妒和怨恨的时候，吉拉德采取了不同的观点。由于小的分歧在想象中很重要，吉拉德写道，社会差异和僵化的等级制度维持着和平。当这些差异崩溃时，暴力的感染性传播就会加速。最激烈的竞争不是在不同的人之间出现，而是在相同的人之间出现。两个人的欲望越相同，模仿性竞争的风险就越大。 
+
 
 Consider the famous opening words of Shakespeare’s _Romeo and Juliet:_ “Two houses, both alike in dignity…” Through bloody battles between the Montagues and the Capulets, Shakespeare reminds us that people fight not because they’re so different, but because they’re so alike. Similar people are most prone to Mimetic envy because we tend to compete for status with the people who are closest to us. When two people are different and far away from each other, the tension will stay calm. Thus, the more we resemble our peers, the more Mimetic conflict will arise. 
 
+考虑一下莎士比亚《罗密欧与朱丽叶》中著名的开场白：“两个家族，在尊严上都一样…… ” 通过蒙太古和凯普莱特之间的血腥争斗，莎士比亚提醒我们，人们争斗不是因为他们是如此不同，而是因为他们是如此相似。相似的人最容易产生模仿性嫉妒，因为我们倾向于与最亲近的人争夺地位。当两个人不同且相距甚远时，紧张感会保持平静。因此，我们与同龄人越相似，就会出现越多的 Mimetic 冲突。 
+
+
 Shakespeare wasn’t the only writer to identify the vicious Mimetic impulse. Sigmund Freud called the tendency for conflict between two similar people “The Narcissism of Small Differences.” We reserve tooth-grinding envy for people most like ourselves. Thomas Hobbes wrote that “if any two men desire the same thing, which nevertheless they cannot both enjoy, they become enemies; and in the way to their End… endeavor to destroy, or subdue one another.“
+
+莎士比亚并不是唯一识别恶性模仿冲动的作家。西格蒙德·弗洛伊德称两个相似的人之间的冲突倾向为 “小差异的自恋”。我们把磨牙式的嫉妒留给最像自己的人。托马斯·霍布斯写道：“如果任何两个人渴望同样的东西，但他们不能同时享受，他们就会成为敌人；在达到目的的过程中…… 努力摧毁或制服对方。”
+
 
 True to the observations of Shakespeare, Freud, and Hobbes, academics are famous for institutional elbow-knocking. 
 
+正如莎士比亚、弗洛伊德和霍布斯所观察到的那样，学术界以机构的肘击（竞争）而闻名。 
+
+
 Prestige-oriented environments can create nasty feuds over little prizes. A family friend named Julia tells a head-spinning story about her time at Columbia University. She couldn’t leave her books in the library. When she did, competing students often stole them. Not because they needed money or material goods, but because they felt surges of envy. Rather than absorbing the course material and preparing themselves for a life after college, students sabotaged their peers and shared false study guides. Relationships were shattered by sour resentment. Classmates could not be trusted, especially those who wanted to help. 
+
+以声望为导向的环境可能会因为小小的奖品而产生讨厌的争执。一位名叫朱莉娅的家庭朋友讲述了她在哥伦比亚大学的一段令人头疼的故事。她不能把书留在图书馆里。当她这样做时，竞争的学生经常偷书。不是因为他们需要钱或物质产品，而是因为他们感到羡慕。学生们没有吸收课程材料，为大学毕业后的生活做准备，而是破坏他们的同伴，分享虚假的学习指南。人际关系因酸楚的怨恨而破碎。同学们不能被信任，尤其是那些想帮忙的人。 
+
 
 As Julia’s story demonstrates, academic rivalries are vicious because they focus on hierarchies over knowledge. They bicker over trivial details and compete for a limited set of status-based titles. In each department, there can only be one chairman. In each university, one president. Speaking about the faculty relationships at Harvard, Henry Kissinger once said: “The battles were so ferocious because the stakes were so small.” By obsessing over their competitors, the faculty lost sight over the big picture and fought over the small scraps of superficial status games. The more they strived to be different, the more their actions mirrored each other. 
 
+正如朱莉娅的故事所表明的那样，学术竞争是恶性的，因为它们关注的是等级制度而不是知识。他们为琐碎的细节争吵，为有限的基于地位的头衔竞争。在每个系，只能有一个主席。在每所大学里，只有一位校长。谈到哈佛大学的教师关系，亨利·基辛格曾经说过。“战斗是如此激烈，因为利害关系是如此之小。” 通过迷恋他们的竞争对手，教师们失去了对大局的关注，并为表面的地位游戏的小碎片而争斗。他们越是力争与众不同，他们的行动就越是相互映衬。 
+
 Choose your enemies well. Like two children who fight for a toy, the more you fight somebody, the more you resemble your enemy. 
+
+好好选择你的敌人。就像两个孩子为一个玩具打架一样，你越是和别人打架，你就越像你的敌人。 
 
 ![26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg?w=750&ssl=1)
 
@@ -189,31 +261,66 @@ Choose your enemies well. Like two children who fight for a toy, the more you fi
 
 ### **Toys: Lessons from Rene Girard**    
 
+### **玩具。来自 Rene Girard 的教训**    
+
+
 I’ll be honest. When I first read about Mimetic Theory, I was skeptical. Girard’s ideas seemed trivial and I couldn’t find any evidence to support them. Then, I started seeing his ideas everywhere. Once I saw empirical evidence of Girard’s ideas, I started taking them seriously.  
+
+我说实话。当我第一次读到 “拟态理论” 时，我是持怀疑态度的。吉拉德的想法似乎很微不足道，我找不到任何证据来支持它们。然后，我开始到处看到他的想法。一旦我看到吉拉德思想的经验性证据，我就开始认真对待它们。  
+
 
 Mimetic Theory shines brightest in trivial everyday moments, such as watching children play with toys. First, you have to understand Mimetic Theory at an intellectual level. Then, you have to understand it at an emotional one. Until then, Girard’s ideas might feel like ancient and irrelevant ideas. Once you watch these ideas impact your family, your friends, and your coworkers, you will have the same revelation Peter Thiel had as a student in Girard’s class at Stanford.
 
+拟态理论在琐碎的日常时刻最闪亮，比如看孩子玩玩具。首先，你必须在知识层面上理解模仿理论。然后，你必须在情感上理解它。在那之前，吉拉德的想法可能会让人觉得是古老而不相关的想法。一旦你看到这些思想影响到你的家人、朋友和同事，你就会有和彼得·蒂尔在斯坦福大学吉拉德的课堂上作为学生时一样的启示。
+
+
 Girard observed that even when you put a group of kids together in a room full of toys, they’ll inevitably desire the same toy instead of finding their own toy to play with. A rivalry will emerge. Human see, human want. 
 
+吉拉德观察到，即使你把一群孩子放在一个充满玩具的房间里，他们也不可避免地会渴望得到同一个玩具，而不是找到自己的玩具来玩。一种竞争会出现。人类看到的，人类想要的。 
+
 Our capacity for imitation leads to envy. Babies’ interest in a particular toy has less to do with the toy itself and more to do with the fact that the other babies desire the toy. As soon as one child desires the toy, so do the others. Eventually, even though there are many toys available to play with, all the children want the same toy.
+
+我们的模仿能力导致了嫉妒。婴儿对某一玩具的兴趣与玩具本身关系不大，更多的是与其他婴儿对该玩具的渴望有关。只要有一个孩子想要这个玩具，其他孩子也会想要。最终，即使有许多玩具可供玩耍，所有的孩子都想要同一个玩具。
 
 * * *
 
 ### **Toys: Lessons from Joseph Henrich**
 
+### **玩具。约瑟夫-亨里奇的教训**
+
+
 Harvard anthropologist Joseph Henrich found empirical evidence for Girard’s observations about children and toys. In his book, [_The Secret of Our Success_](https://amzn.to/2K5gjZh)_,_ he shows that humans are cultural learners. Mimetic desire is innate, not learned. We copy other people spontaneously, automatically, and unconsciously. And we are especially likely to copy people who are more successful than us, especially in moments of difficulty or uncertainty. 
+
+哈佛大学人类学家 Joseph Henrich 为吉拉德关于儿童和玩具的观察找到了经验证据。在他的书中，[_ 我们成功的秘密 _](https://amzn.to/2K5gjZh)_，他表明，人类是文化学习者。模仿的欲望是与生俱来的，而不是学来的。我们自发地、自动地、无意识地模仿他人。而且我们特别容易模仿比我们更成功的人，特别是在困难或不确定的时刻。 
 
 Henrich illustrates our Mimetic nature by studying children and how they desire toys. Even at a young age, and especially in moments of confusion, they emulate people around them. In one study, Henrich found that babies engaged in social referencing four times more often when an ambiguous toy was placed in front of them. When faced with an ambiguous toy, babies altered their behavior based on adults’ emotional reactions. In their early years, babies depend on elders to navigate the world and outsource their decisions to them. 
 
+亨利奇通过研究儿童和他们对玩具的渴望来说明我们的模仿性。即使在很小的时候，特别是在困惑的时候，他们也会模仿周围的人。在一项研究中，亨利希发现，当一个模棱两可的玩具放在他们面前时，婴儿参与社会参考的频率要高四倍。当面对一个模棱两可的玩具时，婴儿根据成人的情绪反应改变了他们的行为。在他们的早期，婴儿依赖长辈来浏览世界，并将他们的决定外包给他们。 
+
+
 I can relate. Nothing piques a child’s desire like watching their friends receive a new toy. Throughout my childhood, I remember coming home to my parents to ask for new toys. Back when I needed a car seat to ride in a vehicle, I asked for Thomas the Tank Engine train sets. Once I could read and write, I asked for the same LeBron James jersey my friends had. And in my first month of college in North Carolina, I demanded the same “Nantucket Red” Vineyard Vines pants as my fraternity brothers. 
+
+我可以体会到。没有什么比看着他们的朋友收到新玩具更能激起孩子的欲望。在我的整个童年时期，我记得我回家向父母要新玩具。当我需要一个汽车座椅来乘坐车辆时，我就要求得到托马斯坦克引擎火车套件。一旦我能够阅读和书写，我就要求得到和我的朋友们一样的勒布朗·詹姆斯球衣。而在我在北卡罗来纳州上大学的第一个月，我要求和我的兄弟会兄弟一样穿 “楠塔基特红”Vineyard Vines 裤子。 
+
 
 None of these desires were my own. Looking back, these desires came from my peers. I wasn’t the only one. My friends’ desires moved in perfect synchronicity. Once one kid received a cool new toy, so did the rest of the group. When my parents wouldn’t buy me a toy, I shot back with Mimetic-fueled social proof: “But my friend Jeremy just got a new baseball glove and now I need one.” 
 
+这些欲望没有一个是我自己的。回头看，这些欲望来自我的同龄人。我并不是唯一的一个。我的朋友们的欲望在完美的同步性中移动。一旦一个孩子得到了一个很酷的新玩具，其他的孩子也会得到。当我的父母不给我买玩具的时候，我就用以模仿为动力的社会证明来反击。“但是我的朋友杰里米刚刚得到了一个新的棒球手套，现在我需要一个。” 
+
+
 Turns out, I’m not crazy. 
+
+事实证明，我没有疯。 
 
 Through toys, Girard and Henrich show how our tendency to desire the same scarce resources as our peers leads to envy and competition. 
 
+通过玩具，吉拉德和亨利希展示了我们渴望与同龄人一样的稀缺资源的倾向如何导致嫉妒和竞争。 
+
+
 Mimetic competition is visible in every aspect of social life. People shift their attention from the object of desire to the other person, and the drive to beat them. From bored students, to ambitious graduate school students, to empire-building business professionals, the objects we fight about change, but human nature doesn’t. 
+
+模仿竞争在社会生活的各个方面都是可见的。人们把注意力从欲望的对象转移到另一个人身上，并有动力去打败他们。从无聊的学生，到雄心勃勃的研究生，再到建立帝国的商业专家，我们争夺的对象在变化，但人性却没有变化。 
+
 
 * * *
 
