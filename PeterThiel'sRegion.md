@@ -427,17 +427,33 @@ Don’t copy your neighbors.
 * * *
 
 **Section 2: Time Moves Forward**
+
+**第 2 节：时间向前推移**。
 ---------------------------------
 
 _“The twentieth century was great and terrible, and the twenty-first century promises to be far greater and more terrible.” — Peter Thiel_
 
+_“二十世纪是伟大而可怕的，而二十一世纪有望变得更伟大、更可怕”。- 彼得·蒂尔 _
+
+
 In this section of the essay, we will depart from a focus on Thiel. Instead, we’ll explore Christianity and the history of time. By doing so, we will have the necessary context to frame Thiel’s worldview in the next section. 
+
+在文章的这一部分，我们将偏离对泰尔的关注。相反，我们将探讨基督教和时间的历史。通过这样做，我们将拥有必要的背景，以便在下一节中构建泰尔的世界观。 
+
 
 The Christian story begins with: “In the beginning, God created the heavens and the earth.” At its root, the story is about how the world went bad and how we can fix it. The world is broken because humans are broken. Human sin is responsible for the world’s evil, and our relationship with God is broken because it was ruined by human rebellion. God is the central character in the story. That’s why instead of worshiping things, Christians are instructed to worship their creator. God’s purposes are central, not theirs. Humans need to be ruled, and man must glorify its king. Only under God’s rule can man discover his deepest satisfaction and forever enjoy the Kingdom of Heaven. 
 
+基督教的故事是这样开始的：“起初，上帝创造了天和地”。从根本上讲，这个故事是关于世界如何变坏以及我们如何修复它。世界坏了是因为人类坏了。人类的罪要对世界的邪恶负责，而我们与上帝的关系因为被人类的反叛所破坏而破碎。上帝是这个故事的中心人物。这就是为什么基督徒被指示要敬拜他们的创造者，而不是敬拜事物。上帝的目的是中心，而不是他们的目的。人类需要被统治，人类必须荣耀其国王。只有在上帝的统治下，人类才能发现自己最深的满足，并永远享受天国。 
+
 The Resurrection is a symbol that someday, all wrongs will be made right. Christians do not take it as a symbol, but as a concrete fact. Christians say that if you believe in Jesus — that he was raised from the dead and is the Son of God — he will restore your life until every pain and heartache becomes untrue.
 
+复活是一个象征，有一天，所有的错误都会得到纠正。基督徒并不把它当作一个象征，而是当作一个具体的事实。基督徒说，如果你相信耶稣 —— 他从死里复活，是上帝的儿子 —— 他将恢复你的生活，直到每一个痛苦和心痛都变得不真实。
+
+
 Linear conceptions of time, and especially the idea of progress, emerged with Christianity. In a cyclical conception of time, the circle of time closes where it opened. There is no beginning or end. For example, the Hindu Vedas [teach](https://timothykeller.com/blog/2015/4/4/when-hope-and-history-rhyme) that the world spins along an endless cycle: creation, rise, decline, destruction, and rebirth. Even if the cycle repeats for millions of years, it will continue to spin forever. 
+
+线性的时间概念，特别是进步的概念，是随着基督教的出现而出现的。在一个周期性的时间概念中，时间的圆圈在它打开的地方就结束了。没有开始或结束。例如，印度教吠陀经[教导](https://timothykeller.com/blog/2015/4/4/when-hope-and-history-rhyme)，世界沿着一个无尽的周期旋转：创造、上升、下降、毁灭和重生。即使这个循环重复了几百万年，它也会一直旋转下去。 
+
 
 ![IMG_0287.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_0287.jpg?w=750&ssl=1)
 
@@ -445,7 +461,13 @@ Linear conceptions of time, and especially the idea of progress, emerged with Ch
 
 With a linear perspective, time moves from the past to the future. It begins with the Garden of Eden at the beginning of _The Bible_ and ends with the Kingdom of Heaven. 
 
+在线性视角下，时间从过去走到未来。它以《圣经》开头的伊甸园开始，以天国结束。 
+
+
 With Jesus as its savior, Christianity is the only religion that sees a human as the Son of God. When Jesus died on the cross, he paid for the sins of humanity so he could end evil and suffering. Jesus speaks of his return to earth in Matthew 19:28. He says: “I tell you the truth, at the renewal of all things, the Son of Man will sit on his glorious throne.” Instead of relying on a cyclical re-birth_,_ Jesus’ return will fix the material world by destroying all decay and brokenness. 
+
+以耶稣为救世主，基督教是唯一将人类视为上帝之子的宗教。当耶稣死在十字架上时，他为人类的罪孽付出了代价，因此他可以结束邪恶和痛苦。耶稣在《马太福音》19 章 28 节中谈到了他重返人间的事。他说：“我实在告诉你们，万物更新的时候，人子要坐在他荣耀的宝座上”。而不是依靠周期性的重生 _，_ 耶稣的回归将通过摧毁所有的腐烂和破碎来修复物质世界。 
+
 
 * * *
 
