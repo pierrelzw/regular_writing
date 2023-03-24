@@ -473,29 +473,67 @@ With Jesus as its savior, Christianity is the only religion that sees a human as
 
 ### **From Cyclical to Linear Time**
 
+### **从周期性时间到线性时间**。
+
+
 Religious or not, it’s worth studying Jesus Christ. He’s had more influence than anybody in human history. For example, Western Civilization divides time into two periods: before and after Jesus Christ. He’s a universal icon. 
+
+无论是否有宗教信仰，都值得研究耶稣基督。他的影响比人类历史上任何人都大。例如，西方文明将时间划分为两个时期：耶稣基督之前和之后。他是一个普遍的偶像。 
+
 
 In a letter called [_One Solitary Life_](http://www.john3-16.net/OneLife.htm)_,_ James Allen Francis wrote_:_ 
 
+在一封名为 [_One Solitary Life_](http://www.john3-16.net/OneLife.htm)_ 的信中，_James Allen Francis 写道 _：_ 
+
+
 > _“Twenty centuries have come and gone, and today he is the central figure of the human race. I am well within the mark when I say that all the armies that ever marched, all the navies that ever sailed, all the parliaments that ever sat, all the kings that ever reigned—put together—have not affected the life of man on this earth as much as that one, solitary life.”_
+
+> 20 个世纪过去了，今天，他是人类的核心人物。我说，所有曾经出征的军队、所有曾经航行的海军、所有曾经开会的议会、所有曾经在位的国王 —— 加在一起 —— 都没有像那个孤独的生命那样对地球上的人的生活产生影响，这话很有道理。
+
 
 Earlier this year, I attended a series of _Questioning Christianity_ lectures in New York City. Every Thursday, Tim Keller spoke about the core tenets of Christianity: faith, meaning, satisfaction, identity, morality, justice, and hope. In one of his talks, he spoke about the human transition from hope to optimism. From praying for a better world to working hard to ensure a better future. In the sermon, Keller argued that humans are future-oriented beings. If we don’t have a positive vision for our future, we become slaves to the desires of the present day and crumble under the suffering of daily life. That’s why we need to believe that our lives are marching towards an end that’s worth striving for. Otherwise, we will become adrift like a log in the ocean. 
 
+今年早些时候，我参加了在纽约市举行的一系列 _ 质疑基督教 _ 的讲座。每周四，蒂姆·凯勒都会讲述基督教的核心信条：信仰、意义、满足、身份、道德、正义和希望。在他的一次讲座中，他谈到了人类从希望到乐观的转变。从祈求一个更好的世界到努力工作以确保一个更好的未来。在讲道中，凯勒认为，人类是面向未来的生物。如果我们对未来没有一个积极的愿景，我们就会成为现今欲望的奴隶，并在日常生活的痛苦中崩溃。这就是为什么我们需要相信我们的生活正朝着一个值得奋斗的目标迈进。否则，我们就会像大海中的木头一样漂流。 
+
+
 In his final lecture, Keller quoted Robert Nisbet, the author of [_The History of the Idea of Progress_](https://amzn.to/2lfNHnn)_._ In it, Nisbet argues that ancient people saw time as cyclical, and no idea has been more important to Western Civilization than the idea of progress. 
+
+在他的最后一次演讲中，凯勒引用了[进步思想的历史](https://amzn.to/2lfNHnn)_ 的作者罗伯特·尼斯特的话。尼斯特在其中认为，古代人将时间视为周期性的，没有任何思想比进步思想对西方文明更重要。 
+
 
 The Ancients assumed that humanity was doomed to cycles of pessimism. Even if they held ideas of moral, spiritual, and material improvement, the idea that humanity can improve itself, step-by-step and stage-by-stage into an earthly paradise is uniquely Western. Christian theology sees time as linear. It moves away from the Garden of Eden, and toward a day of judgement, justice, and the establishment of a divine, peace-filled kingdom. 
 
+古人认为，人类注定要陷入悲观的循环之中。即使他们持有道德、精神和物质改善的想法，人类可以改善自己，一步一步地、分阶段地进入人间天堂的想法是西方特有的。基督教神学认为时间是线性的。它远离伊甸园，走向审判、正义和建立一个神圣的、充满和平的王国的日子。 
+
+
 The linear perspective on time was born out of Greek philosophy. Controversial at the time, writers like Seneca wrote that mankind had advanced in the past, and will continue to advance in the future. But the idea of progress did not crystallize until St. Augustine. His book, _The City of God,_ was the first full-blown philosophy of world history. By fusing the Greek idea of growth with the Jewish idea of sacred history, St. Augustine introduced a Christianity-inspired linear theory of humanity. He believed in the unity of mankind, a succession of fixed stages of human development, the assumption that all that has happened and will happen is necessary, and the vision of a future condition of heaven on earth. 
 
+关于时间的线性观点诞生于希腊哲学。在当时是有争议的，像塞涅卡这样的作家写道，人类在过去取得了进步，并将在未来继续进步。但进步的概念直到圣奥古斯丁才具体化。他的《上帝之城》一书是第一个完整的世界历史哲学。通过融合希腊的成长思想和犹太的神圣历史思想，圣奥古斯丁提出了一个受基督教启发的人类线性理论。他相信人类的统一性，人类发展的固定阶段的连续性，假设所有已经发生和将要发生的事情都是必要的，以及对未来地球上的天堂状况的展望。 
+
+
 Through a belief in Redemption, Christians turned their minds to the supernatural and adopted a belief in an eternal heaven. Nisbet writes: 
+通过对救赎的信仰，基督徒将他们的思想转向超自然，并采用了对永恒天堂的信仰。尼斯贝特写道： 
+
 
 > _“Of all the contributions to the idea of progress by Christian thought, none is greater than this Augustinian suggestion of a final period on earth, utopian in character, and historically inevitable.”_
 
+> _“在基督教思想对进步观念的所有贡献中，最伟大的莫过于奥古斯丁关于地球上最后时期的建议，它具有乌托邦性质，而且在历史上是不可避免的。” _
+
+
 Christian ideals of progress are sprinkled throughout _The City of God_. At the end of his book, St. Augustine refers to the seven stages of early history. The last, still-yet-to-come stage will consist of peace and happiness on earth. He wrote that as a result of the inevitable historical development from the primitive world of the Garden of Eden, those who put their faith in Christ will experience an earthly paradise. ¹ 
+
+基督教的进步理想贯穿了《上帝之城》。在书的最后，圣奥古斯丁提到了早期历史的七个阶段。最后一个仍未到来的阶段将包括地球上的和平与幸福。他写道，作为从伊甸园的原始世界开始的不可避免的历史发展的结果，那些把他们的信仰放在基督里的人将经历一个人间天堂。¹ 
+
 
 Beginning with the Greeks and accelerated by the Christian writers such as St. Augustine, Western philosophy is defined by the march towards heavenly perfection. People in the West see progress, evolution, and innovation as synonyms. We assume that increased freedom and knowledge is limited only by the passage of time and an active commitment to creating a better future. Like a law of nature, progress was as inevitable as cherry blossoms in the spring.
 
+从希腊人开始，在圣奥古斯丁等基督教作家的推动下，西方哲学被定义为向天堂般的完美迈进。西方人将进步、进化和创新视为同义词。我们认为，自由和知识的增加只受限于时间的推移和对创造更美好未来的积极承诺。像自然规律一样，进步就像春天的樱花一样不可避免。
+
+
 If time is cyclical, the future will look like the present. The arrow of time points back towards its origin and ends where it began. Taken to the extreme, cyclical perspectives on time implicitly remove human agency. No matter what you do, the world will return to its original state. 
+
+如果时间是周期性的，未来将看起来像现在。时间的箭头指向它的起源，并在它开始的地方结束。如果走到极端，关于时间的周期性观点隐含着消除人类的作用。无论你做什么，世界都会回到它的原始状态。 
+
 
 ![IMG_AEC1FBA9C6F6-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_AEC1FBA9C6F6-1.jpeg?w=750&ssl=1)
 
