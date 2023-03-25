@@ -543,15 +543,33 @@ If time is cyclical, the future will look like the present. The arrow of time po
 
 ### **Girardian Sacrifice: How Violence Stops Violence**
 
+  暴力如何阻止暴力**
+
+
 Once Tim Keller’s lectures were over and I understood Nisbet’s philosophy of progress, I turned to a series of Rene Girard interviews. As I started reading, I was shocked to see Nisbet’s idea of progress fit Girard’s theory of Mimetics like a pair of puzzle pieces. 
+
+一旦蒂姆·凯勒的讲座结束，我理解了尼斯贝特的进步哲学，我就转向了雷内·吉拉德的一系列访谈。当我开始阅读时，我震惊地发现尼斯贝特的进步思想就像一对拼图一样适合吉拉德的 “模仿学” 理论。 
+
 
 The similarities are stunning. Girard saw sacrifice and the scapegoat mechanism as the reason for Christianity and the center of human culture. The Christian story is the ultimate Girardian ritual because Jesus is a classic scapegoat, but with an all-important twist. Where previous myths were told from the perspective of the community, the Christian story is told from the perspective of the victim. And according to Girard, this is the essence of biblical revelation. The Gospels classify Jesus as a scapegoat. True to the scapegoat phenomenon, Jesus is not killed by the Romans, the Jewish priests, or by the crowd alone, but by everybody. The death of Jesus, like a scapegoat ritual, is a collective and community murder. 
 
+这些相似之处令人震惊。吉拉德将牺牲和替罪羊机制视为基督教的原因和人类文化的中心。基督教的故事是吉拉德的终极仪式，因为耶稣是一个典型的替罪羊，但有一个非常重要的转折。以前的神话是从社区的角度讲述的，而基督教的故事则是从受害者的角度讲述的。而根据吉拉德的说法，这是圣经启示的本质。福音书将耶稣归为替罪羊。忠实于替罪羊现象，耶稣不是被罗马人、犹太祭司或人群单独杀死的，而是被所有人杀死的。耶稣的死，就像替罪羊的仪式一样，是一种集体和社区的谋杀。 
+
+
 Like all scapegoat victims, Jesus is killed despite his innocence. Christianity reveals the radical injustice of the scapegoat phenomenon. All scapegoats are both insiders and outsiders. At once, they must be insider enough to be part of the community, but outsider enough to blame for the community’s problems. As the Gospel of _John_ says: “It is better for one man to die for the people, than for the whole nation to be destroyed… They hated me for no reason.”
+
+像所有替罪羊的受害者一样，尽管耶稣是无辜的，但他还是被杀了。基督教揭示了替罪羊现象的根本不公正性。所有的替罪羊既是内部人又是外部人。同时，他们必须是内部人，足以成为社区的一部分，但又是外部人，足以为社区的问题负责。正如《约翰福音》中所说："一个人为百姓死，总比整个国家灭亡好......他们无缘无故地恨我。"
+
 
 Sacrifice is a social event. Without sacrifice, human beings wouldn’t have a culture. All human societies are built around religion because it’s the only way to peacefully work with the scapegoat mechanism. When humans engage in a Mimetic crisis, the violence can only be fixed by murdering the scapegoat. This process of killing the victim again and again is the main peace pill in an archaic society. People perform ritual sacrifices together, and when a priest is appointed to kill a victim, he kills the victim in the name of the whole community. After all, a community can’t scapegoat somebody unless it thinks the scapegoat is guilty. That’s why scapegoating has to be unconscious. Once the group ritual is performed, violence is repelled and peace is restored for the community. 
 
+牺牲是一个社会事件。没有牺牲，人类就不会有文化。所有的人类社会都是围绕着宗教而建立的，因为这是唯一能与替罪羊机制和平共处的方法。当人类陷入美学危机时，暴力只能通过谋杀替罪羊来解决。这种一次又一次地杀害受害者的过程是古老社会获得和平的解药。人们一起进行祭祀活动，当一个牧师被指定要杀死一个受害者时，他就以整个社区的名义杀死这个受害者。毕竟，除非社区认为替罪羊是有罪的，否则它不可能将某人作为替罪羊。这就是为什么替罪羊必须是无意识的。一旦进行了团体仪式，暴力就会被击退，社区就会恢复和平。 
+
+
 Ritual protects communities from the great violence of Mimetic disorder thanks to the real and symbolic violence of sacrifice. Girard said “sacrificial systems _contain_ violence.” His message has two meanings. Violence is the disease _and_ the cure for the disease. Sacrificial ritual is always violent. And yet, since the real and symbolic violence of sacrifice restores peace in the community, it prevents the escalation of runaway Mimetic violence. In that way, humanity contains violence with violence because sacrifice saves the community from its own violence. 
+
+由于牺牲的真实和象征性的暴力，仪式保护社区不受模仿性无序的巨大暴力影响。吉拉德说 “祭祀系统 _ 包含着暴力”。他的信息有两层意思。暴力是疾病 _ 和治疗疾病的方法。祭祀仪式总是暴力的。然而，由于牺牲的真实和象征性暴力恢复了社区的和平，它防止了失控的模仿性暴力的升级。这样一来，人类就用暴力包含了暴力，因为牺牲把社会从自己的暴力中拯救出来。 
+
 
 ![IMG_140381BF3BD0-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_140381BF3BD0-1.jpeg?w=750&ssl=1)
 
@@ -561,15 +579,33 @@ Ritual protects communities from the great violence of Mimetic disorder thanks t
 
 ### **How Time Relates to Girardian Sacrifice**
 
+### **时间如何与吉拉德的牺牲有关**。
+
+
 It’s hard to gauge the impact of various philosophies of time. Even as I argue for it, I’m skeptical that a linear perspective on time is a meaningful driver of innovation and technological progress. And yet, my skepticism is balanced by my own relationship with my future self. 
+
+很难衡量各种时间哲学的影响。即使在我为之争辩的时候，我也怀疑关于时间的线性观点是创新和技术进步的一个有意义的驱动力。然而，我的怀疑态度被我自己与未来的自己的关系所平衡。 
+
 
 Creating explicit images of my future has made me healthier, happier, and much more productive. I re-write my 25-year vision multiple times per year. Then, twice a month, I meet with a personal coach to make sure my short-term actions sync up with my long-term goals. By treating my future self with the same respect as my current self, I’m better able to ignore the nagging impulses of the moment and work towards a better future for myself and humanity. 
 
+为我的未来创造明确的图像，使我更健康、更快乐、更有成效。我每年都会多次重写我的 25 年愿景。然后，每月两次，我与个人教练会面，以确保我的短期行动与长期目标相一致。通过对未来的自己和现在的自己给予同样的尊重，我能够更好地忽略当下的唠叨冲动，为自己和人类的美好未来而努力。 
+
+
 Fueled by a healthy skepticism, I’d love to see two studies. The first one would track the relationship between technological progress and conceptions of time. Scientists would ask proxy questions for determining a culture’s time horizon, and use it to evaluate its impact on productivity growth. The second study would measure the relationship between urban life and farm life. In my recent podcast conversation with Jason Zweig, he shared his experience growing up on a farm in upstate New York. Farm life encourages cyclical thinking in a way city life doesn’t. On a farm, you’re mesmerized by simple pleasures: the movement of the sun, the turn of the seasons, and the emotions of the turbulent skies. Aside from violent rainstorms and purple-painted sunsets, synthetic city environments take us away from nature. I suspect that people in cities are more likely to see time as linear, while people who grow up in nature see its cyclical traits, such as the rise of the sun, the seasonal thunderstorms, and the changing of the seasons. 
+
+在健康怀疑主义的推动下，我很想看到两项研究。第一项研究将追踪技术进步和时间概念之间的关系。科学家们会提出一些代理问题来确定一种文化的时间范围，并利用它来评估其对生产力增长的影响。第二项研究将衡量城市生活和农场生活之间的关系。在我最近与杰森·茨威格的播客谈话中，他分享了他在纽约州北部的一个农场长大的经历。农场生活鼓励周期性思维，而城市生活则不然。在农场里，你会被简单的快乐所吸引：太阳的移动、季节的交替和动荡的天空的情绪。除了剧烈的暴雨和紫色的夕阳，合成的城市环境让我们远离自然。我怀疑城市里的人更容易把时间看成是线性的，而在自然界长大的人则看到了它的周期性特征，比如太阳的升起、季节性的雷暴和季节的变化。 
+
 
 Likewise, ancient cultures saw time like an endless wheel. They believed that every so often, the universe would wind down and burn up, and after this re-birth, history would begin again. And everything, from our bodies to our souls, would be purified. Relative to the Christian tradition, this philosophy assumes the futility of long-term progress. 
 
+同样地，古代文化把时间看作是一个无尽的轮子。他们相信，每隔一段时间，宇宙就会关闭并燃烧起来，在这次重生之后，历史将重新开始。而一切，从我们的身体到我们的灵魂，都将得到净化。相对于基督教传统，这种哲学假定长期进步是徒劳的。 
+
+
 Girard offers a historical perspective for the transition from cyclical time to linear time. He identified a cyclical loop: First, when a scapegoat is sacrificed, peace is restored in the community. Then, the culture lives peacefully for a short time. But eventually, tensions flare and violence returns to the community. To restore the peace, a new scapegoat must be named and sacrificed, which re-starts the sacrificial loop. 
+
+吉拉德为从周期性时间到线性时间的过渡提供了一个历史视角。他确定了一个周期性的循环： 首先，当一个替罪羊被牺牲后，社区恢复了和平。然后，文化在短时间内和平地生活。但最终，紧张局势爆发，暴力又回到了社区。为了恢复和平，必须命名和牺牲一个新的替罪羊，这就重新开始了牺牲的循环。 
+
 
 ![IMG_008CF1AC84F7-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_008CF1AC84F7-1.jpeg?w=750&ssl=1)
 
@@ -579,62 +615,146 @@ Girard offers a historical perspective for the transition from cyclical time to 
 
 ### **How Linear Time Drives Progress and Long-Term Thinking**
 
+### **线性时间是如何推动进步和长期思维的**。
+
+
 To Peter Thiel, short-term thinking is the essence of sin. Like _The Bible_, he advises us to make plans and sacrifice the present for the future. Greatness is like chess. To win, you must study the end game and work towards the one you want to see. Thiel’s favorite chess player was José Raúl Capablanca who [said](https://amzn.to/2JSBbo5): “To begin you must study the end. You don’t want to be the first to act, you want to be the last man standing.” 
+
+在彼得·泰尔看来，短期思维是罪恶的本质。像 _ 圣经 _ 一样，他建议我们制定计划，为未来牺牲现在。伟大就像国际象棋。要想获胜，你必须研究最终的游戏，并朝着你想看到的方向努力。泰尔最喜欢的棋手是何塞·劳尔·卡帕布兰卡，他[说]（https://amzn.to/2JSBbo5）：“要想开始，就必须研究结局。你不想成为第一个行动的人，你想成为站在最后的人”。 
+
 
 Thiel says a bad plan is better than no plan at all. Having no plan is chaotic. He supports people who trade the shiny mirage of short-termism for the calm, controlled grace of a long time horizon. Like Capablanca, they are the kinds of people who study the end-game and work backwards from there. 
 
+泰尔说，一个糟糕的计划总比没有计划要好。没有计划是混乱的。他支持那些用短期的闪亮的海市蜃楼换取长期的平静、可控的优雅的人。像卡帕布兰卡一样，他们是那种研究最终游戏并从那里向后努力的人。 
+
+
 In a thought-provoking essay called [_Peter Thiel and the Cathedral_](https://www.patheos.com/blogs/inebriateme/2014/06/peter-thiel-and-the-cathedral/)_,_ Pascal-Emmanuel Gobry argues that Cathedrals were the equivalent of the Apollo project in the High Middle Ages. Like America’s Apollo program, each Cathedral required a specific and ambitious plan for building it. Medieval cathedrals were the first man-made structures to soar higher than the Egyptian Pyramids, which were monuments to death. But cathedrals are dedicated to the triumph over death. Moreover, cathedrals can only be built with scientific knowledge and communal support. They require scientists, mathematicians, engineers, craftsmen, and artists. And all of them need a long time horizon.  
+
+在一篇名为 [_Peter Thiel and the Cathedral_](https://www.patheos.com/blogs/inebriateme/2014/06/peter-thiel-and-the-cathedral/)_ 的发人深省的文章中，_ Pascal-Emmanuel Gobry 认为，大教堂相当于中世纪高层的阿波罗计划。就像美国的阿波罗计划一样，每座大教堂都需要一个具体而雄心勃勃的建设计划。中世纪的大教堂是第一个比埃及金字塔更高的人造建筑，金字塔是死亡的纪念碑。但大教堂是为战胜死亡而建的。此外，大教堂只有在科学知识和社区支持下才能建造。它们需要科学家、数学家、工程师、工匠和艺术家。而且所有这些人都需要一个很长的时间跨度。  
+
 
 Long time horizons aren’t just psychological. They’re cultural. Modern society suffers from temporal exhaustion. Or as, sociologist Elise Boulding once said: “If one is mentally out of breath all the time from dealing with the present, there is no energy left for imagining the future.” 
 
+长时间的视野不仅仅是心理上的。它们是文化的。现代社会遭受着时间上的疲惫。或者正如社会学家 Elise Boulding 曾经说过的： "如果一个人因为处理现在的事情而在精神上一直喘不过气来，那么就没有精力去想象未来了。 "
+
+
 As I’ve [written](https://perell.com/essay/never-ending-now) before, the speed of technology and the hyperconnectivity of society have placed us in a “never-ending now.” Like hamsters running on a wheel, we live in an endless cycle of ephemeral content consumption — a merry-go-round that spins faster and faster but never goes anywhere. Even the virtues of information consumption have changed. Most people I know care more about being informed than being well read. By focusing on the desperate screams of moody news anchors and not the books you’ll find in libraries, they let the culture’s moods dictate their own. The news has swept us into a dizzying chaos. When we whirl in its vortex, we become overwhelmed by the slightest breeze of chaos and lose sight of our place in history. 
+
+正如我以前[写过的](https://perell.com/essay/never-ending-now)，技术的速度和社会的超级连接性使我们处于一个 “永不停息的现在”。就像在轮子上跑的仓鼠一样，我们生活在一个无休止的短暂内容消费的循环中 —— 一个旋转得越来越快但永远不会有结果的旋转木马。甚至信息消费的美德也发生了变化。我认识的大多数人更关心的是如何获得信息，而不是如何阅读。通过关注喜怒无常的新闻主播的绝望尖叫，而不是你在图书馆找到的书籍，他们让大众文化的情绪支配自己的情绪。新闻把我们卷进了一个令人眩晕的混乱中。当我们在它的漩涡中打转时，我们会被最轻微的混乱之风所淹没，并忽略了我们在历史中的位置。 
+
 
 For the opposite perspective, consider the Japanese. Some of its citizens recently [witnessed](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years) the 66th cycle of a ritual that began more than 13 centuries ago. In a city called Ise, people have been rebuilding the grand Jingu shrine with wood and thatch since the 7th century. This Shinto ritual does more than keep the structure intact. It helps the master temple builder train the next generation and injects participants with a long-time horizon. This Japanese commitment to maintenance allows it to sustain structures and rituals for millennia. We shouldn’t be surprised that Japan is home to most of the oldest companies in the world. 
 
+对于相反的观点，可以考虑日本人。它的一些公民最近[见证](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years)了一个始于 13 个多世纪前的仪式的第 66 个周期。在一个叫伊势的城市，自 7 世纪以来，人们一直在用木材和茅草重建宏伟的神宫。这种神道教仪式不仅仅是为了保持结构的完整。它帮助寺庙建造者大师培训下一代，并为参与者注入长期的视野。日本人对维护的这种承诺使其能够维持结构和仪式数千年之久。我们不应该对日本是世界上大多数最古老的公司的所在地感到惊讶。 
+
+
 With that said, I don’t endorse the Japanese perspective in all its forms. The country is not as innovative as it once was. When I speak with friends who do business there, they complain about the rigid hierarchies and the inability to take risks. Instead of copying the Japanese commitment to long-term thinking, we should learn from it and use Christian-theology to build upon it. 
+
+话虽如此，我并不赞同日本人所有形式的观点。这个国家已经不像以前那样具有创新性。当我与在那里做生意的朋友交谈时，他们抱怨僵化的等级制度和无法承担风险的情况。我们不应该照搬日本人对长期思维的承诺，而是应该向它学习，并利用基督教神学在它的基础上发展。 
+
 
 Thiel concludes that time is linear, not cyclical. The future won’t look like the present. It will either be much worse or much better. Or more explicitly, “stagnation leads straight to apocalypse.” If we don’t, we’ll suffer from limitless Mimetic violence; and if things go well, we might find our place in God’s peaceful kingdom. 
 
+泰尔的结论是，时间是线性的，不是循环的。未来不会像现在这样。它要么会更糟糕，要么会好得多。或者更明确地说，“停滞不前会直接导致启示录”。如果我们不这样做，我们将遭受无限的模仿暴力；如果事情进展顺利，我们可能在上帝的和平王国中找到自己的位置。 
+
+
 Informed by its linear conception of time and the Christian image of heaven, Thiel applauds the grand visions of yesterday’s leaders. Modern presidents no longer inspire Americans with positive visions of the future. The visions of the past weren’t just ambitious. They were clear and specific. Unfortunately, there is no modern equivalent of the Manhattan Project, the Apollo Project, or Nixon’s 1974 plan to defeat cancer by the end of the decade. 
+
+受其线性的时间概念和基督教的天堂形象的影响，泰尔为过去的领导人的宏伟愿景鼓掌。现代总统不再以对未来的积极愿景来激励美国人。过去的愿景不仅仅是雄心勃勃。它们是清晰而具体的。不幸的是，现代没有曼哈顿计划、阿波罗计划或尼克松 1974 年提出的在十年内战胜癌症的计划。 
+
 
 Christians were the first group to reject cyclical time. They shouted that the future could be meaningfully better than the past. By doing so, they initiated a positive feedback loop, where progress led to progress, which led to more progress. 
 
+基督徒是第一个拒绝周期性时间的群体。他们大声疾呼，未来可能比过去更有意义。通过这样做，他们启动了一个正反馈循环，即进步导致进步，而进步又导致更多的进步。 
+
+
 Guided by this belief in the possibility of progress, Christians follow a high-resolution painting of a perfect future. It’s as if humanity is on a mission. They believe humans are here to reflect God’s light onto the world. Instead of returning to the Garden of Eden, humanity will march forward, from the past to the future, and create “a new heaven and a new earth.”
+
+在这种对进步的可能性的信念的指导下，基督徒们追随一幅高分辨率的完美未来画。这就好像人类在执行任务一样。他们相信人类在这里是为了将上帝的光辉反射到世界上。人类不是要回到伊甸园，而是要向前迈进，从过去到未来，创造 “新天新地”。
+
 
 * * *
 
 **Section 3: The Future will Be Different From the Present**
+
+**第 3 节：未来将与现在不同**。
+
 ------------------------------------------------------------
 
 _“And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.”_ — Revelation 21:1
 
+我看见一个新天，一个新地，因为头一个天和头一个地都过去了，不再有海。
+
+
 _“The cliche goes like this; live each day as if it were your last. The best way to take this advice is to do exactly the opposite: live each day as if you would live forever.” —_ Peter Thiel
+
+“老生常谈” 是这样说的：把每一天当作最后一天来过。接受这个建议的最好方法是做完全相反的事情：把每一天都当作你会永远活着一样来过。"  —— 彼得·蒂尔
+
 
 ### **A New Heaven and a New Earth**
 
+### **新天堂和新地球**
+
+
 The _Book of Revelation_ is the last chapter in the New Testament. In this section, I interpret it in a way that supports the rest of Thiel’s conclusions. Inevitably, I have misspoken here. If I met Thiel, this is the section I would focus on. It’s foundational to Thiel’s worldview and I’ve never heard him speak about this section of _The Bible_ in public. 
+
+《启示录》是《新约》的最后一章。在本节中，我以支持泰尔其他结论的方式来解释它。不可避免地，我在这里说错了话。如果我遇到泰尔，这就是我将重点关注的部分。它是泰尔世界观的基础，我从未听过他在公开场合谈论《圣经》的这一部分。 
+
 
 Here’s what I do know: Thiel is trying to save the world from apocalypse. 
 
+以下是我所知道的： 泰尔正试图将世界从启示录中拯救出来。 
+
+
 _The Book of Revelation_ paints two outcomes for the future of humanity: catastrophic apocalypse or a new heaven and a new earth. Some of the Christians I know believe that humans aren’t literally taken out of this world and transported into heaven. Instead, as explained in _Revelations 21_, heaven comes down to earth. According to this vision, humanity will be cleansed, renewed and perfected. The horrors of the world will be undone. People will receive the lives they’ve always wanted. All evils will be repaired, and the pain of existence will vanish like evaporating water after a thunderstorm. Better yet, the joy and glory of a world after redemption will be greater because humans have suffered to reach it.
+
+启示录》为人类的未来描绘了两种结果：灾难性的启示录或新天新地。我认识的一些基督徒认为，人类并不是真的被带出这个世界而进入天堂。相反，正如《启示录》第 21 章所解释的那样，天堂降到了地上。根据这一设想，人类将得到净化、更新和完善。世界上的恐怖将被消除。人们将获得他们一直想要的生活。所有的罪恶将被修复，生存的痛苦将像雷雨后蒸发的水一样消失。更妙的是，救赎后的世界的喜悦和荣耀将更大，因为人类为达到这个世界而受苦。
+
 
 I suspect Thiel holds this philosophy. To Thiel, _The Book of Revelation_ is more than a metaphor. It’s a playbook for guiding humanity from the garden of the past to the city of the future.
 
+我怀疑泰尔持有这种理念。对泰尔来说，_《启示录》不仅仅是一个隐喻。它是一本指导人类从过去的花园到未来的城市的游戏手册。
+
+
 As Thiel once [wrote](https://play.google.com/store/books/details?pcampaignid=books_read_action&id=nv_EshzTdXEC):
+
+正如泰尔曾经[写的]（https://play.google.com/store/books/details?pcampaignid=books_read_action&id=nv_EshzTdXEC）：
+
 
 > _“For Girard, this combination of mimesis and the unraveling of archaic culture implies that the modern world contains a powerfully apocalyptic dimension.”_
 
+> _"对吉拉德来说，这种模仿和古代文化的解体的结合，意味着现代世界包含着一个强大的世界末日的维度。
+
+
 Under globalization, Thiel believes that the probability of a civilization-ending apocalypse is increasing. Just because we no longer believe that Zeus can strike humans with sky-lighting thunderbolts, doesn’t mean that existential risk isn’t possible. Like Girard, he worries that the world is becoming more Mimetic. Worse, globalization is raising the threat of runaway mimesis and an apocalyptic world with cold corpses, dead horses, and splintered guns. 
+
+在全球化下，泰尔认为，文明终结的启示录的概率正在增加。虽然我们不再相信宙斯可以用天光雷电打击人类，但这并不意味着存在的风险不可能发生。像吉拉德一样，他担心这个世界正变得更加 “模拟化”。更糟糕的是，全球化正在提高模仿失控的威胁，以及一个有冰冷的尸体、死马和分裂的枪支的世界末日。 
+
 
 In an essay called [_The Optimistic Thought Experiment_](https://www.hoover.org/research/optimistic-thought-experiment), Thiel advises us to build the modern equivalent of Noah’s ark, so we can survive the floods of Girardian evil. Thiel fears that due to technologies like nuclear weapons, humans are already capable of destroying the world. With modern technology, a tiny number of people are capable of inflicting unprecedented levels of damage and death with the push of a single button. That though, doesn’t mean we should stop innovating. A lack of progress leads straight to a bleak, ravaged, and apocalyptic world. He [writes](https://www.hoover.org/research/optimistic-thought-experiment): 
 
+在一篇名为 [_The Optimistic Thought Experiment_](https://www.hoover.org/research/optimistic-thought-experiment)的文章中，泰尔建议我们建造相当于诺亚方舟的现代产品，这样我们就能在吉拉德邪恶的洪水中幸存下来。泰尔担心，由于核武器等技术的存在，人类已经有能力毁灭世界。有了现代技术，只要按下一个按钮，极少数人就能造成前所未有的破坏和死亡。不过，这并不意味着我们应该停止创新。缺乏进步会直接导致一个暗淡的、被蹂躏的和世界末日般的世界。他[写道]（https://www.hoover.org/research/optimistic-thought-experiment）： 
+
+
 > _“The entire human order could unravel in a relentless escalation of violence — famine, disease, war, and death. The final book of the Bible, the Book of Revelation, even gives a name and a place: The Battle of Armageddon in the Middle East is the great conflagration that would end the world. Against this future, it is far better to save one’s immortal soul and accumulate treasures in heaven, in the eternal City of God, than it is to amass a fleeting fortune in the transient and passing City of Man.”_
+
+> _“整个人类秩序可能在无情的暴力升级中解体 —— 饥荒、疾病、战争和死亡。圣经》的最后一本书《启示录》甚至给出了一个名字和一个地点： 中东的 "末日之战" 是结束世界的大灾难。面对这样的未来，拯救自己不朽的灵魂，在天堂，在永恒的上帝之城积累财富，远胜于在短暂的人之城积累短暂的财富"。
+
 
 Here, Thiel encourages us to be specific about the long-term future we want to create. Here, he counters the secular and Eastern philosophy. Under the secular mindset, there is no transcendent future after death. This is it. You have one life. Similarly, according to Eastern religions, we lose our individuality and lose our material lives so we can become part of the whole again. But Christianity offers a different perspective: work for the fruits of eternity instead of chasing the fleeting pleasures of the day. Don’t place too much weight on the present moment. Instead of focusing on meaningless scandals, endless political dramas, or the limitless accumulation of wealth, we should focus on the impending catastrophe at the end of the road. Work to prevent runaway Girardian violence. That way, when the Day of Judgement comes, we’ll lean towards the side of the good. 
 
+在这里，泰尔鼓励我们具体了解我们想要创造的长期未来。在这里，他反驳了世俗和东方哲学。在世俗的思维方式下，死后没有超然的未来。这就是它。你只有一次生命。同样，根据东方宗教，我们失去了我们的个性，失去了我们的物质生活，所以我们可以再次成为整体的一部分。但基督教提供了一个不同的视角：为永恒的果实而努力，而不是追逐当下短暂的快乐。不要太看重当下的时刻。与其关注毫无意义的丑闻、无休止的政治剧或财富的无限积累，我们不如关注道路尽头即将发生的灾难。努力防止失控的吉拉德暴力。这样，当审判日到来时，我们会倾向于善的一方。 
+
+
 If there was ever a silver bullet, Thiel believes living with a long time horizon is it. 
 
+如果说有什么灵丹妙药的话，泰尔认为生活中的长线就是它。 
+
+
 Whether the future is better or worse will depend on our actions. Like Girard, Thiel, believes that Western political philosophy cannot cope with global violence. In 2004, three years after 9/11, Thiel sponsored a philosophical conference called “On Politics and Apocalypse.” Thiel contributed an essay called _The Straussian Moment._ In it, he tried to find common ground between Girard’s Mimetic theory and the work of two right-wing political philosophers: Leo Strauss and Carl Schmitt. He argued that the issue of violence and existential risk has not been taken seriously enough since the Enlightenment. 
+
+未来是好是坏，取决于我们的行动。与吉拉德一样，泰尔认为西方政治哲学无法应对全球暴力。2004 年，在 911 事件发生三年后，泰尔主办了一个名为 “论政治与启示” 的哲学会议。泰尔发表了一篇名为《施特劳斯时刻》的文章，他试图在吉拉德的模拟理论和两位右翼政治哲学家的工作之间找到共同点： Leo Strauss 和 Carl Schmitt。他认为，自启蒙运动以来，暴力和生存风险的问题没有得到足够的重视。 
+
 
 Here are Thiel’s words: 
 
