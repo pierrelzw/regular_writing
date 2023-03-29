@@ -1087,76 +1087,170 @@ In an essay called [_The Trouble with Optionality_,](https://www.thecrimson.com/
 
 Optionality is a means to an end, not the end itself. Our obsession with optionality can backfire. In theory, these safety nets give them freedom. Bolstered by the confidence of security, they can jump head-first into ambitious projects. In practice, they become habitual acquirers of safety nets and never work on anything of substance. The longer they spend acquiring options, the harder it is to stop.
 
+选择性是达到目的的一种手段，而不是目的本身。我们对选择权的迷恋会适得其反。在理论上，这些安全网给了他们自由。在安全感的支持下，他们可以一头扎进雄心勃勃的项目。在实践中，他们成为安全网的习惯性获取者，而从不从事任何实质性的工作。他们花在获取选择上的时间越长，就越难停止。
+
+
 Desai advises:
+德赛建议说：
 
 > _“The shortest distance between two points is reliably a straight line. If your dreams are apparent to you, pursue them. Creating optionality and buying lottery tickets are not weigh stations on the road to pursuing your dreamy outcomes. They are dangerous diversions that will change you.”_
 
+> _“两点之间的最短距离可靠地是一条直线。如果你的梦想是显而易见的，那就去追求它。创造选择权和购买彩票并不是追求梦想结果道路上的称重站。它们是危险的转移，会改变你。”_
+
+
 When we pursue optionality, we avoid bold decisions. Like anything meaningful, venturing into the unknown is an act of faith. It demands responsibility. You‘ll have to take a stand, trust your decision, and ignore the taunts of outside dissent. But a life without conviction is a life controlled by the futile winds of fashion. Or worse, the hollow echoes of the crowd.
+
+当我们追求选择性的时候，我们避免了大胆的决定。像任何有意义的事情一样，对未知事物的冒险是一种信仰的行为。它要求承担责任。你必须表明立场，相信你的决定，并无视外界异议的嘲弄。但是，没有信念的生活是一种被徒劳的时尚之风所控制的生活。或者更糟的是，人群中空洞的回声。
+
 
 By brainwashing us into thinking that prosperity is inevitable, privilege can have a numbing effect. Among my friends in the upper echelons of society — the ones with the means to pursue transcendent dreams — I wonder if they’re too comfortable. Nobody believes in destiny. Social events revolve around binge drinking and conversations so superficial a robot could automate them. They’re dozing off in an intellectual slumber. Rather than rising to the level of their dreams, they fall to the average of their environment. In my college classes, where the annual education costs $40,000 per year, the vast majority of students wasted the time away on Facebook. Office hours were an afterthought. “Try hards” were mocked and made-fun-of, and nobody had a vision for their future.
 
+通过给我们洗脑，让我们认为繁荣是不可避免的，特权可以产生麻木的效果。在我的社会上层朋友中 —— 那些有能力追求超凡梦想的人 —— 我想知道他们是否过于舒适。没有人相信命运的存在。社交活动围绕着狂饮和谈话进行，这些谈话如此肤浅，机器人都能自动完成。他们在知识的沉睡中打瞌睡。他们没有上升到他们梦想的水平，而是落入他们环境的平均水平。在我的大学课堂上，每年的教育费用为 40,000 美元，绝大多数学生都在 Facebook 上浪费了时间。办公时间是一种事后考虑。“努力的人” 被嘲笑和取笑，没有人对他们的未来有一个愿景。
+
+
 We lack courage, not genius. We’re swimming in money, but starving for ambition. Every venture capitalist I meet says there’s too much money and not enough good ideas. As Peter Thiel reminds us:
+
+我们缺乏勇气，而不是天才。我们在金钱中畅游，却在野心中饥渴。我遇到的每个风险资本家都说，钱太多了，好点子却不够多。正如彼得·蒂尔提醒我们的那样：
+
 
 > _“Progress is neither automatic nor mechanistic; it is rare. Indeed, the unique history of the West proves the exception to the rule that most human beings through the millennia have existed in a naturally brutal, unchanging, and impoverished state. But there is no law that the exceptional rise of the West must continue.”_
 
+> _“进步既不是自动的，也不是机械的；它是罕见的。的确，西方的独特历史证明了这样一个规律的例外，即几千年来大多数人类都是以自然的残酷、不变和贫穷的状态存在的。但没有任何规律表明西方的特殊崛起必须继续下去。”_
+
 We increasingly believe that progress is inevitable. Progress, though, is not guaranteed. We must work for it. Otherwise, our living standards will not improve, and may get worse. 
+
+我们越来越相信，进步是不可避免的。不过，进步是没有保证的。我们必须为它而努力。否则，我们的生活水平将不会提高，而且可能会变得更糟。 
+
 
 * * *
 
 ### **The Promise of Christianity** 
 
+### **基督教的承诺**。 
+
+
 To offer solutions, Thiel turns to the Christian value of hope. He has a heterodox view of Christianity. In his reading of history, the non-violence of Jesus is the antidote to Mimetic conflict. 
+
+为了提供解决方案，泰尔转向了基督教的希望价值。他对基督教有一种异端的看法。在他对历史的解读中，耶稣的非暴力是模仿性冲突的解药。 
+
 
 When I speak with Christians, they always return to the importance of hope. They have a point. Our beliefs about the future impact our thoughts about the present. The more we can turn our attention away from the ephemeral present and towards the eternal future, the more we can pursue grand visions and persist through the challenges of the day. The present cannot be divorced from the future. They are codependent. 
 
+当我与基督徒交谈时，他们总是回到希望的重要性上。他们说得很有道理。我们对未来的信念影响着我们对现在的想法。我们越能把注意力从短暂的现在转向永恒的未来，我们就越能追求宏伟的愿景，并坚持完成今天的挑战。现在不能与未来相分离。它们是相互依存的。 
+
+
 One of my friends works for a California-based investment firm which manages $6 billion in investment assets. For the first three years, during the initial fundraising process, investors turned their cheeks. The firm struggled to raise capital. And yet, in the face of rejection, the fund’s Christian founder maintained faith in the face of struggle. As my friend observed: “She succeeded because her Christianity gave her hope.” 
+
+我的一个朋友在一家位于加州的投资公司工作，该公司管理着 60 亿美元的投资资产。在最初的三年里，在最初的筹款过程中，投资者们转脸就走。该公司为筹集资金而努力。然而，面对拒绝，该基金的基督教创始人在挣扎中保持了信仰。正如我的朋友所观察到的：“她成功了，因为她的基督教给了她希望”。 
+
 
 Our spirits rise when hopes are high. That’s why the day before Christmas is as exhilarating as Christmas Day. Big, bright gifts sit under the tree. Smaller ones hang in firetruck-red socks over the living room fireplace. Children play. Parents cook. Grandparents tell stories. And the rush of anticipation releases everybody’s serotonin.
 
+当希望高涨时，我们的精神也随之高涨。这就是为什么圣诞节前一天和圣诞节一样令人振奋。大而明亮的礼物放在树下。较小的礼物穿上消防车的红色袜子挂在客厅的壁炉上。孩子们在玩耍。父母做饭。祖父母讲故事。期待的冲动释放了每个人的血清素。
+
+
 Likewise, everybody knows that a team with belief is hard to beat. But a team that doesn’t believe they can win is hopeless. The importance of belief and momentum is evident to any shouting fan in any arena across the country. And yet, few consider its importance at the societal level. 
+
+同样，每个人都知道，一个有信念的团队是很难被打败的。但一个不相信自己能赢的球队是没有希望的。信念和动力的重要性对于全国各地任何赛场上的任何喊叫的球迷来说都是显而易见的。然而，很少有人考虑它在社会层面上的重要性。 
+
 
 Christianity promises a Living Hope that enables believers to endure unimaginable suffering. A hope so resilient that like a Captain America’s shield, it can survive any evil, any sickness, or any torture. No matter the obstacles, certainty about the future gives you the confidence to act in the present. 
 
+基督教承诺有一个活生生的希望，使信徒能够忍受难以想象的痛苦。这种希望是如此有弹性，就像美国队长的盾牌一样，它可以经受住任何邪恶、任何疾病或任何折磨。无论遇到什么障碍，对未来的确定性使你有信心在现在采取行动。 
+
+
 Thiel’s idea of Definite Optimism is Christian theology cloaked in secular language. By raising our spirits, a positive vision for the future unites society and raises our spirits. And that’s what the Western world needs right now.
 
+泰尔的明确乐观主义思想是披着世俗语言外衣的基督教神学。通过提高我们的精神，对未来的积极愿景使社会团结起来，提高我们的精神。而这正是西方世界现在所需要的。
+
+
 Technological growth is the best way to reduce suffering in the world. Technological progress has stagnated since the 1970s, which contributes to the vile political atmosphere and the pessimism of modern Westerners. Thiel says we should acknowledge our lack of progress, dream up a vision of Definite Optimism, and guided by Christian theology, work to make it a reality.
+
+技术增长是减少世界上的痛苦的最佳途径。自 20 世纪 70 年代以来，技术进步停滞不前，这造成了卑劣的政治气氛和现代西方人的悲观情绪。泰尔说，我们应该承认我们缺乏进步，梦想出一个明确的乐观主义的愿景，并在基督教神学的指导下，努力使其成为现实。
+
 
 * * *
 
 **Section 4: Peter Thiel’s Advice**
+
+**第四部分：彼得·蒂尔的建议**。
+
 -----------------------------------
 
 _“Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it.” (Matthew 7:13)_
 
+从窄门进去。因为引到灭亡的门是宽的，路是大的，进去的人也多。通往生命的门是小的，路是窄的，只有少数人能找到。(马太福音 7:13)_
+
+
 Now that we’ve outlined the Christianity-inspired foundations of Peter Thiel’s worldview, we’ll close with Peter Thiel’s advice for how to live. I’ll conclude with three actionable, Thiel-inspired principles: (1) create a positive vision for the future, (2) be careful who you copy, and (3) follow the Ten Commandments. 
+
+现在我们已经概述了彼得·泰尔的世界观中受基督教启发的基础，我们将以彼得·泰尔关于如何生活的建议作为结束。我将以三个可操作的、受泰尔启发的原则作为结论： (1)为未来创造一个积极的愿景，(2)注意你模仿的对象，(3)遵循十诫。 
 
 * * *
 
 ### **Search for Secrets**
 
+### **寻找秘密**
+
+
 _“It is the glory of God to conceal a matter; to search out a matter is the glory of kings.” —_ Proverbs 25:2
+
+“隐瞒一件事，是神的荣耀；查出一件事，是君王的荣耀。” -_ 箴言 25:2
+
 
 Thiel opposes the idea that luck is all-powerful. He encourages human agency and believes in the power of a single individual to bend the future to their will. Thiel believes we attribute too much to luck, which stops us from actually doing things. As he proclaimed, “you are not a lottery ticket… you can either dispassionately accept the universe for what it is, or put your dent in it, but not both.”
 
+泰尔反对 “运气是万能的” 这一观点。他鼓励人的能动性，相信个体有能力用他们的意愿塑造未来。泰尔认为我们把太多的东西归因于运气，这阻止了我们真正做事。正如他所宣称的，“你不是一张彩票…… 你可以冷静地接受宇宙的本来面目，或者把你的凹痕放入其中，但不能两者兼得”。
+
+
 For example, if you treat startup investments like a series of lottery tickets, you won’t think hard about them, and as a result, you will fail. Thiel asks: “Is this a business that I have enough confidence in that I would consider joining it myself?” If yes, he’ll consider an investment. If the answer is no, he won’t. He doesn’t see the world as a mere distribution of luck-based outcomes. Instead, he praises conviction, bets on transcendent founders, and invests in the kind of companies he’d want to work for. 
+
+例如，如果你把创业公司的投资当作一系列的彩票，你就不会认真思考，结果就会失败。泰尔问道：“这是一个我有足够信心的企业，我会考虑自己加入它吗？” 如果是，他就会考虑投资。如果答案是否定的，他就不会。他不认为这个世界仅仅是一个基于运气的结果分布。相反，他赞扬信念，押注于超凡的创始人，并投资于他想为之工作的那种公司。 
+
 
 God is an all-encompassing term for things we don’t understand. Under that definition, luck is the secular God. Naturally, Thiel speaks about luck in the context of startup investing. “It’s just a matter of luck” is a statement of the deep nature of the universe. Deferring to luck is counter-productive. Treating people and events like lottery tickets makes us doubt our agency. 
 
+上帝是一个包罗万象的术语，指的是我们不理解的事物。根据这一定义，运气是世俗的上帝。很自然地，泰尔在创业公司投资的背景下谈到了运气。“这只是一个运气问题” 是对宇宙的深层本质的陈述。屈从于运气会适得其反。把人和事当作彩票一样对待，使我们怀疑自己的机构。 
+
+
 Look for secrets instead of luck. Thiel recommends one book: [_Things Hidden Since the Foundation of the World_](https://amzn.to/2Kjdjcc) by Rene Girard. The title is as revealing as the contents of the book. It comes from _Matthew 13:35,_ which reads: “I will proclaim what has been hidden \[since\] the foundation of the world.” 
+
+寻找秘诀而不是运气。泰尔推荐一本书： 雷内·吉拉德（Rene Girard）的 [_Things Hidden Since the Foundation of the World_]（https://amzn.to/2Kjdjcc）。书名和书中的内容一样具有启发性。它来自《马太福音》13:35，其中写道：“我将宣扬从创世以来所隐藏的事”。 
 
 In job interviews, Thiel famously asks: “What very important truth do very few people agree with you on?” With it, Thiel can identify heterodox thinkers who aren’t blinded by Mimetic dogmas or intellectual fashions. He insists that there are still secrets left to uncover. Some are small and incremental. But the most valuable secrets are big enough to shake the world. Like Easter eggs, these broad and unconventional truths are hidden in places where nobody looks. You can find them, but you have to dig in obscure places. Other secrets are hidden in plain sight. They’re so obvious that nobody thinks about them. And once you learn about them, you’ll pinch yourself for not seeing them before. 
 
+在求职面试中，泰尔著名的问题是：“在什么非常重要的真理上，很少有人同意你的观点？” 通过它，泰尔可以识别出不被美学教条或知识时尚所蒙蔽的异端思想家。他坚持认为，还有一些秘密有待揭开。有些是小而渐进的。但最有价值的秘密是大到足以撼动世界的。就像复活节彩蛋一样，这些广泛的、非传统的真理隐藏在无人关注的地方。你可以找到它们，但你必须在不起眼的地方挖掘。其他的秘密则隐藏在显而易见的地方。它们是如此明显，以至于没有人想到它们。而一旦你了解了它们，你就会为自己以前没有看到它们而捏一把汗。 
+
+
 Writing in [_Zero to One_](https://amzn.to/2KeHa5e), Thiel says: 
+
+泰尔在 _Zero to One_（https://amzn.to/2KeHa5e）中写道： 
+
 
 _“The big secret is that there are many secrets left to uncover. There are still many large white spaces on the map of human knowledge. You can go discover them. So do it. Get out there and fill in the blank spaces. Every single moment is a possibility to go to these new places and explore them.”_
 
+_“最大的秘密是，还有许多秘密有待揭开。在人类知识的地图上仍有许多大的空白处。你可以去发现它们。那就去做吧。走出去，填补这些空白。每时每刻都有可能去这些新的地方探索它们。”_
+
+
 Thiel’s attraction to secrets comes from a conservative writer named Leo Strauss. His writing was obscure because he hid truths behind a curtain of mystery. That way, they would only be shared with a small, select group of people. Make no mistake. Even today, forbidden truths are exchanged in closed forums, private conferences, and corner offices on the 72nd floor. They’re shared in whispers, not shouts. 
+
+泰尔对秘密的吸引力来自于一位名叫里奥·施特劳斯的保守派作家。他的写作之所以晦涩难懂，是因为他把真理隐藏在神秘的幕布后面。这样一来，它们就只能与一小部分人分享。请不要搞错。即使在今天，被禁止的真理仍在封闭的论坛、私人会议和 72 楼的角落办公室中交流。它们是在窃窃私语中分享的，而不是大喊大叫。 
+
 
 Strauss did not believe in transparency. He believed that even in the most open-minded societies, many truths were too problematic to be shouted. His contemporary disciples, like Thiel, conceal their words. They hide controversial ideas in esoteric language, and Strauss described the benefits as such:
 
+施特劳斯并不相信透明度。他认为，即使在思想最开放的社会中，许多真相也是问题重重，不能大肆宣扬。他的当代弟子，如泰尔，隐瞒了他们的言论。他们用深奥的语言隐藏有争议的想法，施特劳斯这样描述其好处：
+
+
 _“It has all the advantages of private communication without having its greatest disadvantage—that it reaches only the writer’s acquaintances. It has all the advantages of public communication without having its greatest disadvantage—capital punishment for the author… Their literature is addressed, not to all readers, but to trustworthy and intelligent readers only.”_ 
 
+“它具有私人交流的所有优点，但没有其最大的缺点 —— 它只接触到作者的熟人。它具有公共传播的所有优点，但没有其最大的缺点 —— 对作者的资本惩罚…… 他们的文学作品不是针对所有的读者，而是只针对值得信赖和聪明的读者。”_ 
+
+
 Sometimes, Straussians hide truths in plain sight. When they do, they’re concealed in unpopular characters, such as devils, beggars, and buffoons. Pseudonymous Twitter accounts are the new Straussian philosophers, but with one important twist. Instead of sharing their names and hiding the truth, today’s Straussians hide their names, but share the truth.  
+
+有时，施特劳斯人在众目睽睽之下隐藏真相。当他们这样做时，他们被隐藏在不受欢迎的角色中，如魔鬼、乞丐和小丑。假名推特账户是新的施特劳斯式哲学家，但有一个重要的转折。今天的施特劳斯人不是分享他们的名字和隐藏真相，而是隐藏他们的名字，但分享真相。  
+
 
 * * *
 
