@@ -758,26 +758,58 @@ Whether the future is better or worse will depend on our actions. Like Girard, T
 
 Here are Thiel’s words: 
 
+以下是泰尔的话： 
+
+
 > _“The Christian statesman or stateswoman knows that the modern age will not be permanent, and ultimately will give way to something very different. One must never forget that one day all will be revealed, that all injustices will be exposed, and that those who perpetrated them will be held to account._
+
+> _"基督教政治家或女政治家知道，现代时代不会是永久的，最终会让位给非常不同的东西。我们决不能忘记，有一天一切都会被揭露，所有的不公正都会被曝光，而那些犯下这些罪行的人将被追究责任。
+
 > 
 > _The postmodern world would differ from the modern world in a way that is much worse or much better — the limitless violence of runaway mimesis or the peace of the kingdom of God… One must never forget that one day all will be revealed, that all injustices will be exposed, and that those who perpetrated them will be held to account.”_
 
+> _ 后现代世界与现代世界的不同之处在于，是更糟糕还是更好 —— 是失控的模仿的无限暴力，还是上帝之国的和平…… 人们决不能忘记，有一天一切都将被揭露，所有的不公正都将被曝光，那些犯下这些罪行的人将被追究责任。" _
+
+
 As a libertarian who holds the New Testament as a seminal text, Thiel seeks to increase individual freedoms while preventing runaway Mimetic violence. As promised, here’s where Girard’s observations of the past can shape our understanding of the present. Everybody condemns hate-fueled online speech. If Girard’s theories are accurate, online fighting might be the preventative medicine we need, even if it tastes disgusting and comes with painful side-effects. The forces of globalization and technology may have abolished the boundaries of violence. 
 
+作为一个将《新约》作为开创性文本的自由主义者，泰尔寻求增加个人自由，同时防止失控的模仿性暴力。正如承诺的那样，这里是吉拉德对过去的观察可以塑造我们对现在的理解。每个人都谴责煽动仇恨的网上言论。如果吉拉德的理论是准确的，网上斗争可能是我们需要的预防药物，即使它的味道令人厌恶，并带有痛苦的副作用。全球化和技术的力量可能已经废除了暴力的界限。 
+
+
 If so, the cure is nested inside the disease. Online, social-media based arguments might repel an apocalyptic scenario. Perhaps Thiel sees Facebook as a place to contain unbounded Mimetic violence. It simultaneously perpetuates violence and prevents it from happening. After all, if people fight on social media, they won’t fight on the streets. Like a boiling kettle, we have to let out steam somewhere. Better to cool the pot on social media than in the streets. In the words of Thiel, “social media proved to be more important than it looked.”
+
+如果是这样，治疗方法就嵌在了疾病里面。在线，基于社交媒体的争论可能会击退世界末日的情景。也许泰尔认为 Facebook 是一个遏制无限制的模仿暴力的地方。它同时延续了暴力，也防止了暴力的发生。毕竟，如果人们在社交媒体上打架，他们就不会在街上打架。就像一个沸腾的水壶，我们必须在某个地方放出蒸汽。在社交媒体上冷却锅，比在街上冷却要好。用泰尔的话说，“事实证明，社交媒体比它看起来更重要”。
+
 
 * * *
 
 ### **Four Ways of Thinking About the Future**
 
+### **对未来的四种思考方式**。
+
 The pull towards Girardian conflict stems from pessimism and short-term thinking. In _Zero to One,_ Peter Thiel describes four ways of thinking about the future: definite optimism, indefinite optimism, definite pessimism, and indefinite pessimism. In a definite world, the future is knowable. There is a predetermined plan for what the future will look like. An indefinite world is more of a random walk. Like a lottery, the future is out of our control. It’s governed solely by probabilities and chance events, which makes it impossible to act with any agency. 
+
+对吉拉德冲突的牵引源于悲观主义和短期思维。在《从零到一》中，彼得·蒂尔描述了四种思考未来的方式：明确的乐观主义，不确定的乐观主义，明确的悲观主义，以及不确定的悲观主义。在一个确定的世界里，未来是可知的。对于未来会是什么样子，有一个预定的计划。一个不确定的世界更像是一个随机漫步。像彩票一样，未来不受我们控制。它完全受概率和偶然事件的支配，这使得我们不可能以任何机构行事。 
 
 Thiel defines the four quadrants as such:
 
+泰尔这样定义这四个象限：
+
 1.  Definite Optimism: The future will be better and we know how.
+
+1.  明确的乐观主义： 未来会更好，我们知道怎么做。
+
 2.  Indefinite Optimism: The future will be better and we don’t know how.
+
+2.  不确定的乐观主义： 未来会更好，我们不知道如何。
+
 3.  Definite Pessimism: The future will be worse and we know how.
+
+3.  肯定的悲观主义： 未来会更糟糕，我们知道怎么做。
+
 4.  Indefinite Pessimism: The future will be worse and we don’t know how. 
+
+4.  不确定的悲观主义： 未来会更糟糕，而我们不知道会怎样。 
 
 ![IMG_ADBE7063D097-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_ADBE7063D097-1.jpeg?w=750&ssl=1)
 
@@ -785,17 +817,32 @@ Thiel defines the four quadrants as such:
 
 ### **Background to Definite Optimism**
 
+### **明确的乐观主义的背景**
+
 Innovation begins with inspiration. Positive visions of the future inject people with imagination, which pulls the future forward. 
+
+创新始于灵感。对未来的积极设想为人们注入了想象力，从而拉动了未来的发展。 
 
 A quick browse through the history books shows that Americans, and especially the government, used to make big plans and live with Definite Optimism. To illustrate the idea, let’s turn to my favorite example: The Reber Plan. 
 
+快速浏览一下历史书就会发现，美国人，尤其是政府，曾经制定过大的计划，并以明确的乐观态度生活。为了说明这个观点，让我们来看看我最喜欢的例子： 雷伯计划。
+
 ### **Reber Plan**
+
+### **瑞博计划**
+
 
 The Reber Plan is my favorite example of Definite Optimism. In the 1940s a San Francisco-based teacher and amateur theater producer devised a plan to reconstruct the San Francisco Bay Area. People took the plan seriously. Newspaper boards across California endorsed it.
 
+雷伯计划是我最喜欢的明确的乐观主义的例子。在 20 世纪 40 年代，一位旧金山的教师和业余戏剧制作人设计了一个重建旧金山湾区的计划。人们认真对待这个计划。加利福尼亚州各地的报刊杂志都支持这个计划。
+
 Reber proposed two large earth and rock dams, one between San Francisco and Oakland, and another between Marin County and Richmond. Dams would drain water from north to south and convert the Bay from saltwater to freshwater. Congress explored the project. Engineers planned to construct a 32-lane highway and scatter high-rise buildings throughout the reconstructed city. To test the plan, the Army Corps of Engineers built a 1.5-acre scale model of the proposed design.
 
+雷伯提议建造两个大型土石坝，一个在旧金山和奥克兰之间，另一个在马林县和里士满之间。大坝将从北向南排水，并将海湾从咸水转换成淡水。国会对该项目进行了探讨。工程师们计划建造一条 32 车道的高速公路，并在重建的城市中散布高层建筑。为了测试该计划，陆军工程兵团为拟议的设计建造了一个 1.5 英亩的比例模型。
+
 Ultimately, the Reber Plan didn’t work. The freshwater lakes would have evaporated too quickly. Nevertheless, due to the spirit of the post World War II age, people gave the Reber Plan the respect it deserved. 
+
+最终，雷伯计划没有成功。淡水湖会很快蒸发掉。尽管如此，由于二战后时代的精神，人们对雷伯计划给予了应有的尊重。
 
 ![IMG_4393427F321B-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_4393427F321B-1.jpeg?w=750&ssl=1)
 
@@ -803,11 +850,21 @@ Ultimately, the Reber Plan didn’t work. The freshwater lakes would have evapor
 
 ### **Ford Motors Airplanes During World War II**
 
+### **二战期间福特汽车公司的飞机**。
+
+
 As Americans geared up for World War II in the early 1940s, President Franklin D. Roosevelt (FDR) called upon the nation to increase its production of airplanes. But in a 1940 [speech](https://www.mtholyoke.edu/acad/intrel/WorldWar2/fdr16.htm) to Congress, FDR said: “I should like to see this Nation geared up to the ability to turn out at least 50,000 planes a year.” At the time, nobody thought FDR’s goal was possible. 
+
+当美国人在 20 世纪 40 年代初为第二次世界大战做准备时，富兰克林-D-罗斯福（FDR）总统呼吁国家增加飞机的生产。但在 1940 年对国会的一次演讲(https://www.mtholyoke.edu/acad/intrel/WorldWar2/fdr16.htm)中，FDR 说：“我希望看到这个国家有能力每年至少生产 50,000 架飞机”。在当时，没有人认为 FDR 的目标是可能的。 
 
 Americans were still plagued by the Great Depression. Roosevelt spoke to 132 million Americans. Only 48,000 of them earned more than $2,500 per year, the modern equivalent of $40,000 in today’s dollars. Nearly one-third had no running water. And none of them had antibiotics or unemployment insurance. 
 
+美国人仍然受到大萧条的困扰。罗斯福对 1.32 亿美国人讲话。其中只有 48,000 人的年收入超过 2,500 美元，以今天的美元计算，相当于 40,000 美元。近三分之一的人没有自来水。而且他们中没有一个人有抗生素或失业保险。 
+
 At the time, [Americans](https://www.amazon.com/dp/B00FJ5EPVG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) were producing fewer than 1,000 planes per year. The Nazis had 7 million soldiers, but America had less than 200,000. American industry responded with passionate intensity. _Ford Motors_ had never built an airplane, but America sought to produce more airplanes at Willow Run than Hitler produced in all of Germany. To build the plant, builders moved 650,000 cubic yards of dirt and laid 58 miles of grain tile underground. Production exceeded expectations. Ford Liberator bombers took flight in the spring of 1942, ahead of schedule. Within five years, Ford produced tens of thousands of airplanes per year. War production board chief Donald Nelson captured the ambition of the moment: “When we are talking about America’s war production job we are discussing the biggest job in all of history.”
+
+当时，[美国人](https://www.amazon.com/dp/B00FJ5EPVG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)每年生产的飞机不到 1,000 架。纳粹有 700 万士兵，但美国只有不到 20 万。美国工业界作出了热烈的反应。福特汽车公司从未制造过飞机，但美国试图在柳树沟生产的飞机比希特勒在整个德国生产的飞机还要多。为了建厂，建筑商们搬走了 65 万立方码的泥土，在地下铺设了 58 英里的谷物砖。产量超过了预期。福特解放者轰炸机在 1942 年春天开始飞行，比计划提前。在五年内，福特公司每年生产数以万计的飞机。战争生产委员会主任唐纳德·纳尔逊抓住了当时的雄心壮志：“当我们谈论美国的战争生产工作时，我们讨论的是所有历史上最大的工作。”
+
 
 ![IMG_1BC8A6CEC9A5-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_1BC8A6CEC9A5-1.jpeg?w=750&ssl=1)
 
@@ -815,33 +872,65 @@ At the time, [Americans](https://www.amazon.com/dp/B00FJ5EPVG/ref=dp-kindle-redi
 
 Today, these bold visions would be ignored and dismissed as lunacy. Definite Optimism is withering. Big dreams are now seen as childish illusions. We no longer trust amateurs with vast imaginations, and we no longer challenge people to imagine futures that look radically different from the present. Instead, we defer only to experts with mainstream opinions. 
 
+今天，这些大胆的愿景会被忽视，被视为疯子。明确的乐观主义正在枯萎。大梦想现在被视为幼稚的幻想。我们不再相信具有丰富想象力的业余人士，我们也不再挑战人们想象与现在完全不同的未来。相反，我们只听从拥有主流意见的专家。 
+
 The Reber model has been demoted from a grand vision of the future to a meager Sausalito tourist attraction. “Let’s dam the San Francisco Bay” is too grand and too specific. Instead, we say “Let’s improve the economy” or “promote information.” We doubt the potential of grand plans. Instead, we put our faith in small tweaks and A/B tests, implying that millions of small actions are a better way of improving the world and creating a desired future. 
 
+雷伯模式已经从对未来的宏伟愿景降级为一个微不足道的索萨利托旅游景点。“让我们为旧金山湾筑坝” 太宏伟，太具体了。相反，我们说 “让我们改善经济” 或 “促进信息”。我们怀疑宏伟计划的潜力。相反，我们把信心放在小的调整和 A/B 测试上，暗示数以百万计的小行动是改善世界和创造理想未来的更好方式。 
+
 We’ve moved from an atmosphere of utopian promises to one of dystopian threats. Definite Optimism has disappeared.
+
+我们已经从乌托邦式的承诺的氛围中转移到了乌托邦式的威胁中。明确的乐观主义已经消失了。
 
 * * *
 
 ### **The End of the Future**
 
+### **未来的尽头***
+
 Since the Financial Crisis, tens of thousands of Americans have moved into the Indefinite Optimism and Definite Pessimism quadrants. 
+
+自金融危机以来，数以万计的美国人进入了不确定的乐观主义和确定的悲观主义象限。 
+
 
 According to Thiel, this shift has been worse than acknowledged. A 2011 essay called [_The End of the Future_](https://www.nationalreview.com/2011/10/end-future-peter-thiel/)_,_ which lives on the homepage of the website of his venture capital firm, argues that progress has stagnated. We’ve shifted away from funding transformational companies and toward companies that solve incremental problems, and sometimes even fake ones. To be sure, he doesn’t only invest in companies with little competition like Palantir and DeepMind. His firm also invested in Airbnb, Stripe, and Postmates.
 
+根据泰尔的说法，这种转变比公认的还要糟糕。2011 年一篇名为 [_未来的终结_](https://www.nationalreview.com/2011/10/end-future-peter-thiel/)_ 的文章，刊登在他的风险投资公司网站的主页上，认为进步已经停滞。我们已经从资助变革性的公司转向了解决增量问题的公司，有时甚至是假问题。可以肯定的是，他并不只投资于像 Palantir 和 DeepMind 这样没有什么竞争的公司。他的公司还投资了 Airbnb、Stripe 和 Postmates。
+
+
 Today, we’ve narrowed the definition of technology to Angry Birds and goofy SnapChat filters. That’s why Thiel longs for the days when technology alluded to space, airplanes, and rockets that generated more energy than a small atomic bomb. 
+
+今天，我们已经把技术的定义缩小到《愤怒的小鸟》和愚蠢的 SnapChat 滤镜。这就是为什么泰尔渴望着科技暗指太空、飞机和产生比小型原子弹更多能量的火箭的时代。 
+
 
 NASA’s star spangled splendor transformed consciousness. Astronauts with stomachs of steel traveled the impossible distances of space. The Apollo 8 mission required superhuman precision, equivalent in scale to throwing a dart at a peach from a distance of 28 feet, and grazing the top of the fuzz without touching the fruit’s skin. To reach the moon, America’s pioneers traveled across 240,000 miles, about fifty-eight times the distance Columbus sailed when he discovered the Western world. As the Apollo rockets pierced through the stratosphere, and navigated the pin-drop silence of outer space, they inspired people back on earth to expand their horizons.
 
+美国航空航天局的星光灿烂，改变了人们的意识。宇航员们带着钢铁般的肚子在不可能的空间里旅行。阿波罗 8 号任务需要超人的精确度，其规模相当于从 28 英尺远的地方向一个桃子投掷飞镖，并且在不接触果皮的情况下擦过桃子的顶部绒毛。为了到达月球，美国的先驱们穿越了 24 万英里，大约是哥伦布发现西方世界时航行距离的 58 倍。当阿波罗火箭穿透平流层，在寂静的外太空中航行时，他们激励着地球上的人们扩大他们的视野。
+
 Literally. 
+
+从字面上看。 
 
 America’s imagination peaked in 1969, when Neil Armstrong stepped foot on the moon. He stepped on moon-dust less than a decade after Alan Shepard became the first American in space, and only 8 years after President John F. Kennedy’s speech at Rice University where he said: “We choose to go to the moon, not because it’s easy, but because it’s hard.”  
 
+美国的想象力在 1969 年达到顶峰，尼尔·阿姆斯特朗踏上了月球。在阿兰·谢泼德成为第一个进入太空的美国人之后不到十年，在约翰-F-肯尼迪总统在莱斯大学的演讲之后仅八年，他就踏上了月球尘埃：“我们选择登月，不是因为它很容易，而是因为它很难”。  
+
 As the American people watched their comrades explore the distant skies and travel to the moon, they thought they’d witnessed the opening of a new frontier. Humans were no longer trapped on the pale blue dot. Soon, all of humanity would traverse the stratosphere and soar through space. Science fiction writers such as Arthur C. Clarke predicted imminent commercial space travel, interstellar exploration, and genuine artificial intelligences. The Apollo Project didn’t just shake the Florida launchpads. It shook the entire world. 
+
+当美国人民看着他们的同志们探索遥远的天空并前往月球时，他们认为他们见证了一个新领域的开辟。人类不再被困在苍白的蓝点上。很快，全人类将穿越平流层，在太空中翱翔。科幻作家如阿瑟·克拉克（Arthur C. Clarke）预言，商业太空旅行、星际探索和真正的人工智能即将到来。阿波罗计划不仅震撼了佛罗里达州的发射台。它震撼了整个世界。 
 
 To echo the point, Thiel likes to quote a 1967 best-selling book called _The American Challenge_. The book predicted that America would be a post-industrial society by the year 2000. Americans would work four days per week and seven hours per day. The year would be comprised of 39 work weeks and 13 weeks of vacation.
 
+为了呼应这一点，泰尔喜欢引用 1967 年一本名为《美国的挑战》的畅销书。该书预言，到 2000 年，美国将成为一个后工业化社会。美国人将每周工作四天，每天工作七小时。一年将由 39 个工作周和 13 周的假期组成。
+
 Unfortunately, this dream never arrived. Transportation machines soared higher and faster for 200 years. In the span of a single lifetime, people went from traveling by horse and buggy to walking on the moon. Depending on who you ask, it seemed like humanity was guided by the invisible hand or an all-powerful God. Interstellar travel and vacations on the moon were the future, and everybody knew it. 
 
+不幸的是，这个梦想从未到来。运输机器在 200 年里飙升得更高更快。在一个人的一生中，人们从乘马和马车旅行到在月球上行走。取决于你问谁，人类似乎被无形的手或全能的上帝所引导。星际旅行和在月球上度假是未来的趋势，每个人都知道这一点。 
+
 In an unexpected twist, the physics stagnated. Transportation stopped improving. And today, we’re no longer pushing the limits of height and speed. 
+
+在一个意想不到的转折中，物理学停滞了。交通工具停止了改进。而今天，我们不再挑战高度和速度的极限。 
+
 
 ![IMG_D47E8ED52D66-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_D47E8ED52D66-1.jpeg?w=750&ssl=1)
 
@@ -849,17 +938,33 @@ In an unexpected twist, the physics stagnated. Transportation stopped improving.
 
 Just ask Pan American World Airways, the iconic airline of the Post World War II era. After Americans stepped foot on the moon, the airline’s customer center was inundated with phone calls from around the country. First the astronauts. Then, the people. Customers wanted to reserve seats on the first trips to the moon. Between 1968 and 1971, Pan Am accepted 93,005 reservations for planned commercial flights to the moon. Fast forward five decades and only 12 men have ever walked on the moon. No American, let alone any ordinary human being, has stepped foot on the moon since 1972. 
 
+只要问问泛美世界航空公司，二战后的标志性航空公司。美国人踏上月球后，航空公司的客户中心被来自全国各地的电话淹没了。首先是宇航员。然后是人。客户希望保留第一次登月旅行的座位。在 1968 年和 1971 年之间，泛美航空接受了 93,005 个计划中的登月商业航班的预订。快进了五十年，只有 12 个人曾经在月球上行走。自 1972 年以来，没有美国人，更不用说任何普通人，踏上过月球。 
+
+
 The rate of technological progress is slowing. The only major exceptions are semiconductors, DNA sequencing, and communications technology. Side effects of slow growth plague the economy. Real median wages haven’t risen since 1973. Meanwhile, the costs of housing, healthcare, and education are rising faster than inflation. More than 40 million Americans are collectively liable for more than $1.5 trillion in student loans. 
+
+技术进步的速度正在放缓。唯一的主要例外是半导体、DNA 测序和通信技术。缓慢增长的副作用困扰着经济。自 1973 年以来，实际工资中位数没有上升。同时，住房、医疗保健和教育成本的上升速度超过了通货膨胀。超过 4000 万美国人集体承担了超过 1.5 万亿美元的学生贷款。 
+
 
 In response, we’ve lowered our efficiency standards. The Golden Gate Bridge was built in less than four years in the 1930s. The recently completed Golden Gate Bridge access road, Doyle Drive, took seven years to build and cost more in real dollars than the original bridge. Buildings, too. The Empire State Building was built in 15 months from 1931-1932. 80 years later, The Freedom Tower took more than 12 years to build. We’ve masked our lack of progress with government money printing, rising debt levels, and distractions of digital technology. 
 
+作为回应，我们降低了我们的效率标准。金门大桥在 20 世纪 30 年代用不到四年的时间建成。最近完成的金门大桥通道，Doyle Drive，花了 7 年时间建造，实际成本比原来的大桥还要高。建筑物也是如此。帝国大厦在 1931-1932 年的 15 个月内建成。80 年后，自由塔花了 12 年多的时间才建成。我们用政府的印钞机、不断上升的债务水平和数字技术的分心来掩盖我们缺乏进展的事实。 
+
 America is not as dynamic as it once was. We see it in the statistics and feel it in our politics. And yet, ask the average person, and they’ll tell you that we’re living in a world of exponential technological growth. 
 
+美国不再像以前那样充满活力。我们在统计数据中看到它，在我们的政治中感受到它。然而，询问普通人，他们会告诉你，我们生活在一个技术指数增长的世界。 
+
 _Don’t believe Thiel?_ 
+不相信泰尔？ 
 
 Follow the money. Warren Buffett, the richest investor in America bets _against_ change. The less the world changes, the more Buffett succeeds. BNSF Railway, where Buffett recently invested $44 billion is the largest non-financial company in the _Berkshire Hathaway_ portfolio. Thiel proclaims that 40 percent of railroads involve the transport of coal, so Buffett’s investment will do especially well if the travel and energy consumption patterns of the 21st century look like the past. 
 
+跟着钱走。美国最富有的投资者沃伦·巴菲特（Warren Buffett）打赌 _ 反对变化。世界变化越小，巴菲特就越成功。巴菲特最近投资了 440 亿美元的 BNSF 铁路公司是 _Berkshire Hathaway_ 投资组合中最大的非金融公司。泰尔宣称，40% 的铁路涉及煤炭运输，因此，如果 21 世纪的旅行和能源消费模式像过去一样，巴菲特的投资将做得特别好。 
+
+
 After digging through the [_2018 Berkshire Hathaway Annual Report_](https://www.berkshirehathaway.com/2018ar/linksannual18.html), I’d like to add context to Thiel’s thesis. Buffett’s firm has poured millions of dollars into renewable energy. In addition to coal and natural gas, Berkshire Hathaway Energy (90% owned by Berkshire Hathaway) has made meaningful investments in solar, nuclear, hydro-electric, geo-thermal, and in particular, wind.
+
+在挖掘了[_2018 年伯克希尔·哈撒韦年度报告_](https://www.berkshirehathaway.com/2018ar/linksannual18.html)之后，我想为泰尔的论点补充背景。巴菲特的公司已经向可再生能源投入了数百万美元。除了煤炭和天然气，伯克希尔·哈撒韦能源公司（伯克希尔·哈撒韦公司拥有 90% 的股份）对太阳能、核能、水电、地热，特别是风能进行了有意义的投资。
 
 ![IMG_0256 2.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_02562.jpg?w=750&ssl=1)
 
@@ -867,13 +972,27 @@ After digging through the [_2018 Berkshire Hathaway Annual Report_](https://www.
 
 From a distance, we see a mirage of progress. From up-close, once we remove the smartphone screens in front of us, we feel the reality of struggle and stagnation. According to a recent survey, 80% of Americans think the next generation will be worse off than the current generation. As Tim Keller wrote in [_Making Sense of God_](https://amzn.to/2YuNhHI): 
 
+从远处看，我们看到的是进步的幻影。从近处看，一旦我们移开面前的智能手机屏幕，我们就会感受到挣扎和停滞的现实。根据最近的一项调查，80% 的美国人认为下一代的生活会比这一代更糟糕。正如蒂姆·凯勒在 [_Making Sense of God_]（https://amzn.to/2YuNhHI）中写道： 
+
 > _“Younger Americans today are perhaps the first generation to be certain that they are and will be “worse off” than their parents. The interconnected nature of the world makes nightmare scenarios—pandemics, global economic collapse, climate-change disaster, cyberattacks, terrorism—all seem like genuine possibilities, even probabilities… Today hope has narrowed to the vanishing point of the self alone. In our current phase of American history we have lost belief in God and salvation, or in any shared sense of national greatness and destiny.”_
+
+> _“今天的美国年轻人也许是第一代确信他们现在和将来都会比他们的父母” 更糟糕 "的人。世界的相互关联性使得噩梦般的情景 —— 大流行病、全球经济崩溃、气候变化灾难、网络攻击、恐怖主义 —— 似乎都是真正的可能性，甚至是概率…… 今天，希望已经缩小到了自我的消失点。在我们当前的美国历史阶段，我们已经失去了对上帝和救赎的信仰，或者对任何共同的国家伟大和命运的感觉。
+
 
 This intuition is supported by data. [Millennials](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf) are less well off than members of earlier generations were when they were young. They have lower earnings, fewer assets, and less wealth. Children born in 1940 had a 90% chance of earning more than their parents. But [children](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/) born in the 1980s have only a 50% chance. Christoper Kurz, an [economist](https://www.wsj.com/articles/playing-catch-up-in-the-game-of-life-millennials-approach-middle-age-in-crisis-11558290908) at the Federal Reserve has shown that millennial households had an average net worth of about $92,000 in 2016, nearly 40% less than Gen X households in 2001, adjusted for inflation, and about 20% less than baby boomer households in 1989. Wages tell a similar story. In short, millennials have it tough and it isn’t their fault. With the [rise](https://foundersfund.com/2016/06/thought-thoughts-future/) of dystopian films, Hollywood creates and reflects these dark predictions about the future.
 
+这一直觉得到了数据的支持。[千禧一代](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf)比前几代人年轻时的生活状况要差。他们的收入较低，资产较少，财富也较少。1940 年出生的孩子有90%的机会比他们的父母挣得多。但 1980 年代出生的[儿童](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/)只有50%的机会。美联储的[经济学家](https://www.wsj.com/articles/playing-catch-up-in-the-game-of-life-millennials-approach-middle-age-in-crisis-11558290908)克里斯托弗-库尔茨(Christoper Kurz)表明，2016 年千禧一代家庭的平均净资产约为 9.2 万美元，比 2001 年的 X 一代家庭少近 40%，经通货膨胀调整后，比 1989 年的婴儿潮一代家庭少约 20%。工资方面也有类似的情况。简而言之，千禧一代的生活很艰难，这不是他们的错。随着[崛起](https://foundersfund.com/2016/06/thought-thoughts-future/)的反乌托邦电影，好莱坞创造并反映了这些对未来的黑暗预测。
+
+
 Unable to pay for college or afford an apartment in a job-filled city, many Millennials have lost hope. 
 
+由于无法支付大学学费或在充满就业的城市买得起公寓，许多千禧一代已经失去希望。 
+
+
 One friend doesn’t want to have kids because “the entire state of California is going to be underwater by 2050.” Or, in the [words](https://twitter.com/meganamram/status/968996931681701888?lang=en) of a comedian on Twitter: “The fun part about living right now is we get to see how it ends.”
+
+一位朋友不想生孩子，因为 “到 2050 年，整个加州都会被淹没”。或者，用推特上一位喜剧演员的[话语](https://twitter.com/meganamram/status/968996931681701888?lang=en)来说：“现在生活的乐趣在于我们可以看到它是如何结束的。”
+
 
 ![](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/image-asset-1.jpeg?w=750&ssl=1)
 
@@ -883,39 +1002,88 @@ One friend doesn’t want to have kids because “the entire state of California
 
 ### **Millennials: Young and Yearning**
 
+### **千禧一代： 年轻和渴望**
+
+
 When I speak with friends and travel the 50 states, I’m struck by how numb many people are to the world. Besides immigrants and their children, both of whom inspire me with their ambition and passionate work ethic, I see fear, complacency, and extreme risk-aversion everywhere. 
+
+当我与朋友交谈和在 50 个州旅行时，我对许多人对世界的麻木感到震惊。除了移民和他们的孩子 —— 他们的雄心壮志和热情的工作态度激励着我，我看到到处都是恐惧、自满和极端的风险规避。 
 
 Benjamin Franklin once said: “If everyone is thinking alike, then no one is thinking.” 
 
+本杰明·富兰克林曾经说过：“如果每个人的想法都是一样的，那么就没有人在思考”。 
+
 The most talented people follow the same narrow tracks. People are afraid to dream big or stand out. Without a positive vision for their future, these young Americans are stuck playing vicious, zero-sum status games. Instead of constructing our own desires, they mirror the goals of people around them. Patrick Collison, the CEO of Stripe, [shared](https://patrickcollison.com/advice) a similar observation: 
+
+最有才华的人都遵循同样的狭窄轨道。人们不敢有大的梦想，也不敢脱颖而出。由于对自己的未来没有积极的愿景，这些年轻的美国人被困在恶性的、零和的地位游戏中。他们没有构建自己的欲望，而是照搬周围人的目标。Stripe 的首席执行官帕特里克·科里森分享(https://patrickcollison.com/advice)了类似的看法： 
 
 > _“If you’re in the US and go to a good school, there are a lot of forces that will push you towards following train tracks laid by others rather than charting a course yourself. Make sure that the things you’re pursuing are weird things that you want to pursue, not whatever the standard path is. Heuristic: do your friends at school think your path is a bit strange? If not, maybe it’s too normal.”_
 
+> _“如果你在美国，并且上了一所好学校，有很多力量会把你推向跟随别人铺设的火车轨道，而不是自己制定路线。确保你所追求的东西是你想追求的奇怪的东西，而不是什么标准的路径。启发式：你在学校的朋友是否认为你的道路有点奇怪？如果不是，也许它太正常了。”_
+
+
 There’s a lack of differentiation. As Thiel observed: 
+
+缺乏差异化。正如泰尔所观察到的： 
 
 > _“There is something very odd about a society where the most talented people get all tracked toward the same elite colleges, where they end up studying the same small number of subjects and going into the same small number of careers… It’s very limiting for our society as well as for those students.”_
 
+> _“在一个社会中，最有才华的人都被追踪到相同的精英学院，他们最终学习相同的少数科目，进入相同的少数职业，这是非常奇怪的事情…… 这对我们的社会和这些学生来说都是非常有限的。” _
+
+
 The top colleges have become vocational schools for investment banking and management consulting. In 2007, for example, half of Harvard seniors took jobs in finance or consulting. This mirrors my own experience. My college jobs department steered us towards high-status jobs instead of high-impact ones. Students, professors, and advisors cared more about perception than reality. It felt as if the goal of life wasn’t to improve the world, but to win awards and build an impressive resume. Instead, my smartest friends were pushed towards a handful of fields: law, management consulting, and investment banking. Other options were peripheral and besides the point. 
+
+顶级大学已经成为投资银行和管理咨询的职业学校。例如，在 2007 年，一半的哈佛大学毕业生从事金融或咨询工作。这反映了我自己的经历。我的大学就业部门把我们引向高地位的工作，而不是高影响力的工作。学生、教授和顾问们更关心的是观念而不是现实。感觉好像生活的目标不是改善世界，而是赢得奖项和打造一个令人印象深刻的简历。相反，我最聪明的朋友被推到少数几个领域：法律、管理咨询和投资银行。其他的选择是边缘性的，也是无关紧要的。 
+
 
 Young Americans are trapped by student loans, crippled by path dependence, and constrained by runaway housing costs. They’re raised in institutional environments where conformity is praised and originality is punished. Like Pavlov’s rats, they’ve responded with authoritarian obedience. To no fault of their own, they’re sleepwalking through life as if their best years are already behind them. 
 
+美国年轻人被学生贷款所困，被路径依赖所累，被失控的住房成本所限制。他们在制度环境中长大，在那里，顺从受到赞扬，原创受到惩罚。像巴甫洛夫的老鼠一样，他们的反应是专制的服从。在没有任何过错的情况下，他们在生活中梦游，好像他们最好的时光已经过去了。 
+
+
 I recently had dinner with a fraternity brother in Manhattan. Let’s call him Jim. Right after the bacon cheeseburgers arrived and just as we splattered ketchup on our crispy French Fries, I asked him how he liked his job. First, he paused for time. Then, he wiggled his eyes left and right, and said “Good. I’m learning a lot.”
+
+我最近在曼哈顿与一个兄弟会的兄弟共进晚餐。我们就叫他吉姆吧。就在培根芝士汉堡到了之后，就在我们把番茄酱溅到我们香脆的法式薯条上时，我问他喜欢他的工作吗？首先，他停顿了一下时间。然后，他左右晃了晃眼睛，说：“不错。我学到了很多。”
+
 
 Immediately, I smirked and questioned his answer. It reeked like Orwellian doublespeak. In my experience, “learning a lot” is code for “boring, but I’m putting up with it.” 
 
+随即，我冷笑着质疑他的回答。这就像奥威尔式的双关语。根据我的经验，“学到很多东西” 是 “无聊，但我在忍受” 的代号。 
+
+
 Jim told me he liked his job because it taught him how to “collaborate” and “work with people.” His words sounded like they were parroted from the company’s Human Resources department. I poked and poked. And after 10 minutes, we reached the truth. 
+
+吉姆告诉我，他喜欢他的工作，因为它教会他如何 “协作” 和 “与人合作”。他的话听起来像是从公司的人力资源部门转述的。我不断追问。10 分钟后，我们找到了真相。 
+
 
 He explained how the school system taught him to follow rules, mimic his peers, and listen to teachers. That’s how Jim was taught to succeed, so that’s his strategy for climbing the corporate ladder. It’s as if the age-based fraternity hierarchy never left his mind. Pledge first. Succeed later. All the while, he’s spent years marching along the institutional track, obeying orders and doing exactly what others told him to do, without questioning why he should listen to them in the first place.
 
+他解释了学校系统如何教他遵守规则，模仿同龄人，并听从老师的教导。这就是吉姆被教导成功的方式，所以这也是他攀登企业阶梯的策略。仿佛基于年龄的兄弟会等级制度从未离开过他的头脑。先宣誓。以后再成功。一直以来，他花了很多年时间沿着机构的轨道前进，服从命令，完全按照别人的吩咐去做，而没有质疑为什么他首先要听他们的话。
+
+
 Spoiler alert: Jim is wasting his time.
+
+剧透提醒：吉姆是在浪费他的时间。
 
 He knows how to get things done, but never asks if it’s worth doing in the first place. Instead of working on important problems, he’s building “options” for the future. Like so many other college graduates, he’s been pushed into a mundane and uncreative profession. His dream-filled heart is crushed by the cold logic of investment banking. His words echo those of another friend, who said: “I’m just trying to get through the next 25 years as fast as possible.” 
 
+他知道如何把事情做完，但首先从不问是否值得做。他不是在处理重要的问题，而是在为未来建立 “选项”。像其他许多大学毕业生一样，他被推入一个平凡的、没有创造力的职业。他充满梦想的心被投资银行的冰冷逻辑所粉碎。他的话呼应了另一位朋友的说法，他说 “我只是想尽可能快地度过未来 25 年”。 
+
+
 Sparkling dreams have become minor annoyances, like a buzzing fly in a lakeside cabin. Student loans keep him stuck on the institutional treadmill. He paid too steep a price for college, and now he’s unable to question the system and forced to accept the institutional doctrine as gospel. As I listened, I wondered what would happen if a high-voltage defibrillator shocked him and he woke up from his intellectual slumber. 
+
+闪亮的梦想已经变成了小麻烦，就像湖边小屋中嗡嗡作响的苍蝇。学生贷款使他被困在体制的跑步机上。他为大学付出了太多的代价，现在他无法质疑这个系统，被迫接受体制内的教义作为福音。我一边听，一边想，如果一个高压除颤器电击他，他从知识分子的沉睡中醒来，会发生什么。 
+
 
 Until then, he’ll stagger along the soul-crushing stepping stones of life: work hard in middle school so you can do well in high school; work hard in high school so you can do well in college; work hard in college so you can get a respected job; and get a respected job so one day, towards the end of your career, you can finally do what you want to do. All the while you “build skills” and “accumulate options,” as if the next corner will provide the happiness you’ve been seeking all along. 
 
+在那之前，他将沿着生活中令人心碎的垫脚石蹒跚前行：在初中努力学习，这样你就能在高中表现出色；在高中努力学习，这样你就能在大学表现出色；在大学努力学习，这样你就能得到一份受人尊敬的工作；得到一份受人尊敬的工作，这样有一天，在你的职业生涯即将结束时，你终于可以做你想做的事。一边是 “培养技能”，一边是 “积累选择”，仿佛下一个角落就能提供你一直以来所追求的幸福。 
+
+
 In an essay called [_The Trouble with Optionality_,](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) Harvard professor Mihir Desai worries that the language of finance has polluted life. He condemns the modern, finance-fueled affair with optionality. Rather than taking risks or working on important projects, students acquire options. In finance, when you hold an option and the world moves with you, you enjoy the benefits; when the world moves against you, your downside risk is protected and you don’t have to do anything. The more optionality, the better. Picking a path reduces optionality, so people stay in limbo and don’t make commitments. This language doesn’t only apply to career planning. Some students talk about marriage as the death of optionality. But life is not like options trading. 
+
+哈佛大学教授米希尔·德赛（Mihir Desai）在一篇名为 [_The Trouble with Optionality_]（https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/）的文章中担心，金融语言已经污染了生活。他谴责现代的、以金融为动力的期权性事件。学生们不是在承担风险或从事重要的项目，而是在获得期权。在金融学中，当你持有期权，世界随你而动时，你就享受到了好处；当世界对你不利时，你的下行风险得到了保护，你不必做任何事情。选项性越多越好。选定一条道路会减少选择权，所以人们会一直处于迷茫状态，不做承诺。这种语言不只适用于职业规划。一些学生谈到婚姻是选择权的死亡。但生活并不像期权交易。 
+
 
 Optionality is a means to an end, not the end itself. Our obsession with optionality can backfire. In theory, these safety nets give them freedom. Bolstered by the confidence of security, they can jump head-first into ambitious projects. In practice, they become habitual acquirers of safety nets and never work on anything of substance. The longer they spend acquiring options, the harder it is to stop.
 
