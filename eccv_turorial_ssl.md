@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=RhNZUyOubfE
+
+
+
 计算机视觉的发展很惊人，有很多令人惊喜的 milestone
 
 ![image-20230330194659385](./eccv_turorial_ssl.assets/image-20230330194659385.png)
