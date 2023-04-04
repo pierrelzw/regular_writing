@@ -1,30 +1,61 @@
 Peter Thiel’s Religion
+
+彼得·蒂尔的宗教信仰
+
 ======================
 
 > _“I am the Lord your God.” — 1st Commandment_
 
+>_“我是耶和华你的神”。- 第一条诫命 _
+
+
 Human culture began with a murder. That culture was fueled by rage and rivalry, which led to violence. Managing that violence is the secret reason for all religious and political institutions.
+
+人类文化始于一场谋杀。这种文化被愤怒和竞争所助长，导致了暴力。管理这种暴力是所有宗教和政治机构的秘密原因。
+
 
 In _The Bible_, The Cain and Abel story is the first act of life after the Garden of Eden. Cain is a farmer and the older brother to Abel, who is a shepherd. Initially, Cain admires Abel. But eventually, when Cain turns envious of his younger and more successful brother, he kills him. The two brothers represent two halves of the human psyche: Abel represents the part that looks up towards the transcendent, where Cain represents the other that looks down towards death and destruction.
 
+在《圣经》中，该隐和亚伯的故事是伊甸园之后生命的第一个行为。该隐是一个农民，是作为牧羊人的亚伯的哥哥。起初，该隐很欣赏亚伯。但最终，当该隐转而羡慕他更年轻、更成功的哥哥时，他杀了他。这两兄弟代表了人类心理的两部分： 亚伯代表着仰望超然的部分，而该隐则代表着俯视死亡和毁灭的另一部分。
+
+
 Depending on who you ask, the significance of the Cain and Abel story ranges from nothing to everything. For some, the Christian cross is too strange to be taken seriously. It’s archaic and stuck inside a biblical world that can no longer speak to the challenges of life with iPhones, Tinder, and $12 avocado toast. But to others, religion is the foundation of human culture. Without it, peace cannot be maintained and violence will erupt like an angry volcano. 
+
+取决于你问谁，该隐和亚伯的故事的意义从无到有。对一些人来说，基督教的十字架太奇怪了，不能认真对待。它是陈旧的，停留在圣经的世界里，不能再与 iPhone、Tinder 和 12 美元鳄梨吐司的生活挑战对话。但对其他人来说，宗教是人类文化的基础。没有它，和平就无法维持，暴力就会像愤怒的火山一样爆发出来。 
+
 
 _What does Peter Thiel think? Is religion a superfluous add-on or the origin of everything?_
 
+_Peter Thiel 怎么想？宗教是多余的附加物还是一切的起源？
+
+
 In this essay, we’ll explore the significance of religion and the Cain and Abel story. We’ll learn why the story is an archetype for human relationships, even in the Western world where people stiff-arm religion like it’s the Heisman trophy.
+
+在这篇文章中，我们将探讨宗教和该隐和亚伯故事的意义。我们将了解为什么这个故事是人类关系的原型，即使在西方世界，人们把宗教当作海斯曼奖杯一样僵持着。
+
 
 We’ll study religion through the lens of Peter Thiel. He’s an investor who found wealth in PayPal, a student who found wisdom in Libertarian ideals, and a philosopher who found faith in the resurrection of Jesus Christ. Thiel was raised as an Evangelical and inherited the Christianity of his parents. But his beliefs are “somewhat heterodox.” In a profile in the _New Yorker_, Thiel said: “I believe Christianity to be true. I don’t feel a compelling need to convince other people of that.”
 
+我们将通过彼得·蒂尔的视角研究宗教。他是一个在贝宝(PayPal)找到财富的投资者，一个在自由主义理想中找到智慧的学生，以及一个在耶稣基督的复活中找到信仰的哲学家。泰尔作为福音派教徒长大，继承了他父母的基督教信仰。但他的信仰是 “有点异端” 的。在《纽约客》杂志的一篇简介中，泰尔说： "我相信基督教是真实的。我不觉得有迫切的需要去说服其他人。
+
+
 Three simple statements will lead us towards our ultimate answer about the importance of religion: 
 
+三个简单的声明将引导我们走向关于宗教重要性的最终答案： 
+
 1.  Don’t copy your neighbors
+1.  不要模仿你的邻居
     
 2.  Time moves forward
+2.  时间向前推移
     
 3.  The future will be different from the present
     
 
 Rather than focusing on Thiel’s actions, I’ve chosen to focus on his ideas. First, we’ll explore the principles of Peter Thiel’s worldview. We’ll begin by explaining Thiel’s connection to a French philosopher named Rene Girard. We’ll return to old books like _The Bible_, old ideas like sacrifice, and old writers like Shakespeare, and see why this ancient wisdom holds clues for modern life. Then, we’ll return to the tenets of the Christian story. We’ll cover the shift from cyclical time to linear time, which was spurred by technological development and human progress. We’ll see why the last book in _The Bible,The Book of Revelation,_ is a core pillar of Thiel’s philosophy. Then, we’ll close with Thiel’s advice and wisdom almost as old as Cain and Abel: the Ten Commandments.
+
+我没有关注泰尔的行动，而是选择关注他的想法。首先，我们将探讨彼得·蒂尔的世界观原则。我们将首先解释泰尔与一位名叫雷内·吉拉德的法国哲学家的联系。我们将回到像《圣经》这样的旧书，像牺牲这样的旧思想，以及像莎士比亚这样的旧作家，并看看为什么这些古老的智慧对现代生活。然后，我们将回到基督教故事的信条上。我们将介绍从周期性时间到线性时间的转变，这是由技术发展和人类进步所刺激的。我们将看到为什么《圣经》的最后一本书，即《启示录》，是泰尔哲学的核心支柱。然后，我们将以泰尔的建议和智慧结束，这些建议和智慧几乎与该隐和亚伯一样古老：十条诫命。
+
 
 ![IMG_DB41477003EB-2.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_DB41477003EB-2.jpeg?w=750&ssl=1)
 
@@ -68,7 +99,7 @@ Rene Girard was a French historian and literary critic. He’s famous for _Mimet
 
 Mimetic Theory rests on the assumption that all our cultural behaviors, beginning with the acquisition of language by children are imitative. He sees the world as a theatre of envy, where, like mimes, we imitate other people’s desires. His theory builds upon the kinds of books and people that modern people tend to ignore: _The Bible_, classic fiction writers such as Marcel Proust, and playwrights like Shakespeare. 
 
-拟态理论基于这样的假设：我们所有的文化行为，从儿童获得语言开始都是模仿性的。他认为世界是一个嫉妒的剧场，在那里，我们像哑剧一样，模仿其他人的欲望。他的理论建立在现代人倾向于忽视的各种书籍和人物之上：《圣经》、马塞尔·普鲁斯特等经典小说家和莎士比亚等剧作家。 
+模拟理论基于这样的假设：我们所有的文化行为，从儿童获得语言开始都是模仿性的。他认为世界是一个嫉妒的剧场，在那里，我们像哑剧一样，模仿其他人的欲望。他的理论建立在现代人倾向于忽视的各种书籍和人物之上：《圣经》、马塞尔·普鲁斯特等经典小说家和莎士比亚等剧作家。 
 
 
 Mimetic conflict emerges when two people desire the same, scarce resource. Like lions in a cage, we mirror our enemies, fight because of our sameness, and ascend status hierarchies instead of providing value for society. Only by observing others do we learn how and what to desire. Our Mimetic nature is simultaneously our biggest strength and biggest weakness. When it goes right, imitation is a shortcut to learning. But when it spirals out of control, Mimetic imitation leads to envy, violence, and bitter, ever-escalating violence. 
@@ -1256,37 +1287,84 @@ Sometimes, Straussians hide truths in plain sight. When they do, they’re conce
 
 ### **Be Careful Who You Copy**
 
+### **小心你复制的对象**。
+
+
 _“Then I saw that all toil and all skill in work come from a man’s envy of his neighbor. This also is vanity and a striving after wind.” —_ Ecclesiastes 4:4
+
+后来我看见一切的劳苦和工作的技巧，都是出于人对邻舍的嫉妒。这也是虚妄，是争风吃醋。" -《传道书》4:4
+
 
 Even if imitation is inevitable, we can reduce the negative effects of it. We can avoid the kinds of competition that lead to violence. If Girard is right, we are not as individualistic as we think we are. If we must copy others, we should be careful who we copy. 
 
+即使模仿是不可避免的，我们也可以减少它的负面影响。我们可以避免导致暴力的各种竞争。如果吉拉德是对的，我们并不像我们认为的那样是个人主义的。如果我们必须模仿别人，我们应该小心我们模仿的对象。 
+
+
 Thiel encourages people to ask themselves: “How do I become less competitive in order that I can become more successful?”
+
+泰尔鼓励人们问自己：“我怎样才能减少竞争，以使我变得更加成功？”
+
 
 Ask a Christian and they’ll say that you should _only_ imitate Jesus. That’s why, in _Revelations,_ humanity receives a warning: “In the future, an Antichrist will come who brings a promise: we can all be Gods and models for one another, and we can all live in harmony together.” In a world where everybody is a model, anybody can become a scapegoat. This is a recipe for evil. Rather than turning to each other for answers, the Bible tells us to imitate Jesus, and nobody else. Or as Christ says: “Imitate me as I imitate the father.”
 
+问基督徒，他们会说，你应该 _ 只模仿耶稣。这就是为什么在《启示录》中，人类收到了一个警告：“在未来，一个反基督者将会到来，他带来了一个承诺：我们都可以成为神，成为彼此的榜样，我们都可以和谐地生活在一起。” 在一个人人都是模范的世界里，任何人都可以成为替罪羊。这是一个（走向）罪恶的配方。《圣经》告诉我们，与其向对方寻求答案，不如模仿耶稣，而不是其他任何人。或者如基督所说：“你们要效法我，就像我效法父一样”。
+
+
 I’m not sure that works for me. I feel an intellectual pull towards Christianity, but not an emotional one. Many of my secular friends feel the same way. Telling them to only follow Jesus’ teachings wouldn’t be productive. To a Christian, Jesus’ words carry the weight of the world. To me, they’re like a brick: heavy enough to make me careful, but light enough to add other ones to my mental backpack.  
+
+我不确定这对我是否有效。我觉得对基督教有一种智力上的吸引力，但不是情感上的。我的许多世俗朋友也有同样的感觉。告诉他们只追随耶稣的教义是没有用的。对一个基督徒来说，耶稣的话语承载着世界的重量。对我来说，它们就像一块砖头：重到足以让我小心翼翼，但又轻到可以在我的精神背包里增加其他的砖头。  
+
 
 According to Girard, the more differentiated a society, the more stable it is. But on the internet, everybody feels like an undifferentiated peer. Social media decreases the distance between people and their role models, so the pull to idolize false gods is greater than ever. Pair that with the blank slate theory that anybody can do whatever they want, and you have a recipe for runaway Girardian conflict. YouTube celebrities and Instagram influencers sell the exact kinds of behaviors that the Bible warns us about. By manufacturing envy, they tell fans that if they look like them, dress like them, and act like them, they can become them. 
 
+根据吉拉德的说法，一个社会的差异化越大，它就越稳定。但是在互联网上，每个人都觉得自己是一个没有区别的同龄人。社交媒体减少了人们和他们的榜样之间的距离，所以崇拜假神的拉力比以往更大。这与任何人都可以做他们想做的事情的白板理论相配，你就有了一个失控的吉拉德冲突的配方。YouTube 上的名人和 Instagram 上的影响者出售的正是《圣经》警告我们的那种行为。通过制造嫉妒，他们告诉粉丝，如果他们看起来像他们，穿着像他们，行为像他们，他们就能成为他们。 
+
+
 We all form our identity by looking towards others. Since everybody copies, we can improve society by encouraging people to copy the right people. As a kid, back when I was 100% sure I was going to be a professional baseball player, I looked up to J.T. Snow, the first basemen for the San Francisco Giants. I was obsessed. I scavenged the kids’ section for his jerseys and waited patiently for autographs at the annual Giants meet-and-greet. I copied his mannerisms, his jersey number, and his position on the baseball field. And in 4th grade, I brought a chocolate ice cream cake to school to celebrate _his_ birthday. 
+
+我们都是通过向他人看齐来形成自己的身份。由于每个人都会复制，我们可以通过鼓励人们复制正确的人来改善社会。作为一个孩子，当我 100% 确定我将成为一名职业棒球运动员时，我崇拜旧金山巨人队的一垒手 J.T. Snow。我很着迷。我在儿童区搜罗他的球衣，并在每年的巨人队见面会上耐心等待他的签名。我模仿他的举止，他的球衣号码，以及他在棒球场上的位置。四年级时，我带了一个巧克力冰激凌蛋糕到学校庆祝他的生日。 
+
 
 Here’s how Thiel would respond to my imitative instincts: Be careful who you copy. If you’re going to follow a role model, find one who you won’t compete with. Don’t look to your peers for answers. Find somebody in a different stage of life who you admire and respect. They should be somebody who defied the status quo and took an independent path. In life, you have two options: (1) you can dispassionately accept the universe for what it is, or (2) you can put your dent in it. But you can’t do both. 
 
+以下是泰尔对我的模仿本能的回应：要小心你模仿的对象。如果你要跟随一个榜样，那就找一个你不会与之竞争的人。不要向你的同龄人寻求答案。找一个处于不同人生阶段的人，他是你敬佩和尊重的人。他们应该是蔑视现状，走独立道路的人。在生活中，你有两个选择：（1）你可以冷静地接受宇宙是什么，或者（2）你可以把你的凹痕放在它上面。但你不可能两者都做。 
+
+
 Win the decade, not the day. For example, if you’re a writer, your goals should transcend the _New York Times Bestseller List._ Think bigger than that. If you’re going to model a famous writer, pick a dead one such as Tolstoy or Hemingway. They are real enough to model. Since they’re dead, you won’t compete with them directly. Better yet, you can copy more than their writing. If you want to stretch your imagination, you can live where they lived and read what they read. That way, you can ignore superficial status competitions and think beyond the day-to-day stress of writing a book.
+
+赢得十年，而不是一天。例如，如果你是一个作家，你的目标应该超越《纽约时报》的畅销书名单。如果你要塑造一个著名的作家，那就选一个已经去世的作家，如托尔斯泰或海明威。他们是真实的，足以成为模型。既然他们已经死了，你就不会与他们直接竞争。更好的是，你可以复制比他们的写作更多的东西。如果你想扩展你的想象力，你可以住在他们住的地方，读他们读的东西。这样，你就可以忽略表面上的地位竞争，并超越写书的日常压力进行思考。
+
 
 I suspect this is why Thiel admires Elon Musk so much. Since the first day of SpaceX, Elon has been on a mission to go to Mars. Since the entire company was aligned around the mission, the employees were motivated and paddling the boat in the same inspiring direction.
 
+我怀疑这就是为什么泰尔如此崇拜伊隆·马斯克。从 SpaceX 的第一天起，埃隆就肩负着去火星的使命。由于整个公司都围绕着这个使命，员工们都被激励着，朝着同一个鼓舞人心的方向划着船。
+
+
 Great people trade the temptations of today for the trophies of tomorrow. Think like you’re immortal. Place the eternal before the perishable. Treat people like you’ll know them for the next ten thousand years and work on the kinds of projects you’ll be proud to tell your grandchildren about. Live like you’ll be alive forever. When in doubt, follow the Ten Commandments.
+
+伟大的人用今天的诱惑换取明天的战利品。像你是不朽的一样思考。把永恒的东西放在易逝的东西之前。对待别人就像你会在未来一万年内认识他们一样，并在你会自豪地告诉你的孙子的那种项目上工作。活得像你会永远活着。如果有疑问，请遵循十诫。
+
 
 * * *
 
 ### **Follow the Ten Commandments**
 
+### **遵循十条诫命***
+
+
 _“Thou shalt not covet your neighbor’s goods.” — 10th Commandment_
+_“你不可贪恋邻居的财物。” - 第十条诫命 _
+
 
 To return to our initial question about the significance of the Cain and Abel story, we return to Rene Girard. From history, Girard learned that human relations are built on the primacy of violence. That’s why the Cain and Abel story is the archetypal example of Mimetic conflict, and Thiel sees Christianity as the optimal solution to apocalyptic violence. 
 
+为了回到我们最初关于该隐和亚伯故事的意义的问题，我们回到了吉拉德（Rene Girard）。从历史中，吉拉德了解到，人类关系是建立在暴力的首要地位上的。这就是为什么该隐和亚伯的故事是模仿性冲突的典型例子，而蒂尔将基督教视为世界末日暴力的最佳解决方案。 
+
+
 As Girard once said: “There are fundamentally only two ways of looking at religion: as superfluous, added on—or as the origin of everything.” If there can be no in-between, I suspect that like Girard, Thiel sees religion as the origin of everything.
+
+正如吉拉德曾经说过的：“从根本上说，只有两种看待宗教的方式：作为多余的、附加的或作为一切的起源”。如果没有中间地带，我怀疑泰尔和吉拉德一样，把宗教看作是一切的起源。
+
 
 ![public.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/public-2.jpeg?w=750&ssl=1)
 
@@ -1294,23 +1372,50 @@ As Girard once said: “There are fundamentally only two ways of looking at reli
 
 Thiel closed his [Dave Rubin interview](https://www.youtube.com/watch?v=kjTlvw8Wh-8) with practical career advice, inspired by the Ten Commandments. 
 
+泰尔以实用的职业建议结束了他的 [Dave Rubin 访谈](https://www.youtube.com/watch?v=kjTlvw8Wh-8)，其灵感来自十诫。 
+
+
 The first commandment says that we should only look to God. There is only one God and you should worship him. Look up, not around. Follow _The Bible,_ which says there is no salvation in anyone other than Jesus. You won’t figure out what to do by looking at your peers, so don’t copy the people around you. Instead, we’ll end up in copycat rivalries where we claw and fight with each other like crabs in a bucket. 
+
+第一条戒律说，我们应该只仰望上帝。只有一位上帝，你应该敬拜他。仰望，而不是环绕。遵循《圣经》，《圣经》说，除了耶稣之外，任何人都没有救赎。你不会通过观察你的同龄人来弄清楚该怎么做，所以不要模仿你周围的人。相反，我们最终会陷入山寨的竞争中，像桶里的螃蟹一样互相抓挠和争斗。 
+
 
 The last commandment says you shouldn’t covet your neighbor’s goods. Inspired by the 10th commandment, Thiel encourages listeners to avoid competition. True to Mimetic Theory, the last commandment focuses on the neighbor instead of the object of desire because all objects are desirable when they belong to your neighbor. Society will push you towards competition, but you shouldn’t compete with your peers or depend on them for guidance. Competition is for losers. Instead of looking to the people around you for answers, find models that you cannot compete with. If you’re Christian, follow Jesus, and if you’re not, follow an intellectual hero who is way ahead of you. Rather than using your peers as a reference point, find your own transcendent orientation. 
 
+最后一条戒律说你不应该觊觎邻居的物品。受第十条诫命的启发，泰尔鼓励听众避免竞争。忠实于模拟理论，最后一条戒律关注的是邻居而不是欲望的对象，因为任何事物在属于你邻居的时候都会变成你想要的。社会会把你推向竞争，但你不应该与你的同龄人竞争，也不应该依赖他们的指导。竞争是为失败者准备的。与其向你周围的人寻求答案，不如找到你无法竞争的模式。如果你是基督徒，就追随耶稣，如果你不是，就追随一个远远领先于你的知识英雄。与其把你的同龄人作为参考点，不如找到你自己的超越性取向。 
+
+
 Let the flame of Definite Optimism burn away the Mimetic virus. Use the Internet to curate your environment, so you can be hyper-mimetic towards the rare few who are anti-mimetic. Copy the people who don’t copy people. Take risks. Build a differentiated skillset. Pursue timeless wisdom, not intellectual fashions. Be skeptical of convention, and don’t let it double as a shortcut to the truth. Work on problems that [nobody else is working on](https://perell.com/essay/what-should-you-work-on), especially if you’re uniquely capable of solving them. And ultimately, ask the questions you’re not supposed to ask, so you can find the answers you’re not supposed to find. 
 
+让明确的乐观主义的火焰烧掉模仿的病毒。利用互联网来策划你的环境，这样你就可以对极少数反模仿的人进行超模仿。模仿那些不模仿别人的人。承担风险。建立一个与众不同的技能组合。追求永恒的智慧，而不是追求知识的时尚。对传统持怀疑态度，不要让它成为通往真理的捷径。致力于解决[别人没有在做的问题](https://perell.com/essay/what-should-you-work-on)，特别是如果你有独特的能力来解决这些问题。最终，问那些你不应该问的问题，这样你才能找到你不应该找到的答案。 
+
+
 Guided by the Cain and Abel story, remember the danger of imitating the wrong person. At first, it can inspire cooperation. But over time, it leads to envy, violence, and the apocalypse. 
+
+以该隐和亚伯的故事为指导，记住模仿错误的人的危险。起初，它可以激发合作。但随着时间的推移，它会导致嫉妒、暴力和浩劫。 
+
 
 * * *
 
 ### **Footnotes**
 
+### **脚注**
+
+
 ¹ In addition to St. Augustine, writers such as Adam Smith, Thomas Jefferson, and Benjamin Franklin supported Christian ideals of progress. Adam Smith’s book, The Wealth of Nations is regarded as economics’ foundational text. Smith declares that there’s a natural order to the progress of nations. His “invisible hand” doesn’t just speak to the stability of the economic system, but also to the natural progress of wealth, labor, skill, rent, and profits. Western civilization is built on these ideals. Two of America’s founding fathers, Thomas Jefferson and Benjamin Franklin operated with a similar progress-inspired philosophy.
+
+除了圣奥古斯丁之外，亚当·斯密、托马斯·杰斐逊和本杰明·富兰克林等作家也支持基督教的进步理想。亚当·斯密的《国富论》一书被认为是经济学的奠基之作。斯密宣称，国家的进步有一个自然秩序。他的 “看不见的手” 不仅仅是指经济体系的稳定性，也是指财富、劳动、技能、租金和利润的自然进步。西方文明是建立在这些理想之上的。美国的两位开国元勋，托马斯·杰斐逊和本杰明·富兰克林以类似的进步启发的哲学来运作。
+
 
 Writing two years before his death in 1824, Thomas Jefferson marveled at all the progress he had witnessed in his life: “And where this progress. No one can say. Barbarism has, in the meantime, been receding before the steady step of amelioration, and will in time, I trust, disappear from the earth.”
 
+托马斯·杰斐逊在 1824 年去世前两年写道，他对自己一生中目睹的所有进步感到惊叹：“而这种进步在哪里。没有人能够说清楚。在此期间，野蛮人一直在改善的稳定步伐前退却，而且我相信到时候会从地球上消失。”
+
+
 Likewise, in a letter to a friend, Benjamin Franklin wrote: “It is impossible to imagine the height to which may be carried, in a thousand years, the power of Man over Matter.”
+
+同样，本杰明·富兰克林在给一位朋友的信中写道："无法想象在一千年内，人对物质的控制力量可能达到何种高度。
+
 
 * * *
 
@@ -1318,91 +1423,61 @@ Likewise, in a letter to a friend, Benjamin Franklin wrote: “It is impossible 
 
 Thank you to Kevin Harrington for the conversations that led to this post. Your wisdom and feedback is invaluable to me, and I’m grateful for our friendship. This essay is for you. 
 
+感谢凯文·哈灵顿（Kevin Harrington）的谈话，导致了这篇文章的发表。你的智慧和反馈对我来说是无价的，我很感激我们的友谊。这篇文章是为你写的。 
+
+
 Thank you to the other people who contributed to this essay through feedback and conversation: Brent Beshore, Lyn Cook, Nick Maggiulli, Sid Jha, Bushra Farooqui, Jeremy Giffon, James Patterson, Manan Hora, Ben Colley, and Michael Naka.
+
+感谢其他通过反馈和对话为本文做出贡献的人： Brent Beshore, Lyn Cook, Nick Maggiulli, Sid Jha, Bushra Farooqui, Jeremy Giffon, James Patterson, Manan Hora, Ben Colley, and Michael Naka.
+
 
 Cover Photo: [JD Lasica](https://www.flickr.com/photos/jdlasica/) | [CC 2.0 License](https://creativecommons.org/licenses/by/2.0/) via [Flickr.](https://www.flickr.com/photos/jdlasica/16103310713/in/photostream/)
 
 Links to this Essay
 -------------------
 
-[Annual Review 2020
+[Annual Review 2020](https://perell.com/essay/annual-review-2020/) Writing this Annual Review, I realize that I’m incredibly fortunate.
 
-Writing this Annual Review, I realize that I’m incredibly fortunate.
-
-](https://perell.com/essay/annual-review-2020/)[Why You’re Christian
+[Why You’re Christian](https://perell.com/essay/why-youre-christian/)
 
 Becoming an educated citizen starts with understanding the lineage of your beliefs. For example, look at this iconic line from one of America’s founding documents:
 
 “We hold these truths to be self-evident that all men are created equal.”
 
-](https://perell.com/essay/why-youre-christian/)[Annual Review: 2019
+
+[Annual Review: 2019](https://perell.com/essay/annual-review-2019/)
 
 The New Year is a time to stop and slow down. It’s a time to reflect on the previous year and plan for the upcoming one. Every holiday season, I reserve time to conduct an Annual Review.
 
-](https://perell.com/essay/annual-review-2019/)[Hugging the X-Axis
+[Hugging the X-Axis](https://perell.com/essay/hugging-the-x-axis/)
 
 I’ve always struggled with commitment. In a world as grand as ours, shouldn’t we try to experience it all? Change it up. Visit every country. Try a bunch of careers. The menu of life is vast, and it’d be a shame to only order a single entrée.
 
-](https://perell.com/essay/hugging-the-x-axis/)[Annual Review 2021
+[Annual Review 2021](https://perell.com/essay/annual-review-2021/)
 
 I’ll start this Annual Review by reflecting on 2021. I’ll share highlights and reflect on the goals I set at the beginning of the year. Later, I’ll outline how I plan to improve my life and set a new vision for 2022.
 
-](https://perell.com/essay/annual-review-2021/)[What Should You Work On?
+[What Should You Work On?](https://perell.com/essay/what-should-you-work-on/)
 
 People aren’t deliberate enough about choosing what to work on.
 
-](https://perell.com/essay/what-should-you-work-on/)[Audience-First Products
+[Audience-First Products](https://perell.com/essay/audience-first-products/)
 
 We’ve reached a tipping point for the creation of online businesses.
 
-](https://perell.com/essay/audience-first-products/)[Private: Why Peter Thiel Searches for Reality-Bending ‘Secrets’
+[Private: Why Peter Thiel Searches for Reality-Bending ](https://perell.com/?post_type=essays&p=8057)
 
 Peter Thiel’s obsession is evident in his famous interview question: “What important truth do very few people agree with you on?”
 
 But where did his obsession with secrets come from?
 
-](https://perell.com/?post_type=essays&p=8057)[Imitate, then Innovate
+[Imitate, then Innovate](https://perell.com/essay/imitate-then-innovate/)
 
 Imitate, then Innovate is my motto for improving at any skill. 
 
 It’s counterintuitive, but the more we imitate others, the faster we can discover our unique style.
 
-](https://perell.com/essay/imitate-then-innovate/)[The Book You Need to ReadThere is an epidemic of people who bash Christianity but haven’t read the Bible.
+[The Book You Need to Read](https://perell.com/essay/the-book-you-need-to-read/)
+There is an epidemic of people who bash Christianity but haven’t read the Bible.
 
-No matter where you stand on religion, if you don’t know what the Bible actually says, it’s time to change that.](https://perell.com/essay/the-book-you-need-to-read/)  
-
-More essays
-
-[All essays](https://perell.com/essays/)
-
-How To Build Your **Personal Monopoly**
----------------------------------------
-
-Download a free lesson from my premier program Write of Passage course and **uncover your strengths, clearly communicate your value, and start building your reputation online today.**
-
-![](https://i0.wp.com/perell.com/wp-content/uploads/2020/12/cropped-dp_square-1.png?fit=300%2C300&ssl=1)
-
-*   [Twitter](https://twitter.com/david_perell)
-*   [YouTube](https://www.youtube.com/channel/UC0a_pO439rhcyHBZq3AKdrw)
-
-*   [Notebook](https://perell.com/notebook/)
-*   [About](https://perell.com/about/)
-*   [Links](https://perell.com/links/)
-
-![](https://i0.wp.com/perell.com/wp-content/uploads/2020/12/david-perell-write-of-passage-mark.png?fit=213%2C232&ssl=1)
-
-Accelerate Your Career by Writing Online
-----------------------------------------
-
-Write of Passage teaches a step-by-step method for publishing quality content. [Learn more](https://writeofpassage.school/).
-
-© David Perell.  [Powered by WordPress.](https://wordpress.com/wp/?partner_domain=perell.com&utm_source=Automattic&utm_medium=colophon&utm_campaign=Concierge%20Referral&utm_term=perell.com) [Hosted by Pressable.](https://pressable.com/?utm_source=Automattic&utm_medium=rpc&utm_campaign=Concierge%20Referral&utm_term=concierge)
-
-![](https://i0.wp.com/perell.com/wp-content/uploads/2020/12/david-perell-write-of-passage-mark.png?fit=213%2C232&ssl=1)
-
-Accelerate Your Career by Writing Online
-----------------------------------------
-
-Write of Passage teaches a step-by-step method for publishing quality content. [Learn more](https://writeofpassage.school/).
-
- .wp-block-columns.wp-container-3{flex-wrap:nowrap;}.wp-block-group.wp-container-4 > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:90%;margin-left:auto !important;margin-right:auto !important;}.wp-block-group.wp-container-4 > .alignwide{max-width:90%;}.wp-block-group.wp-container-4 .alignfull{max-width:none;} var JetpackInstantSearchOptions=JSON.parse(decodeURIComponent("%7B%22overlayOptions%22%3A%7B%22colorTheme%22%3A%22light%22%2C%22enableInfScroll%22%3Atrue%2C%22enablePostDate%22%3Atrue%2C%22enableSort%22%3Atrue%2C%22highlightColor%22%3A%22%23FFC%22%2C%22overlayTrigger%22%3A%22submit%22%2C%22resultFormat%22%3A%22minimal%22%2C%22showPoweredBy%22%3Atrue%2C%22defaultSort%22%3A%22newest%22%2C%22excludedPostTypes%22%3A%5B%22page%22%2C%22attachment%22%2C%22fellowship%22%2C%22fellowship-essays%22%5D%7D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fperell.com%22%2C%22locale%22%3A%22en-US%22%2C%22postsPerPage%22%3A12%2C%22siteId%22%3A182345211%2C%22postTypes%22%3A%7B%22page%22%3A%7B%22singular\_name%22%3A%22Page%22%2C%22name%22%3A%22Pages%22%7D%2C%22attachment%22%3A%7B%22singular\_name%22%3A%22Media%22%2C%22name%22%3A%22Media%22%7D%2C%22essays%22%3A%7B%22singular\_name%22%3A%22Essay%22%2C%22name%22%3A%22Essays%22%7D%2C%22note%22%3A%7B%22singular\_name%22%3A%22Note%22%2C%22name%22%3A%22Notes%22%7D%2C%22podcast%22%3A%7B%22singular\_name%22%3A%22Podcast%22%2C%22name%22%3A%22Podcasts%22%7D%2C%22fellowship%22%3A%7B%22singular\_name%22%3A%22Fellowship%22%2C%22name%22%3A%22Fellowships%22%7D%2C%22fellowship-essays%22%3A%7B%22singular\_name%22%3A%22Fellowship%20Essay%22%2C%22name%22%3A%22Fellowship%20Essays%22%7D%7D%2C%22webpackPublicPath%22%3A%22https%3A%5C%2F%5C%2Fperell.com%5C%2Fwp-content%5C%2Fplugins%5C%2Fjetpack%5C%2Fjetpack\_vendor%5C%2Fautomattic%5C%2Fjetpack-search%5C%2Fbuild%5C%2Finstant-search%5C%2F%22%2C%22isPhotonEnabled%22%3Atrue%2C%22isFreePlan%22%3Afalse%2C%22apiRoot%22%3A%22https%3A%5C%2F%5C%2Fperell.com%5C%2Fwp-json%5C%2F%22%2C%22apiNonce%22%3A%2281a311f1f5%22%2C%22isPrivateSite%22%3Afalse%2C%22isWpcom%22%3Afalse%2C%22hasOverlayWidgets%22%3Atrue%2C%22widgets%22%3A%5B%5D%2C%22widgetsOutsideOverlay%22%3A%5B%5D%2C%22hasNonSearchWidgets%22%3Atrue%7D")); /\* <!\[CDATA\[ \*/ var linkPreviewData = {"http:\\/\\/bookhaven.stanford.edu\\/2016\\/01\\/memorial-service-and-reception-for-rene-girard-on-tuesday-jan-19-be-there":{"title":"Memorial service and reception for Ren\\u00e9 Girard on Tuesday, Jan. 19. Be there.","description":"A memorial s","error":""},"http:\\/\\/taxprof.typepad.com\\/taxprof\_blog\\/2016\\/05\\/peter-thiels-advice-to-graduates-my-ambition-to-be-a-lawyer-was-less-a-plan-for-the-future-than-an-a.html":{"title":"TaxProf Blog: Peter Thiel\\\\'s Advice To Graduates: \\\\'My Ambition To Be A Lawyer Was Less A Plan For The Future Than An Alibi For The Present\\\\'","description":"Peter Thiel (Co-founder, PayPal), Commencement Address at Hamilton College (May 22, 2016): (Click on YouTube button on bottom right to view video directly on YouTube to avoid interruption caused by blog\\\\'s refresh rate.) Thank you so much for the kind introduction. It\\u2019s a tremendous honor to be here. Like most...","error":""},"https:\\/\\/www.rottentomatoes.com\\/m\\/fight\_club\\/quotes":{"title":"Fight Club - Movie Quotes - Rotten Tomatoes","description":"","error":""},"https:\\/\\/amzn.to\\/2JZ6LiF":{"title":"Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue: Holiday, Ryan: 9780735217645: Amazon.com: Books","description":"Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue \[Holiday, Ryan\] on Amazon.com. \*FREE\* shipping on qualifying offers. Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue","error":""},"https:\\/\\/www.reuters.com\\/article\\/us-facebook-stake\\/peter-thiel-sells-most-of-remaining-facebook-stake-idUSKBN1DM2BQ":{"title":"Peter Thiel sells most of remaining Facebook stake","description":"Facebook Inc\\\\'s first major investor Peter Thiel has sold three-quarters of his remaining stake in the social network as part of a previously established trading plan, a regulatory filing showed.","error":""},"https:\\/\\/amzn.to\\/32HoS58":{"title":"Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue: Holiday, Ryan: 9780735217645: Amazon.com: Books","description":"Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue \[Holiday, Ryan\] on Amazon.com. \*FREE\* shipping on qualifying offers. Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue","error":""},"https:\\/\\/amzn.to\\/2K5gjZh":{"title":"The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter: Henrich, Joseph: 9780691166858: Amazon.com: Books","description":"Buy The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter on Amazon.com \\u2713 FREE SHIPPING on qualified orders","error":""},"https:\\/\\/amzn.to\\/2LM7Uxt":{"title":"Amazon.com: Zero to One: Notes on Startups, or How to Build the Future eBook: Thiel, Peter, Masters, Blake: Kindle Store","description":"Zero to One: Notes on Startups, or How to Build the Future - Kindle edition by Thiel, Peter, Masters, Blake. Download it once and read it on your Kindle device, PC, phones or tablets. Use features like bookmarks, note taking and highlighting while reading Zero to One: Notes on Startups, or How to Build the Future.","error":""},"https:\\/\\/timothykeller.com\\/blog\\/2015\\/4\\/4\\/when-hope-and-history-rhyme":{"title":"When Hope and History Rhyme \\u2014 Timothy Keller","description":"The ancients saw history as&nbsp;repetitious and endless. Christianity, however, understands history to be under the control of God who is moving it purposefully toward a great and irreversible climax.","error":""},"http:\\/\\/www.john3-16.net\\/OneLife.htm":{"title":"One Solitary Life","description":"A story about Jesus Christ","error":""},"https:\\/\\/amzn.to\\/2lfNHnn":{"title":"History of the Idea of Progress: Nisbet, Robert: 9781560007135: Amazon.com: Books","description":"History of the Idea of Progress \[Nisbet, Robert\] on Amazon.com. \*FREE\* shipping on qualifying offers. History of the Idea of Progress","error":""},"https:\\/\\/amzn.to\\/2JSBbo5":{"title":"Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue: Holiday, Ryan: 9780735217645: Amazon.com: Books","description":"Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue \[Holiday, Ryan\] on Amazon.com. \*FREE\* shipping on qualifying offers. Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue","error":""},"https:\\/\\/www.patheos.com\\/blogs\\/inebriateme\\/2014\\/06\\/peter-thiel-and-the-cathedral":{"title":"Peter Thiel And The Cathedral","description":"There\\\\'s been a panel discussion between Peter Thiel, N.T. Wright and Ross Douthat, as I relate in my other haunt at Forbes, organized by the Veritas","error":""},"http:\\/\\/www.bbc.com\\/future\\/story\\/20190611-how-to-build-something-that-lasts-10000-years":{"title":"How to build something that lasts 10,000 years","description":"Few human-made structures last for millenia, but as Alexander Rose explains, it is possible for design for extreme longevity if you look to the lessons of history.","error":""},"https:\\/\\/play.google.com\\/store\\/books\\/details?pcampaignid=books\_read\_action&amp;amp":{"title":"Not Found","description":"","error":""},"https:\\/\\/www.hoover.org\\/research\\/optimistic-thought-experiment":{"title":"The Optimistic Thought Experiment","description":"In the long run, there are no good bets against globalization","error":""},"https:\\/\\/www.mtholyoke.edu\\/acad\\/intrel\\/WorldWar2\\/fdr16.htm":{"title":"Address Delivered by President Roosevelt to the Congress, May 16, 1940","description":"","error":""},"https:\\/\\/www.amazon.com\\/dp\\/B00FJ5EPVG\\/ref=dp-kindle-redirect?\_encoding=UTF8&amp;amp":{"title":"Amazon.com: The Arsenal Of Democracy: FDR, Detroit, and an Epic Quest to Arm an America at War eBook : Baime, A. J.: Kindle Store","description":"The Arsenal Of Democracy: FDR, Detroit, and an Epic Quest to Arm an America at War - Kindle edition by Baime, A. J.. Download it once and read it on your Kindle device, PC, phones or tablets. Use features like bookmarks, note taking and highlighting while reading The Arsenal Of Democracy: FDR, Detroit, and an Epic Quest to Arm an America at War.","error":""},"https:\\/\\/www.nationalreview.com\\/2011\\/10\\/end-future-peter-thiel":{"title":"The End of the Future | National Review","description":"When He opened the third seal, I heard the third living creature say, \\u201cCome and see.\\u201d So I looked, and behold, a black horse, and he who sat on it had a pair of scales in his hand. And I heard a vo\\u2026","error":""},"https:\\/\\/www.berkshirehathaway.com\\/2018ar\\/linksannual18.html":{"title":"2018 Financial Statement XBRL Files and Annual Report","description":"","error":""},"https:\\/\\/amzn.to\\/2YuNhHI":{"title":"Amazon.com: Making Sense of God: An Invitation to the Skeptical (9780525954156): Keller, Timothy: Books","description":"Amazon.com: Making Sense of God: An Invitation to the Skeptical (9780525954156): Keller, Timothy: Books","error":""},"https:\\/\\/www.theatlantic.com\\/magazine\\/archive\\/2019\\/08\\/raj-chettys-american-dream\\/592804":{"title":"The Economist Who Would Fix the American Dream","description":"No one has done more to dispel the myth of social mobility than Raj Chetty. But he has a plan to make equality of opportunity a reality.","error":""},"https:\\/\\/www.wsj.com\\/articles\\/playing-catch-up-in-the-game-of-life-millennials-approach-middle-age-in-crisis-11558290908":{"title":"\\u00e2\\u0080\\u0098Playing Catch-Up in the Game of Life.\\u00e2\\u0080\\u0099 Millennials Approach Middle Age in Crisis","description":"New data show they\\u00e2\\u0080\\u0099re in worse financial shape than every preceding living generation, and may never recover. Their woes have delayed traditional adult milestones in ways expected to alter the nation\\u00e2\\u0080\\u0099s demographic and economic contours.","error":""},"https:\\/\\/foundersfund.com\\/2016\\/06\\/thought-thoughts-future":{"title":"A Thought on Thoughts About the Future - Founders Fund","description":"Listen now: Episode\\u00a01 \\u2013 Utopia In 1988 Captain Jean-Luc Picard set a course through space for the unknown. His \\u201ccontinuing mission: to explore strange new worlds, to seek out new life, new civilizations\\u2026 to boldly go where no one has gone before.\\u201d Star Trek: The Next Generation painted a utopian picture of a peaceful human \\u2026","error":""},"https:\\/\\/twitter.com\\/meganamram\\/status\\/968996931681701888?lang=en":{"title":"","description":"","error":""},"https:\\/\\/patrickcollison.com\\/advice":{"title":"Advice \\u00b7 Patrick Collison","description":"","error":""},"https:\\/\\/www.thecrimson.com\\/article\\/2017\\/5\\/25\\/desai-commencement-ed":{"title":"The Trouble with Optionality | Opinion | The Harvard Crimson","description":"Our elite graduates need to understand that they\\u00e2\\u0080\\u0099ve already been winners in the lottery of life\\u00e2\\u0080\\u0094and they certainly don\\u00e2\\u0080\\u0099t need any more safety nets.","error":""},"https:\\/\\/amzn.to\\/2Kjdjcc":{"title":"Amazon.com: Things Hidden Since the Foundation of the World (9780804722155): Girard, Ren\\u00e9, Bann, Stephen, Metteer, Michael: Books","description":"Amazon.com: Things Hidden Since the Foundation of the World (9780804722155): Girard, Ren\\u00e9, Bann, Stephen, Metteer, Michael: Books","error":""},"https:\\/\\/amzn.to\\/2KeHa5e":{"title":"Zero to One: Notes on Startups, or How to Build the Future: Thiel, Peter, Masters, Blake: 9780804139298: Amazon.com: Books","description":"Zero to One: Notes on Startups, or How to Build the Future \[Thiel, Peter, Masters, Blake\] on Amazon.com. \*FREE\* shipping on qualifying offers. Zero to One: Notes on Startups, or How to Build the Future","error":""},"https:\\/\\/www.youtube.com\\/watch?v=kjTlvw8Wh-8":{"title":"Peter Thiel: Career Advice from the 10 Commandments","description":"Peter Thiel sits down with David Rubin. Peter gives career advice based on the 10 commandments. Full video:https:\\/\\/www.youtube.com\\/watch?v=h10kXgTdhNU","error":""},"https:\\/\\/www.flickr.com\\/photos\\/jdlasica":{"title":"JD Lasica","description":"Explore JD Lasica\\\\'s 12,420 photos on Flickr!","error":""},"https:\\/\\/creativecommons.org\\/licenses\\/by\\/2.0":{"title":"Creative Commons \\u2014 Attribution 2.0 Generic \\u2014 CC BY 2.0","description":"","error":""},"https:\\/\\/www.flickr.com\\/photos\\/jdlasica\\/16103310713\\/in\\/photostream":{"title":"Peter Thiel","description":"Explore jdlasica\\\\'s photos on Flickr. jdlasica has uploaded 12420 photos to Flickr.","error":""},"https:\\/\\/perell.com\\/essay\\/never-ending-now":{"title":"The Never-Ending Now","description":"We\\u2019re trapped in a Never-Ending Now \\u2014 blind to our place in history, engulfed in the present moment, overwhelmed by the slightest breeze of chaos."},"https:\\/\\/perell.com\\/essay\\/what-should-you-work-on":{"title":"What Should You Work On?","description":"People aren&#8217;t deliberate enough about choosing what to work on."}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var jetpackLazyImagesL10n = {"loading\_warning":"Images are still loading. Please cancel your print and try again."}; /\* \]\]> \*/ /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^\[A-z0-9\_-\]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1); (function() { var t = document.createElement( 'script' ); t.type = 'text/javascript'; t.async = true; t.id = 'gauges-tracker'; t.setAttribute( 'data-site-id', '5f4fb9bcf8bdba4c47248efc' ); t.src = '//secure.gaug.es/track.js'; var s = document.getElementsByTagName( 'script' )\[0\]; s.parentNode.insertBefore( t, s ); })(); \_stq = window.\_stq || \[\]; \_stq.push(\[ 'view', {v:'ext',blog:'182345211',post:'2021',tz:'-5',srv:'perell.com',hp:'atomic',ac:'3',amp:'0',j:'1:12.0-a.5'} \]); \_stq.push(\[ 'clickTrackerInit', '182345211', '2021' \]);
+No matter where you stand on religion, if you don’t know what the Bible actually says, it’s time to change that.  
