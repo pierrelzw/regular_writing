@@ -21,12 +21,12 @@ In _The Bible_, The Cain and Abel story is the first act of life after the Garde
 
 Depending on who you ask, the significance of the Cain and Abel story ranges from nothing to everything. For some, the Christian cross is too strange to be taken seriously. It’s archaic and stuck inside a biblical world that can no longer speak to the challenges of life with iPhones, Tinder, and $12 avocado toast. But to others, religion is the foundation of human culture. Without it, peace cannot be maintained and violence will erupt like an angry volcano. 
 
-取决于你问谁，该隐和亚伯的故事的意义从无到有。对一些人来说，基督教的十字架太奇怪了，不能认真对待。它是陈旧的，停留在圣经的世界里，不能再与 iPhone、Tinder 和 12 美元鳄梨吐司的生活挑战对话。但对其他人来说，宗教是人类文化的基础。没有它，和平就无法维持，暴力就会像愤怒的火山一样爆发出来。 
+取决于你问谁，该隐和亚伯的故事的意义从无到有。对一些人来说，基督教的十字架太奇怪了，不能认真对待。它是陈旧的，停留在圣经的世界里，与 iPhone、Tinder 和 12 美元鳄梨吐司的生活无法相融。但对其他人来说，宗教是人类文化的基础。没有它，和平就无法维持，暴力就会像愤怒的火山一样爆发出来。 
 
 
 _What does Peter Thiel think? Is religion a superfluous add-on or the origin of everything?_
 
-_Peter Thiel 怎么想？宗教是多余的附加物还是一切的起源？
+_Peter Thiel 怎么想？宗教是多余的附加物，还是一切的起源？
 
 
 In this essay, we’ll explore the significance of religion and the Cain and Abel story. We’ll learn why the story is an archetype for human relationships, even in the Western world where people stiff-arm religion like it’s the Heisman trophy.
@@ -44,12 +44,12 @@ Three simple statements will lead us towards our ultimate answer about the impor
 三个简单的声明将引导我们走向关于宗教重要性的最终答案： 
 
 1.  Don’t copy your neighbors
-1.  不要模仿你的邻居
-    
 2.  Time moves forward
-2.  时间向前推移
-    
 3.  The future will be different from the present
+    
+1.  不要模仿你的邻居
+2.  时间向前推移    
+3.  未来将与现在不同
     
 
 Rather than focusing on Thiel’s actions, I’ve chosen to focus on his ideas. First, we’ll explore the principles of Peter Thiel’s worldview. We’ll begin by explaining Thiel’s connection to a French philosopher named Rene Girard. We’ll return to old books like _The Bible_, old ideas like sacrifice, and old writers like Shakespeare, and see why this ancient wisdom holds clues for modern life. Then, we’ll return to the tenets of the Christian story. We’ll cover the shift from cyclical time to linear time, which was spurred by technological development and human progress. We’ll see why the last book in _The Bible,The Book of Revelation,_ is a core pillar of Thiel’s philosophy. Then, we’ll close with Thiel’s advice and wisdom almost as old as Cain and Abel: the Ten Commandments.
@@ -63,7 +63,7 @@ Rather than focusing on Thiel’s actions, I’ve chosen to focus on his ideas. 
 
 Some disclaimers: I’ve never met Peter Thiel. The contents of this essay are based on public information and my own intuition. Hopefully, some of it is interesting. Inevitably, some of it is wrong. I am not a Christian and only have a basic understanding of Christian theology. If you agree with everything in this essay, I haven’t challenged you enough. I’ve also chosen an interpretation of the Bible, and especially _The Book of Revelation_ that aligns with Thiel’s philosophy. Thiel fanatics will say I’ve only scratched the surface. Others will say I’ve gone too deep. And both might complain I’ve focused too much on his relationship with Christianity. 
 
-一些免责声明。我从未见过彼得·泰尔。这篇文章的内容是基于公共信息和我自己的直觉。希望其中一些内容是有趣的。不可避免的是，其中有些内容是错误的。我不是基督徒，只对基督教神学有基本了解。如果你同意这篇文章中的所有内容，我对你的挑战还不够大。我还选择了对《圣经》的解释，特别是 _《启示录》，与泰尔的哲学相一致。泰尔的狂热者会说我只触及了表面。其他人会说我走得太深了。两者都可能抱怨我过于关注他与基督教的关系。 
+一些免责声明。我从未见过彼得·泰尔。这篇文章的内容是基于公共信息和我自己的直觉。希望其中一些内容是有趣的。不可避免的是，其中有些内容是错误的。我不是基督徒，只对基督教神学有基本了解。如果你同意这篇文章中的所有内容，我对你的挑战还不够大。我还选择了对《圣经》的解释，特别是《启示录》，与泰尔的哲学相一致。泰尔的狂热者会说我只触及了表面。其他人会说我走得太深了。两者都可能抱怨我过于关注他与基督教的关系。 
 
 
 I don’t agree with all of Thiel’s conclusions, but I admire his rigorous and independent thought. By the time you finish reading this essay, you will too. 
@@ -82,6 +82,7 @@ This essay is an introduction to his ideas, but it’s not just about Thiel. It�
 
 
 Let’s begin.
+让我们开始吧。
 
 * * *
 
@@ -99,7 +100,7 @@ Rene Girard was a French historian and literary critic. He’s famous for _Mimet
 
 Mimetic Theory rests on the assumption that all our cultural behaviors, beginning with the acquisition of language by children are imitative. He sees the world as a theatre of envy, where, like mimes, we imitate other people’s desires. His theory builds upon the kinds of books and people that modern people tend to ignore: _The Bible_, classic fiction writers such as Marcel Proust, and playwrights like Shakespeare. 
 
-模拟理论基于这样的假设：我们所有的文化行为，从儿童获得语言开始都是模仿性的。他认为世界是一个嫉妒的剧场，在那里，我们像哑剧一样，模仿其他人的欲望。他的理论建立在现代人倾向于忽视的各种书籍和人物之上：《圣经》、马塞尔·普鲁斯特等经典小说家和莎士比亚等剧作家。 
+模仿理论基于这样的假设：我们所有的文化行为，从儿童获得语言开始都是模仿性的。他认为世界是一个嫉妒的剧场，在那里，我们像哑剧一样，模仿其他人的欲望。他的理论建立在现代人倾向于忽视的各种书籍和人物之上：《圣经》、马塞尔·普鲁斯特等经典小说家和莎士比亚等剧作家。 
 
 
 Mimetic conflict emerges when two people desire the same, scarce resource. Like lions in a cage, we mirror our enemies, fight because of our sameness, and ascend status hierarchies instead of providing value for society. Only by observing others do we learn how and what to desire. Our Mimetic nature is simultaneously our biggest strength and biggest weakness. When it goes right, imitation is a shortcut to learning. But when it spirals out of control, Mimetic imitation leads to envy, violence, and bitter, ever-escalating violence. 
@@ -119,7 +120,7 @@ Our capacity for imitation is unconscious. This drive towards imitation separate
 
 We’ve known this for centuries. In the time of Shakespeare, the word ape meant both “primate” and “imitate.” Learning and human behavior is learned through imitation. Without it, all forms of culture would vanish. As any dancer will tell you, the heart beats fastest when two people agree to imitate each other and move in perfect sync. These are the moments when time disappears; when years of trust are built in seconds of synchronicity. 
 
-我们知道这一点已有几个世纪了。在莎士比亚时代，猿猴这个词既意味着 “灵长类动物”，也意味着 “模仿”。学习和人类的行为是通过模仿来学习的。没有它，所有形式的文化都会消失。正如任何一个舞者会告诉你的那样，当两个人同意模仿对方并完美地同步移动时，心脏跳得最快。这些是时间消失的时刻；当多年的信任建立在几秒钟的同步性上。 
+我们知道这一点已有几个世纪了。在莎士比亚时代，猿猴这个词既意味着 “灵长类动物”，也意味着 “模仿”。学习和人类的行为是通过模仿来学习的。没有它，所有形式的文化都会消失。正如任何一个舞者会告诉你的那样，当两个人同意模仿对方并完美地同步移动时，心脏跳得最快。当多年的信任建立在几秒钟的同步性上，时间消失了。
 
 
 Thiel speaks with a religious reverence for Girard’s theory:
@@ -127,14 +128,14 @@ Thiel speaks with a religious reverence for Girard’s theory:
 泰尔对吉拉德的理论抱有宗教般的崇敬之情。
 
 
-> _“\[Girard’s ideas are\] a portal onto the past, onto human origins, and our history. It’s a portal onto the present and onto the interpersonal dynamics of psychology. It’s a portal onto the future in terms of where we are going to let these Mimetic desires run amok and head towards apocalyptic violence… It has a sense of both danger and hope for the future as well. So it is this panoramic theory… \[It’s\] super powerful and extraordinarily different from what one would normally hear. There was almost a cult-like element where you have these people who were followers of Girard and it was a sense that we had figured out the truth about the world in a way that nobody else did.”_
+> _“Girard’s ideas are a portal onto the past, onto human origins, and our history. It’s a portal onto the present and onto the interpersonal dynamics of psychology. It’s a portal onto the future in terms of where we are going to let these Mimetic desires run amok and head towards apocalyptic violence… It has a sense of both danger and hope for the future as well. So it is this panoramic theory… It’s super powerful and extraordinarily different from what one would normally hear. There was almost a cult-like element where you have these people who were followers of Girard and it was a sense that we had figured out the truth about the world in a way that nobody else did.”_
 
 > _"吉拉德的思想是一个通往过去、通往人类起源和我们历史的门户。它是通向现在和心理学的人际动态的门户。它是通向未来的门户，就我们将在哪里让这些模仿性的欲望失控并走向世界末日的暴力而言…… 它也有一种对未来的危险和希望的感觉。所以这是一个全景式的理论…… 它是超级强大的，与人们通常听到的东西特别不同。几乎有一种类似邪教的元素，你有这些人是吉拉德的追随者，这是一种感觉，我们以一种别人没有的方式弄清了世界的真相。
 
 
 Thiel credits Girard with inspiring him to switch careers. Before he internalized Girard’s ideas, Thiel was on track to become a lawyer. He worked as an associate for _Sullivan &_ _Cromwell_ in New York City, where the hours were long and the competition was cutthroat. As Thiel recounts, all the lawyers competed for the same shared goals. They ranked themselves not by absolute progress towards a transcendent end goal, but by progress within their peer group. 
 
-泰尔认为是吉拉德启发了他转换职业。在内化吉拉德的思想之前，泰尔正走在成为一名律师的路上。他在纽约市的沙利文和克伦威尔律师事务所担任律师，那里的工作时间很长，竞争很激烈。正如泰尔所叙述的那样，所有的律师都在为相同的共同目标而竞争。他们对自己的排名不是根据朝向一个超然的最终目标的绝对进展，而是根据在他们的同行群体中的进展。 
+泰尔认为是吉拉德启发了他转换职业。在内化吉拉德的思想之前，泰尔正走在成为一名律师的路上。他在纽约市的沙利文和克伦威尔律师事务所担任律师，那里的工作时间很长，竞争很激烈。正如泰尔所叙述的那样，所有的律师都在为相同的共同目标而竞争。他们衡量自己的方式，不是根据朝向一个超然的最终目标的绝对进展，而是根据在他们的同行群体中的相对进展。 
 
 
 As Peter Thiel [recounted](http://taxprof.typepad.com/taxprof_blog/2016/05/peter-thiels-advice-to-graduates-my-ambition-to-be-a-lawyer-was-less-a-plan-for-the-future-than-an-a.html):
@@ -161,7 +162,7 @@ Law school was worse. Like lobsters in a bucket, wannabe lawyers battled for law
 
 ### **How Girard Influenced Thiel in Business**
 
-
+### **吉拉德是如何在商业上影响泰尔的**。
 
 Thiel sees the world at a strange angle. His contrarian streak runs through everything he does. But until now, nobody has explained the roots of his singular philosophy. 
 
@@ -185,7 +186,7 @@ In the [words](https://amzn.to/2JZ6LiF) of one of his friends: 
 
 Before playing a game, you have to know the rules. Breakthrough businesses are so innovative that people don’t have the words to describe them. He focuses on questions as much as answers, so he can identify the difference that makes the difference. For example, people still talk about Google as a search engine and Facebook as a social networking site. Both descriptions miss the point. Google succeeded because it’s a _machine-powered_ search engine. Until Facebook, social networks mostly helped people become virtual cats and dogs. Facebook succeeded because it helped people create real identities online. 15 years after its founding, people incorrectly frame the history of social networks. He doesn’t just focus on the brushstrokes. He looks at how the painting is framed. 
 
-在玩一个游戏之前，你必须知道规则。突破性的企业是如此的创新，以至于人们没有词汇来描述它们。他关注问题，也关注答案，所以他能找出与众不同之处。例如，人们仍然把谷歌说成是一个搜索引擎，把 Facebook 说成是一个社交网站。这两种描述都忽略了问题的关键。谷歌的成功是因为它是一个由机器驱动的 _ 搜索引擎。在 Facebook 之前，社交网络大多帮助人们成为虚拟的猫和狗。Facebook 的成功是因为它帮助人们在网上创造了真实的身份。在其成立 15 年后，人们错误地框定了社交网络的历史。他不只是关注笔触，他看的是这幅画是如何被勾勒起来的。 
+在玩一个游戏之前，你必须知道规则。突破性的企业是如此的创新，以至于人们没有词汇来描述它们。他关注问题，也关注答案，所以他能找出与众不同之处。例如，人们仍然把谷歌说成是一个搜索引擎，把 Facebook 说成是一个社交网站。这两种描述都忽略了问题的关键。谷歌的成功是因为它是一个由机器驱动的搜索引擎。在 Facebook 之前，社交网络大多帮助人们成为虚拟的猫和狗。Facebook 的成功是因为它帮助人们在网上创造了真实的身份。在其成立 15 年后，人们错误地框定了社交网络的历史。他不只是关注笔触，他看的是这幅画是如何被勾勒起来的。 
 
 
 Thiel’s companies are governed by Girard’s wisdom. Girard observed that all desires come from other people. When two people want the same scarce object, they fight. In response, as CEO of PayPal, Thiel set up the company structure to eliminate competition between employees. PayPal overhauled the organization chart every three months. By repositioning people, the company avoided most conflicts before they even started. Employees were evaluated on one single criterion, and no two employees had the same one. They were responsible for one job, one metric, and one part of the business. 
@@ -225,7 +226,7 @@ In an email to [Ryan Holiday](https://amzn.to/32HoS58), Peter responded as such:
 
 _“Contrarians may be mostly wrong, but when they get it right, they get it really right.”_
 
-“反叛者可能大部分都是错的，但当他们做对了，他们就真的做对了。”_“反叛者”。
+“反叛者可能大部分都是错的，但当他们做对了，他们就真的做对了。”
 
 
 Across PayPal and Facebook, Peter Thiel’s philosophy can be summarized in a single sentence: Don’t copy your neighbors. It’s like a search for keys. Instead of looking in the light, Thiel and his employees look in the dark, where nobody else is looking.
@@ -236,6 +237,7 @@ Across PayPal and Facebook, Peter Thiel’s philosophy can be summarized in a si
 * * *
 
 **Section 1: Don’t Copy Your Neighbors**
+**第 1 节：不要模仿你的邻居**。
 ----------------------------------------
 
 _“Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world. And the world is passing away, and the lust of it; but he who does the will of God abides forever.”_ — 1 John 2: 15–17
@@ -260,7 +262,7 @@ At first, two people who share the same desire will be united by it. But if they
 
 Consider the famous opening words of Shakespeare’s _Romeo and Juliet:_ “Two houses, both alike in dignity…” Through bloody battles between the Montagues and the Capulets, Shakespeare reminds us that people fight not because they’re so different, but because they’re so alike. Similar people are most prone to Mimetic envy because we tend to compete for status with the people who are closest to us. When two people are different and far away from each other, the tension will stay calm. Thus, the more we resemble our peers, the more Mimetic conflict will arise. 
 
-考虑一下莎士比亚《罗密欧与朱丽叶》中著名的开场白：“两个家族，在尊严上都一样…… ” 通过蒙太古和凯普莱特之间的血腥争斗，莎士比亚提醒我们，人们争斗不是因为他们是如此不同，而是因为他们是如此相似。相似的人最容易产生模仿性嫉妒，因为我们倾向于与最亲近的人争夺地位。当两个人不同且相距甚远时，紧张感会保持平静。因此，我们与同龄人越相似，就会出现越多的 Mimetic 冲突。 
+考虑一下莎士比亚《罗密欧与朱丽叶》中著名的开场白：“两个家族，在尊严上都一样…… ” 通过蒙太古和凯普莱特之间的血腥争斗，莎士比亚提醒我们，人们争斗不是因为他们是如此不同，而是因为他们是如此相似。相似的人最容易产生模仿性嫉妒，因为我们倾向于与最亲近的人争夺地位。当两个人不同且相距甚远时，紧张感会保持平静。因此，我们与同龄人越相似，就会出现越多的模仿性冲突。 
 
 
 Shakespeare wasn’t the only writer to identify the vicious Mimetic impulse. Sigmund Freud called the tendency for conflict between two similar people “The Narcissism of Small Differences.” We reserve tooth-grinding envy for people most like ourselves. Thomas Hobbes wrote that “if any two men desire the same thing, which nevertheless they cannot both enjoy, they become enemies; and in the way to their End… endeavor to destroy, or subdue one another.“
@@ -275,12 +277,12 @@ True to the observations of Shakespeare, Freud, and Hobbes, academics are famous
 
 Prestige-oriented environments can create nasty feuds over little prizes. A family friend named Julia tells a head-spinning story about her time at Columbia University. She couldn’t leave her books in the library. When she did, competing students often stole them. Not because they needed money or material goods, but because they felt surges of envy. Rather than absorbing the course material and preparing themselves for a life after college, students sabotaged their peers and shared false study guides. Relationships were shattered by sour resentment. Classmates could not be trusted, especially those who wanted to help. 
 
-以声望为导向的环境可能会因为小小的奖品而产生讨厌的争执。一位名叫朱莉娅的家庭朋友讲述了她在哥伦比亚大学的一段令人头疼的故事。她不能把书留在图书馆里。当她这样做时，竞争的学生经常偷书。不是因为他们需要钱或物质产品，而是因为他们感到羡慕。学生们没有吸收课程材料，为大学毕业后的生活做准备，而是破坏他们的同伴，分享虚假的学习指南。人际关系因酸楚的怨恨而破碎。同学们不能被信任，尤其是那些想帮忙的人。 
+以声望为导向的环境可能会因为小小的奖品而产生讨厌的争执。一位名叫朱莉娅的家庭朋友讲述了她在哥伦比亚大学的一段令人头疼的故事。她不能把书留在图书馆里。当她这样做时，想竞争的学生经常偷书。不是因为他们需要钱或物质产品，而是因为他们感到羡慕。学生们没有吸收课程材料，为大学毕业后的生活做准备，而是破坏他们的同伴，分享虚假的学习指南。人际关系因酸楚的怨恨而破碎。同学们不能被信任，尤其是那些想帮忙的人。 
 
 
 As Julia’s story demonstrates, academic rivalries are vicious because they focus on hierarchies over knowledge. They bicker over trivial details and compete for a limited set of status-based titles. In each department, there can only be one chairman. In each university, one president. Speaking about the faculty relationships at Harvard, Henry Kissinger once said: “The battles were so ferocious because the stakes were so small.” By obsessing over their competitors, the faculty lost sight over the big picture and fought over the small scraps of superficial status games. The more they strived to be different, the more their actions mirrored each other. 
 
-正如朱莉娅的故事所表明的那样，学术竞争是恶性的，因为它们关注的是等级制度而不是知识。他们为琐碎的细节争吵，为有限的基于地位的头衔竞争。在每个系，只能有一个主席。在每所大学里，只有一位校长。谈到哈佛大学的教师关系，亨利·基辛格曾经说过。“战斗是如此激烈，因为利害关系是如此之小。” 通过迷恋他们的竞争对手，教师们失去了对大局的关注，并为表面的地位游戏的小碎片而争斗。他们越是力争与众不同，他们的行动就越是相互映衬。 
+正如朱莉娅的故事所表明的那样，学术竞争是恶性的，因为它们关注的是等级制度而不是知识。他们为琐碎的细节争吵，为有限的基于地位的头衔竞争。在每个系，只能有一个主席。在每所大学里，只有一位校长。谈到哈佛大学的教师关系，亨利·基辛格曾经说过。“战斗是如此激烈，因为赌注是如此之小。” 通过迷恋他们的竞争对手，教师们失去了对大局的关注，并为表面的地位游戏的小碎片而争斗。他们越是力争与众不同，他们的行动就越是相互映衬。 
 
 Choose your enemies well. Like two children who fight for a toy, the more you fight somebody, the more you resemble your enemy. 
 
@@ -292,17 +294,17 @@ Choose your enemies well. Like two children who fight for a toy, the more you fi
 
 ### **Toys: Lessons from Rene Girard**    
 
-### **玩具。来自 Rene Girard 的教训**    
+### **玩具：来自 Rene Girard 的教训**    
 
 
 I’ll be honest. When I first read about Mimetic Theory, I was skeptical. Girard’s ideas seemed trivial and I couldn’t find any evidence to support them. Then, I started seeing his ideas everywhere. Once I saw empirical evidence of Girard’s ideas, I started taking them seriously.  
 
-我说实话。当我第一次读到 “拟态理论” 时，我是持怀疑态度的。吉拉德的想法似乎很微不足道，我找不到任何证据来支持它们。然后，我开始到处看到他的想法。一旦我看到吉拉德思想的经验性证据，我就开始认真对待它们。  
+我说实话。当我第一次读到 “模拟理论” 时，我是持怀疑态度的。吉拉德的想法似乎很微不足道，我找不到任何证据来支持它们。然后，我开始到处看到他的想法。一旦我看到吉拉德思想的经验性证据，我就开始认真对待它们。  
 
 
 Mimetic Theory shines brightest in trivial everyday moments, such as watching children play with toys. First, you have to understand Mimetic Theory at an intellectual level. Then, you have to understand it at an emotional one. Until then, Girard’s ideas might feel like ancient and irrelevant ideas. Once you watch these ideas impact your family, your friends, and your coworkers, you will have the same revelation Peter Thiel had as a student in Girard’s class at Stanford.
 
-拟态理论在琐碎的日常时刻最闪亮，比如看孩子玩玩具。首先，你必须在知识层面上理解模仿理论。然后，你必须在情感上理解它。在那之前，吉拉德的想法可能会让人觉得是古老而不相关的想法。一旦你看到这些思想影响到你的家人、朋友和同事，你就会有和彼得·蒂尔在斯坦福大学吉拉德的课堂上作为学生时一样的启示。
+模拟理论在琐碎的日常时刻最闪亮，比如看孩子玩玩具。首先，你必须在知识层面上理解模仿理论。然后，你必须在情感上理解它。在那之前，吉拉德的想法可能会让人觉得是古老而不相关的想法。一旦你看到这些思想影响到你的家人、朋友和同事，你就会有和彼得·蒂尔在斯坦福大学吉拉德的课堂上作为学生时一样的启示。
 
 
 Girard observed that even when you put a group of kids together in a room full of toys, they’ll inevitably desire the same toy instead of finding their own toy to play with. A rivalry will emerge. Human see, human want. 
@@ -317,7 +319,7 @@ Our capacity for imitation leads to envy. Babies’ interest in a particular toy
 
 ### **Toys: Lessons from Joseph Henrich**
 
-### **玩具。约瑟夫-亨里奇的教训**
+### **玩具：约瑟夫-亨里奇的教训**
 
 
 Harvard anthropologist Joseph Henrich found empirical evidence for Girard’s observations about children and toys. In his book, [_The Secret of Our Success_](https://amzn.to/2K5gjZh)_,_ he shows that humans are cultural learners. Mimetic desire is innate, not learned. We copy other people spontaneously, automatically, and unconsciously. And we are especially likely to copy people who are more successful than us, especially in moments of difficulty or uncertainty. 
@@ -326,7 +328,7 @@ Harvard anthropologist Joseph Henrich found empirical evidence for Girard’s ob
 
 Henrich illustrates our Mimetic nature by studying children and how they desire toys. Even at a young age, and especially in moments of confusion, they emulate people around them. In one study, Henrich found that babies engaged in social referencing four times more often when an ambiguous toy was placed in front of them. When faced with an ambiguous toy, babies altered their behavior based on adults’ emotional reactions. In their early years, babies depend on elders to navigate the world and outsource their decisions to them. 
 
-亨利奇通过研究儿童和他们对玩具的渴望来说明我们的模仿性。即使在很小的时候，特别是在困惑的时候，他们也会模仿周围的人。在一项研究中，亨利希发现，当一个模棱两可的玩具放在他们面前时，婴儿参与社会参考的频率要高四倍。当面对一个模棱两可的玩具时，婴儿根据成人的情绪反应改变了他们的行为。在他们的早期，婴儿依赖长辈来浏览世界，并将他们的决定外包给他们。 
+亨利奇通过研究儿童和他们对玩具的渴望来说明我们的模仿性。即使在很小的时候，特别是在困惑的时候，他们也会模仿周围的人。在一项研究中，亨利希发现，当一个模棱两可的玩具放在他们面前时，婴儿引入 “社会看法” 的频率要高四倍。当面对一个模棱两可的玩具时，婴儿根据成人的情绪反应改变了他们的行为。在他们的早期，婴儿依赖长辈来浏览世界，并将他们的决定外包给他们。 
 
 
 I can relate. Nothing piques a child’s desire like watching their friends receive a new toy. Throughout my childhood, I remember coming home to my parents to ask for new toys. Back when I needed a car seat to ride in a vehicle, I asked for Thomas the Tank Engine train sets. Once I could read and write, I asked for the same LeBron James jersey my friends had. And in my first month of college in North Carolina, I demanded the same “Nantucket Red” Vineyard Vines pants as my fraternity brothers. 
@@ -345,17 +347,18 @@ Turns out, I’m not crazy. 
 
 Through toys, Girard and Henrich show how our tendency to desire the same scarce resources as our peers leads to envy and competition. 
 
-通过玩具，吉拉德和亨利希展示了我们渴望与同龄人一样的稀缺资源的倾向如何导致嫉妒和竞争。 
+通过玩具，吉拉德和亨利希展示了我们渴望与同龄人一样的稀缺资源的倾向，是如何导致嫉妒和竞争。 
 
 
 Mimetic competition is visible in every aspect of social life. People shift their attention from the object of desire to the other person, and the drive to beat them. From bored students, to ambitious graduate school students, to empire-building business professionals, the objects we fight about change, but human nature doesn’t. 
 
 模仿竞争在社会生活的各个方面都是可见的。人们把注意力从欲望的对象转移到另一个人身上，并有动力去打败他们。从无聊的学生，到雄心勃勃的研究生，再到建立帝国的商业专家，我们争夺的对象在变化，但人性却没有变化。 
 
-
 * * *
 
 ### **Competitive Strategy in Business**
+
+### **商业中的竞争战略**。
 
 
 Thiel’s Christianity-inspired worldview lines up with Michael Porter’s philosophy of business strategy. Porter is a Harvard Business School professor known for his theories on economics and business strategy. He believed that strong businesses aim to be unique, not the best. Trying to outcompete rivals leads to mediocre performance, so companies should avoid competition and seek to create value instead of beating rivals. 
@@ -423,8 +426,7 @@ The airline industry suffers from near-perfect competition. Each year, U.S airli
 
 
 As a contrast to the hyper-competitive airline business, consider Google. Here’s Peter Thiel: 
-作为与竞争激烈的航空业的对比，考虑一下谷歌。这里是彼得·泰尔。 
-
+作为与竞争激烈的航空业的对比，考虑一下谷歌。彼得·泰尔说： 
 
 
 > _“Compare \[the airlines\] to Google, which creates less value but captures far more. Google brought in $50 billion in 2012 (versus $160 billion for the airlines), but it kept 21% of those revenues as profits—more than 100 times the airline industry’s profit margin that year._ 
@@ -439,7 +441,7 @@ As a contrast to the hyper-competitive airline business, consider Google. Here�
 
 Perfect competition is the default state in Economics 101. In a perfectly competitive market, undifferentiated companies sell homogenous and substitutable products. Firms don’t have market power, so their prices are determined by the iron laws of supply and demand. 
 
-完全竞争是经济学 101 中的默认状态。在一个完全竞争的市场中，无差别的公司销售同质化和可替代的产品。企业没有市场力量，所以它们的价格由供求关系的铁律决定。 
+完全竞争是经济学 101 （最初始版本的经济学）中的默认状态。在一个完全竞争的市场中，无差别的公司销售同质化和可替代的产品。企业没有市场力量，所以它们的价格由供求关系的铁律决定。 
 
 High profits attract competition. According to economic theory, if outside entrepreneurs hear about profits, they’ll start a new firm and enter the industry. Increased supply will drive prices down, which will decrease total industry profits. If too many firms enter the market, the entire industry will suffer losses. If companies start to lose money, they’ll go out of business until industry prices rise back to sustainable levels. Most importantly, in a world of perfect competition, no company will make an economic profit in the long run. Just like the airline industry.
 
@@ -447,7 +449,7 @@ High profits attract competition. According to economic theory, if outside entre
 
 Thiel offers an alternative to perfect competition: monopoly. Without competition, they can produce at the quantity and price combination that maximizes their profits. Successful strategies attract imitators, so the best businesses are difficult to copy. Firms in a competitive industry who sell a commodity product cannot turn a profit.  But companies who have a monopoly can set their own prices since they offer an in-demand product that cannot be replicated. Monopoly firms are big fish in a small pond. 
 
-泰尔提供了一个完全竞争的替代方案：垄断。在没有竞争的情况下，他们可以按照使其利润最大化的数量和价格组合来生产。成功的策略会吸引模仿者，所以最好的企业很难被复制。在一个竞争性行业中，销售商品产品的企业无法实现利润。  但是，拥有垄断地位的公司可以设定自己的价格，因为他们提供的是一种无法复制的需求产品。垄断企业是小池塘里的大鱼。 
+泰尔提供了一个完全竞争的替代方案：垄断。在没有竞争的情况下，他们可以按照使其利润最大化的数量和价格组合来生产。成功的策略会吸引模仿者，所以最好的企业很难被复制。在一个竞争性行业中，销售商品产品的企业无法实现利润。 但是，拥有垄断地位的公司可以设定自己的价格，因为他们提供的是一种无法复制的需求产品。垄断企业是小池塘里的大鱼。 
 
 
 Don’t copy your neighbors.
@@ -497,7 +499,7 @@ With a linear perspective, time moves from the past to the future. It begins wit
 
 With Jesus as its savior, Christianity is the only religion that sees a human as the Son of God. When Jesus died on the cross, he paid for the sins of humanity so he could end evil and suffering. Jesus speaks of his return to earth in Matthew 19:28. He says: “I tell you the truth, at the renewal of all things, the Son of Man will sit on his glorious throne.” Instead of relying on a cyclical re-birth_,_ Jesus’ return will fix the material world by destroying all decay and brokenness. 
 
-以耶稣为救世主，基督教是唯一将人类视为上帝之子的宗教。当耶稣死在十字架上时，他为人类的罪孽付出了代价，因此他可以结束邪恶和痛苦。耶稣在《马太福音》19 章 28 节中谈到了他重返人间的事。他说：“我实在告诉你们，万物更新的时候，人子要坐在他荣耀的宝座上”。而不是依靠周期性的重生 _，_ 耶稣的回归将通过摧毁所有的腐烂和破碎来修复物质世界。 
+以耶稣为救世主，基督教是唯一将人类视为上帝之子的宗教。当耶稣死在十字架上时，他为人类的罪孽付出了代价，因此他可以结束邪恶和痛苦。耶稣在《马太福音》19 章 28 节中谈到了他重返人间的事。他说：“我实在告诉你们，万物更新的时候，人子要坐在他荣耀的宝座上”。而不是依靠周期性的重生，耶稣的回归将通过摧毁所有的腐烂和破碎来修复物质世界。 
 
 
 * * *
@@ -543,12 +545,13 @@ The linear perspective on time was born out of Greek philosophy. Controversial a
 
 
 Through a belief in Redemption, Christians turned their minds to the supernatural and adopted a belief in an eternal heaven. Nisbet writes: 
+
 通过对救赎的信仰，基督徒将他们的思想转向超自然，并采用了对永恒天堂的信仰。尼斯贝特写道： 
 
 
-> _“Of all the contributions to the idea of progress by Christian thought, none is greater than this Augustinian suggestion of a final period on earth, utopian in character, and historically inevitable.”_
+> “Of all the contributions to the idea of progress by Christian thought, none is greater than this Augustinian suggestion of a final period on earth, utopian in character, and historically inevitable.”
 
-> _“在基督教思想对进步观念的所有贡献中，最伟大的莫过于奥古斯丁关于地球上最后时期的建议，它具有乌托邦性质，而且在历史上是不可避免的。” _
+> “在基督教思想对进步观念的所有贡献中，最伟大的莫过于奥古斯丁关于地球上最后时期的建议，它具有乌托邦性质，而且在历史上是不可避免的。” 
 
 
 Christian ideals of progress are sprinkled throughout _The City of God_. At the end of his book, St. Augustine refers to the seven stages of early history. The last, still-yet-to-come stage will consist of peace and happiness on earth. He wrote that as a result of the inevitable historical development from the primitive world of the Garden of Eden, those who put their faith in Christ will experience an earthly paradise. ¹ 
@@ -573,8 +576,7 @@ If time is cyclical, the future will look like the present. The arrow of time po
 * * *
 
 ### **Girardian Sacrifice: How Violence Stops Violence**
-
-  暴力如何阻止暴力**
+### ** 暴力如何阻止暴力**
 
 
 Once Tim Keller’s lectures were over and I understood Nisbet’s philosophy of progress, I turned to a series of Rene Girard interviews. As I started reading, I was shocked to see Nisbet’s idea of progress fit Girard’s theory of Mimetics like a pair of puzzle pieces. 
@@ -599,7 +601,7 @@ Sacrifice is a social event. Without sacrifice, human beings wouldn’t have a c
 
 Ritual protects communities from the great violence of Mimetic disorder thanks to the real and symbolic violence of sacrifice. Girard said “sacrificial systems _contain_ violence.” His message has two meanings. Violence is the disease _and_ the cure for the disease. Sacrificial ritual is always violent. And yet, since the real and symbolic violence of sacrifice restores peace in the community, it prevents the escalation of runaway Mimetic violence. In that way, humanity contains violence with violence because sacrifice saves the community from its own violence. 
 
-由于牺牲的真实和象征性的暴力，仪式保护社区不受模仿性无序的巨大暴力影响。吉拉德说 “祭祀系统 _ 包含着暴力”。他的信息有两层意思。暴力是疾病 _ 和治疗疾病的方法。祭祀仪式总是暴力的。然而，由于牺牲的真实和象征性暴力恢复了社区的和平，它防止了失控的模仿性暴力的升级。这样一来，人类就用暴力包含了暴力，因为牺牲把社会从自己的暴力中拯救出来。 
+由于牺牲的真实和象征性的暴力，仪式保护社区不受模仿性无序的巨大暴力影响。吉拉德说 “祭祀系统包含着暴力”。他的信息有两层意思。暴力是疾病和治疗疾病的方法。祭祀仪式总是暴力的。然而，由于牺牲的真实和象征性暴力恢复了社区的和平，它防止了失控的模仿性暴力的升级。这样一来，人类就用暴力包含了暴力，因为牺牲把社会从自己的暴力中拯救出来。 
 
 
 ![IMG_140381BF3BD0-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_140381BF3BD0-1.jpeg?w=750&ssl=1)
@@ -661,7 +663,7 @@ Thiel says a bad plan is better than no plan at all. Having no plan is chaotic. 
 
 In a thought-provoking essay called [_Peter Thiel and the Cathedral_](https://www.patheos.com/blogs/inebriateme/2014/06/peter-thiel-and-the-cathedral/)_,_ Pascal-Emmanuel Gobry argues that Cathedrals were the equivalent of the Apollo project in the High Middle Ages. Like America’s Apollo program, each Cathedral required a specific and ambitious plan for building it. Medieval cathedrals were the first man-made structures to soar higher than the Egyptian Pyramids, which were monuments to death. But cathedrals are dedicated to the triumph over death. Moreover, cathedrals can only be built with scientific knowledge and communal support. They require scientists, mathematicians, engineers, craftsmen, and artists. And all of them need a long time horizon.  
 
-在一篇名为 [_Peter Thiel and the Cathedral_](https://www.patheos.com/blogs/inebriateme/2014/06/peter-thiel-and-the-cathedral/)_ 的发人深省的文章中，_ Pascal-Emmanuel Gobry 认为，大教堂相当于中世纪高层的阿波罗计划。就像美国的阿波罗计划一样，每座大教堂都需要一个具体而雄心勃勃的建设计划。中世纪的大教堂是第一个比埃及金字塔更高的人造建筑，金字塔是死亡的纪念碑。但大教堂是为战胜死亡而建的。此外，大教堂只有在科学知识和社区支持下才能建造。它们需要科学家、数学家、工程师、工匠和艺术家。而且所有这些人都需要一个很长的时间跨度。  
+在一篇名为 [_Peter Thiel and the Cathedral_](https://www.patheos.com/blogs/inebriateme/2014/06/peter-thiel-and-the-cathedral/) 的发人深省的文章中 Pascal-Emmanuel Gobry 认为，大教堂相当于中世纪高层的阿波罗计划。就像美国的阿波罗计划一样，每座大教堂都需要一个具体而雄心勃勃的建设计划。中世纪的大教堂是第一个比埃及金字塔更高的人造建筑，金字塔是死亡的纪念碑。但大教堂是为战胜死亡而建的。此外，大教堂只有在科学知识和社区支持下才能建造。它们需要科学家、数学家、工程师、工匠和艺术家。而且所有这些人都需要一个很长的时间跨度。  
 
 
 Long time horizons aren’t just psychological. They’re cultural. Modern society suffers from temporal exhaustion. Or as, sociologist Elise Boulding once said: “If one is mentally out of breath all the time from dealing with the present, there is no energy left for imagining the future.” 
