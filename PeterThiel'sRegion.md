@@ -43,21 +43,17 @@ Three simple statements will lead us towards our ultimate answer about the impor
 
 三个简单的声明将引导我们走向关于宗教重要性的最终答案： 
 
-1.  Don’t copy your neighbors
-2.  Time moves forward
-3.  The future will be different from the present
-    
-1.  不要模仿你的邻居
-2.  时间向前推移    
-3.  未来将与现在不同
-    
+> 1.  Don’t copy your neighbors
+> 2.  Time moves forward
+> 3.  The future will be different from the present
+
+> 1. 不要模仿你的邻居
+> 2. 时间向前推移    
+> 3. 未来将与现在不同
 
 Rather than focusing on Thiel’s actions, I’ve chosen to focus on his ideas. First, we’ll explore the principles of Peter Thiel’s worldview. We’ll begin by explaining Thiel’s connection to a French philosopher named Rene Girard. We’ll return to old books like _The Bible_, old ideas like sacrifice, and old writers like Shakespeare, and see why this ancient wisdom holds clues for modern life. Then, we’ll return to the tenets of the Christian story. We’ll cover the shift from cyclical time to linear time, which was spurred by technological development and human progress. We’ll see why the last book in _The Bible,The Book of Revelation,_ is a core pillar of Thiel’s philosophy. Then, we’ll close with Thiel’s advice and wisdom almost as old as Cain and Abel: the Ten Commandments.
 
 我没有关注泰尔的行动，而是选择关注他的想法。首先，我们将探讨彼得·蒂尔的世界观原则。我们将首先解释泰尔与一位名叫雷内·吉拉德的法国哲学家的联系。我们将回到像《圣经》这样的旧书，像牺牲这样的旧思想，以及像莎士比亚这样的旧作家，并看看为什么这些古老的智慧对现代生活。然后，我们将回到基督教故事的信条上。我们将介绍从周期性时间到线性时间的转变，这是由技术发展和人类进步所刺激的。我们将看到为什么《圣经》的最后一本书，即《启示录》，是泰尔哲学的核心支柱。然后，我们将以泰尔的建议和智慧结束，这些建议和智慧几乎与该隐和亚伯一样古老：十条诫命。
-
-
-![IMG_DB41477003EB-2.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_DB41477003EB-2.jpeg?w=750&ssl=1)
 
 ![IMG_DB41477003EB-2.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_DB41477003EB-2.jpeg?w=750&ssl=1)
 
@@ -162,7 +158,7 @@ Law school was worse. Like lobsters in a bucket, wannabe lawyers battled for law
 
 ### **How Girard Influenced Thiel in Business**
 
-### **吉拉德是如何在商业上影响泰尔的**。
+### **吉拉德是如何在商业上影响泰尔的**
 
 Thiel sees the world at a strange angle. His contrarian streak runs through everything he does. But until now, nobody has explained the roots of his singular philosophy. 
 
@@ -287,8 +283,6 @@ As Julia’s story demonstrates, academic rivalries are vicious because they foc
 Choose your enemies well. Like two children who fight for a toy, the more you fight somebody, the more you resemble your enemy. 
 
 好好选择你的敌人。就像两个孩子为一个玩具打架一样，你越是和别人打架，你就越像你的敌人。 
-
-![26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg?w=750&ssl=1)
 
 ![26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg?w=750&ssl=1)
 
@@ -418,7 +412,7 @@ Let’s wrap my morning in economic language. Air travel is an “elastic good.�
 
 ![public.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/public-1.jpeg?w=750&ssl=1)
 
-![public.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/public-1.jpeg?w=750&ssl=1)
+
 
 The airline industry suffers from near-perfect competition. Each year, U.S airlines serve millions of passengers and create hundreds of billions of dollars in consumer value. But in 2012, when the average airfare each way was $178, the airlines made only 37 cents per passenger trip. Whenever one airline makes a move such as lowering prices or adding an extra inch of leg room, its rivals match it. Since all the airlines chase the same price sensitive customers, they compete for every sale. That’s why, compared to the major tech companies, the major airlines in America are starving for profit. 
 
@@ -490,7 +484,7 @@ Linear conceptions of time, and especially the idea of progress, emerged with Ch
 
 ![IMG_0287.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_0287.jpg?w=750&ssl=1)
 
-![IMG_0287.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_0287.jpg?w=750&ssl=1)
+
 
 With a linear perspective, time moves from the past to the future. It begins with the Garden of Eden at the beginning of _The Bible_ and ends with the Kingdom of Heaven. 
 
@@ -571,7 +565,7 @@ If time is cyclical, the future will look like the present. The arrow of time po
 
 ![IMG_AEC1FBA9C6F6-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_AEC1FBA9C6F6-1.jpeg?w=750&ssl=1)
 
-![IMG_AEC1FBA9C6F6-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_AEC1FBA9C6F6-1.jpeg?w=750&ssl=1)
+
 
 * * *
 
@@ -603,16 +597,13 @@ Ritual protects communities from the great violence of Mimetic disorder thanks t
 
 由于牺牲的真实和象征性的暴力，仪式保护社区不受模仿性无序的巨大暴力影响。吉拉德说 “祭祀系统包含着暴力”。他的信息有两层意思。暴力是疾病和治疗疾病的方法。祭祀仪式总是暴力的。然而，由于牺牲的真实和象征性暴力恢复了社区的和平，它防止了失控的模仿性暴力的升级。这样一来，人类就用暴力包含了暴力，因为牺牲把社会从自己的暴力中拯救出来。 
 
-
-![IMG_140381BF3BD0-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_140381BF3BD0-1.jpeg?w=750&ssl=1)
-
 ![IMG_140381BF3BD0-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_140381BF3BD0-1.jpeg?w=750&ssl=1)
 
 * * *
 
 ### **How Time Relates to Girardian Sacrifice**
 
-### **时间如何与吉拉德的牺牲有关**。
+### **时间如何与吉拉德的牺牲有关**
 
 
 It’s hard to gauge the impact of various philosophies of time. Even as I argue for it, I’m skeptical that a linear perspective on time is a meaningful driver of innovation and technological progress. And yet, my skepticism is balanced by my own relationship with my future self. 
@@ -639,21 +630,18 @@ Girard offers a historical perspective for the transition from cyclical time to 
 
 吉拉德为从周期性时间到线性时间的过渡提供了一个历史视角。他确定了一个周期性的循环： 首先，当一个替罪羊被牺牲后，社区恢复了和平。然后，文化在短时间内和平地生活。但最终，紧张局势爆发，暴力又回到了社区。为了恢复和平，必须命名和牺牲一个新的替罪羊，这就重新开始了牺牲的循环。 
 
-
-![IMG_008CF1AC84F7-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_008CF1AC84F7-1.jpeg?w=750&ssl=1)
-
 ![IMG_008CF1AC84F7-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_008CF1AC84F7-1.jpeg?w=750&ssl=1)
 
 * * *
 
 ### **How Linear Time Drives Progress and Long-Term Thinking**
 
-### **线性时间是如何推动进步和长期思维的**。
+### **线性时间是如何推动进步和长期思维的**
 
 
 To Peter Thiel, short-term thinking is the essence of sin. Like _The Bible_, he advises us to make plans and sacrifice the present for the future. Greatness is like chess. To win, you must study the end game and work towards the one you want to see. Thiel’s favorite chess player was José Raúl Capablanca who [said](https://amzn.to/2JSBbo5): “To begin you must study the end. You don’t want to be the first to act, you want to be the last man standing.” 
 
-在彼得·泰尔看来，短期思维是罪恶的本质。像 _ 圣经 _ 一样，他建议我们制定计划，为未来牺牲现在。伟大就像国际象棋。要想获胜，你必须研究最终的游戏，并朝着你想看到的方向努力。泰尔最喜欢的棋手是何塞·劳尔·卡帕布兰卡，他[说]（https://amzn.to/2JSBbo5）：“要想开始，就必须研究结局。你不想成为第一个行动的人，你想成为站在最后的人”。 
+在彼得·泰尔看来，短期思维是罪恶的本质。像 《圣经》 一样，他建议我们制定计划，为未来牺牲现在。伟大就像国际象棋。要想获胜，你必须研究最终的游戏，并朝着你想看到的方向努力。泰尔最喜欢的棋手是何塞·劳尔·卡帕布兰卡，他[说]（https://amzn.to/2JSBbo5）：“要想开始，就必须研究结局。你不想成为第一个行动的人，你想成为站在最后的人”。 
 
 
 Thiel says a bad plan is better than no plan at all. Having no plan is chaotic. He supports people who trade the shiny mirage of short-termism for the calm, controlled grace of a long time horizon. Like Capablanca, they are the kinds of people who study the end-game and work backwards from there. 
@@ -818,7 +806,7 @@ If so, the cure is nested inside the disease. Online, social-media based argumen
 
 ### **Four Ways of Thinking About the Future**
 
-### **对未来的四种思考方式**。
+### **对未来的四种思考方式**
 
 The pull towards Girardian conflict stems from pessimism and short-term thinking. In _Zero to One,_ Peter Thiel describes four ways of thinking about the future: definite optimism, indefinite optimism, definite pessimism, and indefinite pessimism. In a definite world, the future is knowable. There is a predetermined plan for what the future will look like. An indefinite world is more of a random walk. Like a lottery, the future is out of our control. It’s governed solely by probabilities and chance events, which makes it impossible to act with any agency. 
 
@@ -843,8 +831,6 @@ Thiel defines the four quadrants as such:
 4.  Indefinite Pessimism: The future will be worse and we don’t know how. 
 
 4.  不确定的悲观主义： 未来会更糟糕，而我们不知道会怎样。 
-
-![IMG_ADBE7063D097-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_ADBE7063D097-1.jpeg?w=750&ssl=1)
 
 ![IMG_ADBE7063D097-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_ADBE7063D097-1.jpeg?w=750&ssl=1)
 
@@ -879,8 +865,6 @@ Ultimately, the Reber Plan didn’t work. The freshwater lakes would have evapor
 
 ![IMG_4393427F321B-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_4393427F321B-1.jpeg?w=750&ssl=1)
 
-![IMG_4393427F321B-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_4393427F321B-1.jpeg?w=750&ssl=1)
-
 ### **Ford Motors Airplanes During World War II**
 
 ### **二战期间福特汽车公司的飞机**。
@@ -901,8 +885,6 @@ At the time, [Americans](https://www.amazon.com/dp/B00FJ5EPVG/ref=dp-kindle-redi
 
 ![IMG_1BC8A6CEC9A5-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_1BC8A6CEC9A5-1.jpeg?w=750&ssl=1)
 
-![IMG_1BC8A6CEC9A5-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_1BC8A6CEC9A5-1.jpeg?w=750&ssl=1)
-
 Today, these bold visions would be ignored and dismissed as lunacy. Definite Optimism is withering. Big dreams are now seen as childish illusions. We no longer trust amateurs with vast imaginations, and we no longer challenge people to imagine futures that look radically different from the present. Instead, we defer only to experts with mainstream opinions. 
 
 今天，这些大胆的愿景会被忽视，被视为疯子。明确的乐观主义正在枯萎。大梦想现在被视为幼稚的幻想。我们不再相信具有丰富想象力的业余人士，我们也不再挑战人们想象与现在完全不同的未来。相反，我们只听从拥有主流意见的专家。 
@@ -919,7 +901,7 @@ We’ve moved from an atmosphere of utopian promises to one of dystopian threats
 
 ### **The End of the Future**
 
-### **未来的尽头***
+### **未来的尽头**
 
 Since the Financial Crisis, tens of thousands of Americans have moved into the Indefinite Optimism and Definite Pessimism quadrants. 
 
@@ -964,9 +946,6 @@ In an unexpected twist, the physics stagnated. Transportation stopped improving.
 
 在一个意想不到的转折中，物理学停滞了。交通工具停止了改进。而今天，我们不再挑战高度和速度的极限。 
 
-
-![IMG_D47E8ED52D66-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_D47E8ED52D66-1.jpeg?w=750&ssl=1)
-
 ![IMG_D47E8ED52D66-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_D47E8ED52D66-1.jpeg?w=750&ssl=1)
 
 Just ask Pan American World Airways, the iconic airline of the Post World War II era. After Americans stepped foot on the moon, the airline’s customer center was inundated with phone calls from around the country. First the astronauts. Then, the people. Customers wanted to reserve seats on the first trips to the moon. Between 1968 and 1971, Pan Am accepted 93,005 reservations for planned commercial flights to the moon. Fast forward five decades and only 12 men have ever walked on the moon. No American, let alone any ordinary human being, has stepped foot on the moon since 1972. 
@@ -992,7 +971,7 @@ _Don’t believe Thiel?_ 
 
 Follow the money. Warren Buffett, the richest investor in America bets _against_ change. The less the world changes, the more Buffett succeeds. BNSF Railway, where Buffett recently invested $44 billion is the largest non-financial company in the _Berkshire Hathaway_ portfolio. Thiel proclaims that 40 percent of railroads involve the transport of coal, so Buffett’s investment will do especially well if the travel and energy consumption patterns of the 21st century look like the past. 
 
-跟着钱走。美国最富有的投资者沃伦·巴菲特（Warren Buffett）打赌 _ 反对变化。世界变化越小，巴菲特就越成功。巴菲特最近投资了 440 亿美元的 BNSF 铁路公司是 _Berkshire Hathaway_ 投资组合中最大的非金融公司。泰尔宣称，40% 的铁路涉及煤炭运输，因此，如果 21 世纪的旅行和能源消费模式像过去一样，巴菲特的投资将做得特别好。 
+跟着钱走。美国最富有的投资者沃伦·巴菲特（Warren Buffett）打赌 _反对_变化。世界变化越小，巴菲特就越成功。巴菲特最近投资了 440 亿美元的 BNSF 铁路公司是 _Berkshire Hathaway_ 投资组合中最大的非金融公司。泰尔宣称，40% 的铁路涉及煤炭运输，因此，如果 21 世纪的旅行和能源消费模式像过去一样，巴菲特的投资将做得特别好。 
 
 
 After digging through the [_2018 Berkshire Hathaway Annual Report_](https://www.berkshirehathaway.com/2018ar/linksannual18.html), I’d like to add context to Thiel’s thesis. Buffett’s firm has poured millions of dollars into renewable energy. In addition to coal and natural gas, Berkshire Hathaway Energy (90% owned by Berkshire Hathaway) has made meaningful investments in solar, nuclear, hydro-electric, geo-thermal, and in particular, wind.
@@ -1001,11 +980,9 @@ After digging through the [_2018 Berkshire Hathaway Annual Report_](https://www.
 
 ![IMG_0256 2.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_02562.jpg?w=750&ssl=1)
 
-![IMG_0256 2.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_02562.jpg?w=750&ssl=1)
-
 From a distance, we see a mirage of progress. From up-close, once we remove the smartphone screens in front of us, we feel the reality of struggle and stagnation. According to a recent survey, 80% of Americans think the next generation will be worse off than the current generation. As Tim Keller wrote in [_Making Sense of God_](https://amzn.to/2YuNhHI): 
 
-从远处看，我们看到的是进步的幻影。从近处看，一旦我们移开面前的智能手机屏幕，我们就会感受到挣扎和停滞的现实。根据最近的一项调查，80% 的美国人认为下一代的生活会比这一代更糟糕。正如蒂姆·凯勒在 [_Making Sense of God_]（https://amzn.to/2YuNhHI）中写道： 
+从远处看，我们看到的是进步的幻影。从近处看，一旦我们移开面前的智能手机屏幕，我们就会感受到挣扎和停滞的现实。根据最近的一项调查，80% 的美国人认为下一代的生活会比这一代更糟糕。正如蒂姆·凯勒在 [_Making Sense of God_](https://amzn.to/2YuNhHI)中写道： 
 
 > _“Younger Americans today are perhaps the first generation to be certain that they are and will be “worse off” than their parents. The interconnected nature of the world makes nightmare scenarios—pandemics, global economic collapse, climate-change disaster, cyberattacks, terrorism—all seem like genuine possibilities, even probabilities… Today hope has narrowed to the vanishing point of the self alone. In our current phase of American history we have lost belief in God and salvation, or in any shared sense of national greatness and destiny.”_
 
@@ -1026,8 +1003,6 @@ One friend doesn’t want to have kids because “the entire state of California
 
 一位朋友不想生孩子，因为 “到 2050 年，整个加州都会被淹没”。或者，用推特上一位喜剧演员的[话语](https://twitter.com/meganamram/status/968996931681701888?lang=en)来说：“现在生活的乐趣在于我们可以看到它是如何结束的。”
 
-
-![](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/image-asset-1.jpeg?w=750&ssl=1)
 
 ![](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/image-asset-1.jpeg?w=750&ssl=1)
 
@@ -1052,12 +1027,12 @@ The most talented people follow the same narrow tracks. People are afraid to dre
 
 > _“If you’re in the US and go to a good school, there are a lot of forces that will push you towards following train tracks laid by others rather than charting a course yourself. Make sure that the things you’re pursuing are weird things that you want to pursue, not whatever the standard path is. Heuristic: do your friends at school think your path is a bit strange? If not, maybe it’s too normal.”_
 
-> _“如果你在美国，并且上了一所好学校，有很多力量会把你推向跟随别人铺设的火车轨道，而不是自己制定路线。确保你所追求的东西是你想追求的奇怪的东西，而不是什么标准的路径。启发式：你在学校的朋友是否认为你的道路有点奇怪？如果不是，也许它太正常了。”_
+> _“如果你在美国，并且上了一所好学校，有很多力量会把你推向跟随别人铺设的火车轨道，而不是自己制定路线。确保你所追求的东西是你想追求的奇怪的东西，而不是什么标准的路径。一个简单的检验方法：你在学校的朋友是否认为你的道路有点奇怪？如果不是，也许它太正常了。”_
 
 
 There’s a lack of differentiation. As Thiel observed: 
 
-缺乏差异化。正如泰尔所观察到的： 
+世界缺乏差异化。正如泰尔所观察到的： 
 
 > _“There is something very odd about a society where the most talented people get all tracked toward the same elite colleges, where they end up studying the same small number of subjects and going into the same small number of careers… It’s very limiting for our society as well as for those students.”_
 
@@ -1367,8 +1342,6 @@ As Girard once said: “There are fundamentally only two ways of looking at reli
 
 正如吉拉德曾经说过的：“从根本上说，只有两种看待宗教的方式：作为多余的、附加的或作为一切的起源”。如果没有中间地带，我怀疑泰尔和吉拉德一样，把宗教看作是一切的起源。
 
-
-![public.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/public-2.jpeg?w=750&ssl=1)
 
 ![public.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/public-2.jpeg?w=750&ssl=1)
 
