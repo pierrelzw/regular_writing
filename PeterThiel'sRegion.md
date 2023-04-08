@@ -641,12 +641,12 @@ Girard offers a historical perspective for the transition from cyclical time to 
 
 To Peter Thiel, short-term thinking is the essence of sin. Like _The Bible_, he advises us to make plans and sacrifice the present for the future. Greatness is like chess. To win, you must study the end game and work towards the one you want to see. Thiel’s favorite chess player was José Raúl Capablanca who [said](https://amzn.to/2JSBbo5): “To begin you must study the end. You don’t want to be the first to act, you want to be the last man standing.” 
 
-在彼得·泰尔看来，短期思维是罪恶的本质。像 《圣经》 一样，他建议我们制定计划，为未来牺牲现在。伟大就像国际象棋。要想获胜，你必须研究最终的游戏，并朝着你想看到的方向努力。泰尔最喜欢的棋手是何塞·劳尔·卡帕布兰卡，他[说]（https://amzn.to/2JSBbo5）：“要想开始，就必须研究结局。你不想成为第一个行动的人，你想成为站在最后的人”。 
+在彼得·泰尔看来，短期思维是罪恶的本质。像 《圣经》 一样，他建议我们制定计划，为未来牺牲现在。伟大就像国际象棋。要想获胜，你必须研究最终的游戏，并朝着你想看到的方向努力。泰尔最喜欢的棋手是何塞·劳尔·卡帕布兰卡，他[说](https://amzn.to/2JSBbo5)：“要想开始，就必须研究结局。你不想成为第一个行动的人，你想成为站在最后的人”。 
 
 
 Thiel says a bad plan is better than no plan at all. Having no plan is chaotic. He supports people who trade the shiny mirage of short-termism for the calm, controlled grace of a long time horizon. Like Capablanca, they are the kinds of people who study the end-game and work backwards from there. 
 
-泰尔说，一个糟糕的计划总比没有计划要好。没有计划是混乱的。他支持那些用短期的闪亮的海市蜃楼换取长期的平静、可控的优雅的人。像卡帕布兰卡一样，他们是那种研究最终游戏并从那里向后努力的人。 
+泰尔说，一个糟糕的计划总比没有计划要好。没有计划是混乱的。他支持那些用短期的闪亮的海市蜃楼换取长期的平静、可控的优雅的人。像卡帕布兰卡一样，他们是那种研究最终游戏并从那里反向努力的人。 
 
 
 In a thought-provoking essay called [_Peter Thiel and the Cathedral_](https://www.patheos.com/blogs/inebriateme/2014/06/peter-thiel-and-the-cathedral/)_,_ Pascal-Emmanuel Gobry argues that Cathedrals were the equivalent of the Apollo project in the High Middle Ages. Like America’s Apollo program, each Cathedral required a specific and ambitious plan for building it. Medieval cathedrals were the first man-made structures to soar higher than the Egyptian Pyramids, which were monuments to death. But cathedrals are dedicated to the triumph over death. Moreover, cathedrals can only be built with scientific knowledge and communal support. They require scientists, mathematicians, engineers, craftsmen, and artists. And all of them need a long time horizon.  
@@ -661,7 +661,7 @@ Long time horizons aren’t just psychological. They’re cultural. Modern socie
 
 As I’ve [written](https://perell.com/essay/never-ending-now) before, the speed of technology and the hyperconnectivity of society have placed us in a “never-ending now.” Like hamsters running on a wheel, we live in an endless cycle of ephemeral content consumption — a merry-go-round that spins faster and faster but never goes anywhere. Even the virtues of information consumption have changed. Most people I know care more about being informed than being well read. By focusing on the desperate screams of moody news anchors and not the books you’ll find in libraries, they let the culture’s moods dictate their own. The news has swept us into a dizzying chaos. When we whirl in its vortex, we become overwhelmed by the slightest breeze of chaos and lose sight of our place in history. 
 
-正如我以前[写过的](https://perell.com/essay/never-ending-now)，技术的速度和社会的超级连接性使我们处于一个 “永不停息的现在”。就像在轮子上跑的仓鼠一样，我们生活在一个无休止的短暂内容消费的循环中 —— 一个旋转得越来越快但永远不会有结果的旋转木马。甚至信息消费的美德也发生了变化。我认识的大多数人更关心的是如何获得信息，而不是如何阅读。通过关注喜怒无常的新闻主播的绝望尖叫，而不是你在图书馆找到的书籍，他们让大众文化的情绪支配自己的情绪。新闻把我们卷进了一个令人眩晕的混乱中。当我们在它的漩涡中打转时，我们会被最轻微的混乱之风所淹没，并忽略了我们在历史中的位置。 
+正如我以前[写过的](https://perell.com/essay/never-ending-now)，技术的速度和社会的超级连接性使我们处于一个 “永不停息的现在”。就像在轮子上跑的仓鼠一样，我们生活在一个无休止的短暂内容消费的循环中 —— 一个旋转得越来越快但永远不会有结果的旋转木马。甚至对信息消费的追求也发生了变化。我认识的大多数人更关心的是如何获得信息，而不是如何阅读。通过关注喜怒无常的新闻主播的绝望尖叫，而不是你在图书馆找到的书籍，他们让大众文化的情绪支配自己的情绪。新闻把我们卷进了一个令人眩晕的混乱中。当我们在它的漩涡中打转时，我们会被最轻微的混乱之风所淹没，并忽略了我们在历史中的位置。 
 
 
 For the opposite perspective, consider the Japanese. Some of its citizens recently [witnessed](http://www.bbc.com/future/story/20190611-how-to-build-something-that-lasts-10000-years) the 66th cycle of a ritual that began more than 13 centuries ago. In a city called Ise, people have been rebuilding the grand Jingu shrine with wood and thatch since the 7th century. This Shinto ritual does more than keep the structure intact. It helps the master temple builder train the next generation and injects participants with a long-time horizon. This Japanese commitment to maintenance allows it to sustain structures and rituals for millennia. We shouldn’t be surprised that Japan is home to most of the oldest companies in the world. 
@@ -676,7 +676,7 @@ With that said, I don’t endorse the Japanese perspective in all its forms. The
 
 Thiel concludes that time is linear, not cyclical. The future won’t look like the present. It will either be much worse or much better. Or more explicitly, “stagnation leads straight to apocalypse.” If we don’t, we’ll suffer from limitless Mimetic violence; and if things go well, we might find our place in God’s peaceful kingdom. 
 
-泰尔的结论是，时间是线性的，不是循环的。未来不会像现在这样。它要么会更糟糕，要么会好得多。或者更明确地说，“停滞不前会直接导致启示录”。如果我们不这样做，我们将遭受无限的模仿暴力；如果事情进展顺利，我们可能在上帝的和平王国中找到自己的位置。 
+泰尔的结论是，时间是线性的，不是循环的。未来不会像现在这样。它要么会更糟糕，要么会好得多。或者更明确地说，“停滞不前会直接导致灾难”。如果我们不这样做，我们将遭受无限的模仿暴力；如果事情进展顺利，我们可能在上帝的和平王国中找到自己的位置。 
 
 
 Informed by its linear conception of time and the Christian image of heaven, Thiel applauds the grand visions of yesterday’s leaders. Modern presidents no longer inspire Americans with positive visions of the future. The visions of the past weren’t just ambitious. They were clear and specific. Unfortunately, there is no modern equivalent of the Manhattan Project, the Apollo Project, or Nixon’s 1974 plan to defeat cancer by the end of the decade. 
@@ -691,7 +691,7 @@ Christians were the first group to reject cyclical time. They shouted that the f
 
 Guided by this belief in the possibility of progress, Christians follow a high-resolution painting of a perfect future. It’s as if humanity is on a mission. They believe humans are here to reflect God’s light onto the world. Instead of returning to the Garden of Eden, humanity will march forward, from the past to the future, and create “a new heaven and a new earth.”
 
-在这种对进步的可能性的信念的指导下，基督徒们追随一幅高分辨率的完美未来画。这就好像人类在执行任务一样。他们相信人类在这里是为了将上帝的光辉反射到世界上。人类不是要回到伊甸园，而是要向前迈进，从过去到未来，创造 “新天新地”。
+在这种对进步的可能性的信念的指导下，基督徒们追随一幅高分辨率的完美未来画。这就好像人类在执行任务一样。他们相信人类在这里是为了将上帝的光辉辐射到世界上。人类不是要回到伊甸园，而是要向前迈进，从过去到未来，创造 “新的天地”。
 
 
 * * *
@@ -704,7 +704,7 @@ Guided by this belief in the possibility of progress, Christians follow a high-r
 
 _“And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.”_ — Revelation 21:1
 
-我看见一个新天，一个新地，因为头一个天和头一个地都过去了，不再有海。
+我看见一个新天，一个新地，因为第一个天和第一个地都过去了，不再有海。———— 《启示录》21:1
 
 
 _“The cliche goes like this; live each day as if it were your last. The best way to take this advice is to do exactly the opposite: live each day as if you would live forever.” —_ Peter Thiel
@@ -724,12 +724,12 @@ The _Book of Revelation_ is the last chapter in the New Testament. In this secti
 
 Here’s what I do know: Thiel is trying to save the world from apocalypse. 
 
-以下是我所知道的： 泰尔正试图将世界从启示录中拯救出来。 
+以下是我所知道的： 泰尔正试图将世界从灾难中拯救出来。 
 
 
 _The Book of Revelation_ paints two outcomes for the future of humanity: catastrophic apocalypse or a new heaven and a new earth. Some of the Christians I know believe that humans aren’t literally taken out of this world and transported into heaven. Instead, as explained in _Revelations 21_, heaven comes down to earth. According to this vision, humanity will be cleansed, renewed and perfected. The horrors of the world will be undone. People will receive the lives they’ve always wanted. All evils will be repaired, and the pain of existence will vanish like evaporating water after a thunderstorm. Better yet, the joy and glory of a world after redemption will be greater because humans have suffered to reach it.
 
-启示录》为人类的未来描绘了两种结果：灾难性的启示录或新天新地。我认识的一些基督徒认为，人类并不是真的被带出这个世界而进入天堂。相反，正如《启示录》第 21 章所解释的那样，天堂降到了地上。根据这一设想，人类将得到净化、更新和完善。世界上的恐怖将被消除。人们将获得他们一直想要的生活。所有的罪恶将被修复，生存的痛苦将像雷雨后蒸发的水一样消失。更妙的是，救赎后的世界的喜悦和荣耀将更大，因为人类为达到这个世界而受苦。
+《启示录》为人类的未来描绘了两种结果：灾难性的启示录或新天新地。我认识的一些基督徒认为，人类并不是真的被带出这个世界而进入天堂。相反，正如《启示录》第 21 章所解释的那样，天堂降到了地上。根据这一设想，人类将得到净化、更新和完善。世界上的恐怖将被消除。人们将获得他们一直想要的生活。所有的罪恶将被修复，生存的痛苦将像雷雨后蒸发的水一样消失。更妙的是，救赎后的世界的喜悦和荣耀将更大，因为人类为达到这个世界而受苦。
 
 
 I suspect Thiel holds this philosophy. To Thiel, _The Book of Revelation_ is more than a metaphor. It’s a playbook for guiding humanity from the garden of the past to the city of the future.
@@ -749,7 +749,7 @@ As Thiel once [wrote](https://play.google.com/store/books/details?pcampaignid=bo
 
 Under globalization, Thiel believes that the probability of a civilization-ending apocalypse is increasing. Just because we no longer believe that Zeus can strike humans with sky-lighting thunderbolts, doesn’t mean that existential risk isn’t possible. Like Girard, he worries that the world is becoming more Mimetic. Worse, globalization is raising the threat of runaway mimesis and an apocalyptic world with cold corpses, dead horses, and splintered guns. 
 
-在全球化下，泰尔认为，文明终结的启示录的概率正在增加。虽然我们不再相信宙斯可以用天光雷电打击人类，但这并不意味着存在的风险不可能发生。像吉拉德一样，他担心这个世界正变得更加 “模拟化”。更糟糕的是，全球化正在提高模仿失控的威胁，以及一个有冰冷的尸体、死马和分裂的枪支的世界末日。 
+在全球化下，泰尔认为，文明终结灾难的发生概率正在增加。虽然我们不再相信宙斯可以用天光雷电打击人类，但这并不意味着存在的风险不可能发生。像吉拉德一样，他担心这个世界正变得更加 “模仿化”。更糟糕的是，全球化正在提高模仿失控的威胁，以及一个有冰冷的尸体、死马和分裂的枪支的世界末日。 
 
 
 In an essay called [_The Optimistic Thought Experiment_](https://www.hoover.org/research/optimistic-thought-experiment), Thiel advises us to build the modern equivalent of Noah’s ark, so we can survive the floods of Girardian evil. Thiel fears that due to technologies like nuclear weapons, humans are already capable of destroying the world. With modern technology, a tiny number of people are capable of inflicting unprecedented levels of damage and death with the push of a single button. That though, doesn’t mean we should stop innovating. A lack of progress leads straight to a bleak, ravaged, and apocalyptic world. He [writes](https://www.hoover.org/research/optimistic-thought-experiment): 
@@ -759,22 +759,22 @@ In an essay called [_The Optimistic Thought Experiment_](https://www.hoover.org/
 
 > _“The entire human order could unravel in a relentless escalation of violence — famine, disease, war, and death. The final book of the Bible, the Book of Revelation, even gives a name and a place: The Battle of Armageddon in the Middle East is the great conflagration that would end the world. Against this future, it is far better to save one’s immortal soul and accumulate treasures in heaven, in the eternal City of God, than it is to amass a fleeting fortune in the transient and passing City of Man.”_
 
-> _“整个人类秩序可能在无情的暴力升级中解体 —— 饥荒、疾病、战争和死亡。圣经》的最后一本书《启示录》甚至给出了一个名字和一个地点： 中东的 "末日之战" 是结束世界的大灾难。面对这样的未来，拯救自己不朽的灵魂，在天堂，在永恒的上帝之城积累财富，远胜于在短暂的人之城积累短暂的财富"。
+> _“整个人类秩序可能在无情的暴力升级中解体 —— 饥荒、疾病、战争和死亡。《圣经》的最后一卷《启示录》甚至给出了一个名字和一个地点： 中东的 "末日之战" 是结束世界的大灾难。面对这样的未来，拯救自己不朽的灵魂，在天堂，在永恒的上帝之城积累财富，远胜于在短暂的人之城积累短暂的财富"。
 
 
 Here, Thiel encourages us to be specific about the long-term future we want to create. Here, he counters the secular and Eastern philosophy. Under the secular mindset, there is no transcendent future after death. This is it. You have one life. Similarly, according to Eastern religions, we lose our individuality and lose our material lives so we can become part of the whole again. But Christianity offers a different perspective: work for the fruits of eternity instead of chasing the fleeting pleasures of the day. Don’t place too much weight on the present moment. Instead of focusing on meaningless scandals, endless political dramas, or the limitless accumulation of wealth, we should focus on the impending catastrophe at the end of the road. Work to prevent runaway Girardian violence. That way, when the Day of Judgement comes, we’ll lean towards the side of the good. 
 
-在这里，泰尔鼓励我们具体了解我们想要创造的长期未来。在这里，他反驳了世俗和东方哲学。在世俗的思维方式下，死后没有超然的未来。这就是它。你只有一次生命。同样，根据东方宗教，我们失去了我们的个性，失去了我们的物质生活，所以我们可以再次成为整体的一部分。但基督教提供了一个不同的视角：为永恒的果实而努力，而不是追逐当下短暂的快乐。不要太看重当下的时刻。与其关注毫无意义的丑闻、无休止的政治剧或财富的无限积累，我们不如关注道路尽头即将发生的灾难。努力防止失控的吉拉德暴力。这样，当审判日到来时，我们会倾向于善的一方。 
+在这里，泰尔鼓励我们具体了解我们想要创造的长期未来。在这里，他反驳了世俗和东方哲学。在世俗的思维方式下，死后没有超越性的未来。这就是它。你只有一次生命。同样，根据东方宗教，我们失去了我们的个性，失去了我们的物质生活，所以我们可以再次成为整体的一部分。但基督教提供了一个不同的视角：为永恒的果实而努力，而不是追逐当下短暂的快乐。不要太看重当下的时刻。与其关注毫无意义的丑闻、无休止的政治剧或无止境的财富积累，我们不如关注道路尽头即将发生的灾难。努力防止失控的吉拉德暴力。这样，当审判日到来时，我们会倾向于善的一方。 
 
 
 If there was ever a silver bullet, Thiel believes living with a long time horizon is it. 
 
-如果说有什么灵丹妙药的话，泰尔认为生活中的长线就是它。 
+如果说有什么灵丹妙药的话，泰尔认为那就是 “带着 ‘长期思维’ 生活”。 
 
 
 Whether the future is better or worse will depend on our actions. Like Girard, Thiel, believes that Western political philosophy cannot cope with global violence. In 2004, three years after 9/11, Thiel sponsored a philosophical conference called “On Politics and Apocalypse.” Thiel contributed an essay called _The Straussian Moment._ In it, he tried to find common ground between Girard’s Mimetic theory and the work of two right-wing political philosophers: Leo Strauss and Carl Schmitt. He argued that the issue of violence and existential risk has not been taken seriously enough since the Enlightenment. 
 
-未来是好是坏，取决于我们的行动。与吉拉德一样，泰尔认为西方政治哲学无法应对全球暴力。2004 年，在 911 事件发生三年后，泰尔主办了一个名为 “论政治与启示” 的哲学会议。泰尔发表了一篇名为《施特劳斯时刻》的文章，他试图在吉拉德的模拟理论和两位右翼政治哲学家的工作之间找到共同点： Leo Strauss 和 Carl Schmitt。他认为，自启蒙运动以来，暴力和生存风险的问题没有得到足够的重视。 
+未来是好是坏，取决于我们的行动。与吉拉德一样，泰尔认为西方政治哲学无法应对全球暴力。2004 年，在 911 事件发生三年后，泰尔主办了一个名为 “论政治与灾难” 的哲学会议。泰尔发表了一篇名为《施特劳斯时刻》的文章，他试图在吉拉德的模仿理论和两位右翼政治哲学家的工作之间找到共同点： Leo Strauss 和 Carl Schmitt。他认为，自启蒙运动以来，暴力和（人类的）生存风险的问题没有得到足够的重视。 
 
 
 Here are Thiel’s words: 
@@ -784,22 +784,22 @@ Here are Thiel’s words: 
 
 > _“The Christian statesman or stateswoman knows that the modern age will not be permanent, and ultimately will give way to something very different. One must never forget that one day all will be revealed, that all injustices will be exposed, and that those who perpetrated them will be held to account._
 
-> _"基督教政治家或女政治家知道，现代时代不会是永久的，最终会让位给非常不同的东西。我们决不能忘记，有一天一切都会被揭露，所有的不公正都会被曝光，而那些犯下这些罪行的人将被追究责任。
+> "基督教政治家或女政治家知道，现代时代不会是永久的，最终会让位给非常不同的东西。我们决不能忘记，有一天一切都会被揭露，所有的不公正都会被曝光，而那些犯下这些罪行的人将被追究责任。
 
 > 
 > _The postmodern world would differ from the modern world in a way that is much worse or much better — the limitless violence of runaway mimesis or the peace of the kingdom of God… One must never forget that one day all will be revealed, that all injustices will be exposed, and that those who perpetrated them will be held to account.”_
 
-> _ 后现代世界与现代世界的不同之处在于，是更糟糕还是更好 —— 是失控的模仿的无限暴力，还是上帝之国的和平…… 人们决不能忘记，有一天一切都将被揭露，所有的不公正都将被曝光，那些犯下这些罪行的人将被追究责任。" _
+> 后现代世界与现代世界的不同之处在于，是更糟糕还是更好 —— 是失控的模仿的无限暴力，还是上帝之国的和平…… 人们决不能忘记，有一天一切都将被揭露，所有的不公正都将被曝光，那些犯下这些罪行的人将被追究责任。" 
 
 
 As a libertarian who holds the New Testament as a seminal text, Thiel seeks to increase individual freedoms while preventing runaway Mimetic violence. As promised, here’s where Girard’s observations of the past can shape our understanding of the present. Everybody condemns hate-fueled online speech. If Girard’s theories are accurate, online fighting might be the preventative medicine we need, even if it tastes disgusting and comes with painful side-effects. The forces of globalization and technology may have abolished the boundaries of violence. 
 
-作为一个将《新约》作为开创性文本的自由主义者，泰尔寻求增加个人自由，同时防止失控的模仿性暴力。正如承诺的那样，这里是吉拉德对过去的观察可以塑造我们对现在的理解。每个人都谴责煽动仇恨的网上言论。如果吉拉德的理论是准确的，网上斗争可能是我们需要的预防药物，即使它的味道令人厌恶，并带有痛苦的副作用。全球化和技术的力量可能已经废除了暴力的界限。 
+作为一个将《新约》作为开创性文本的自由主义者，泰尔寻求增加个人自由，同时防止失控的模仿性暴力。正如承诺的那样，这里是吉拉德对过去的观察可以塑造我们对现在的理解。每个人都谴责煽动仇恨的网上言论。如果吉拉德的理论是准确的，网上斗争可能是我们需要的预防药物，即使它的味道令人厌恶，并带有痛苦的副作用。全球化和技术的力量可能已经消除了暴力的界限。 
 
 
 If so, the cure is nested inside the disease. Online, social-media based arguments might repel an apocalyptic scenario. Perhaps Thiel sees Facebook as a place to contain unbounded Mimetic violence. It simultaneously perpetuates violence and prevents it from happening. After all, if people fight on social media, they won’t fight on the streets. Like a boiling kettle, we have to let out steam somewhere. Better to cool the pot on social media than in the streets. In the words of Thiel, “social media proved to be more important than it looked.”
 
-如果是这样，治疗方法就嵌在了疾病里面。在线，基于社交媒体的争论可能会击退世界末日的情景。也许泰尔认为 Facebook 是一个遏制无限制的模仿暴力的地方。它同时延续了暴力，也防止了暴力的发生。毕竟，如果人们在社交媒体上打架，他们就不会在街上打架。就像一个沸腾的水壶，我们必须在某个地方放出蒸汽。在社交媒体上冷却锅，比在街上冷却要好。用泰尔的话说，“事实证明，社交媒体比它看起来更重要”。
+如果是这样，治疗方法就嵌在了疾病里面。在线的基于社交媒体的争论可能会防止世界末日的发生。也许泰尔认为 Facebook 是一个遏制无限制的模仿暴力的地方。它同时延续了暴力，也防止了暴力的发生。毕竟，如果人们在社交媒体上打架，他们就不会在街上打架。就像一个沸腾的水壶，我们必须在某个地方放出蒸汽。在社交媒体上冷却锅，比在街上冷却要好。用泰尔的话说，“事实证明，社交媒体比它看起来更重要”。
 
 
 * * *
@@ -810,27 +810,21 @@ If so, the cure is nested inside the disease. Online, social-media based argumen
 
 The pull towards Girardian conflict stems from pessimism and short-term thinking. In _Zero to One,_ Peter Thiel describes four ways of thinking about the future: definite optimism, indefinite optimism, definite pessimism, and indefinite pessimism. In a definite world, the future is knowable. There is a predetermined plan for what the future will look like. An indefinite world is more of a random walk. Like a lottery, the future is out of our control. It’s governed solely by probabilities and chance events, which makes it impossible to act with any agency. 
 
-对吉拉德冲突的牵引源于悲观主义和短期思维。在《从零到一》中，彼得·蒂尔描述了四种思考未来的方式：明确的乐观主义，不确定的乐观主义，明确的悲观主义，以及不确定的悲观主义。在一个确定的世界里，未来是可知的。对于未来会是什么样子，有一个预定的计划。一个不确定的世界更像是一个随机漫步。像彩票一样，未来不受我们控制。它完全受概率和偶然事件的支配，这使得我们不可能以任何机构行事。 
+悲观主义和短期思维讲导致吉拉德冲突。在《从零到一》中，彼得·蒂尔描述了四种思考未来的方式：明确的乐观主义，不确定的乐观主义，明确的悲观主义，以及不确定的悲观主义。在一个确定的世界里，未来是可知的。对于未来会是什么样子，有一个预定的计划。一个不确定的世界更像是一个随机漫步。像彩票一样，未来不受我们控制。它完全受概率和偶然事件的支配，这使得我们不可能以行事。 
 
 Thiel defines the four quadrants as such:
 
 泰尔这样定义这四个象限：
 
 1.  Definite Optimism: The future will be better and we know how.
-
-1.  明确的乐观主义： 未来会更好，我们知道怎么做。
-
 2.  Indefinite Optimism: The future will be better and we don’t know how.
-
-2.  不确定的乐观主义： 未来会更好，我们不知道如何。
-
 3.  Definite Pessimism: The future will be worse and we know how.
-
-3.  肯定的悲观主义： 未来会更糟糕，我们知道怎么做。
-
 4.  Indefinite Pessimism: The future will be worse and we don’t know how. 
 
-4.  不确定的悲观主义： 未来会更糟糕，而我们不知道会怎样。 
+1.  明确的乐观主义： 未来会更好，我们知道怎么做。
+2.  不确定的乐观主义： 未来会更好，我们不知道怎么做。
+3.  肯定的悲观主义： 未来会更糟糕，我们知道怎么做。
+4.  不确定的悲观主义： 未来会更糟糕，而我们不知道怎么做。 
 
 ![IMG_ADBE7063D097-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_ADBE7063D097-1.jpeg?w=750&ssl=1)
 
