@@ -1,12 +1,11 @@
-Peter Thiel’s Religion
+# Peter Thiel’s Religion（彼得·蒂尔的宗教理论）
 
-彼得·蒂尔的宗教信仰
+[TOC]
 
-======================
 
 > _“I am the Lord your God.” — 1st Commandment_
 
->_“我是耶和华你的神”。- 第一条诫命 _
+>_“我是耶和华你的神”。- 第一条诫命_
 
 
 Human culture began with a murder. That culture was fueled by rage and rivalry, which led to violence. Managing that violence is the secret reason for all religious and political institutions.
@@ -26,7 +25,7 @@ Depending on who you ask, the significance of the Cain and Abel story ranges fro
 
 _What does Peter Thiel think? Is religion a superfluous add-on or the origin of everything?_
 
-_Peter Thiel 怎么想？宗教是多余的附加物，还是一切的起源？
+_Peter Thiel 怎么想？宗教是多余的附加物，还是一切的起源？_
 
 
 In this essay, we’ll explore the significance of religion and the Cain and Abel story. We’ll learn why the story is an archetype for human relationships, even in the Western world where people stiff-arm religion like it’s the Heisman trophy.
@@ -82,7 +81,7 @@ Let’s begin.
 
 * * *
 
-### **Thiel’s Intellectual Background**
+### **Thiel’s Intellectual Background（彼得蒂尔的求学之路）**
 
 To understand Thiel’s ideas, we need to begin with the person who influenced Peter Thiel more than any other writer: Rene Girard. 
 
@@ -126,7 +125,7 @@ Thiel speaks with a religious reverence for Girard’s theory:
 
 > _“Girard’s ideas are a portal onto the past, onto human origins, and our history. It’s a portal onto the present and onto the interpersonal dynamics of psychology. It’s a portal onto the future in terms of where we are going to let these Mimetic desires run amok and head towards apocalyptic violence… It has a sense of both danger and hope for the future as well. So it is this panoramic theory… It’s super powerful and extraordinarily different from what one would normally hear. There was almost a cult-like element where you have these people who were followers of Girard and it was a sense that we had figured out the truth about the world in a way that nobody else did.”_
 
-> _"吉拉德的思想是一个通往过去、通往人类起源和我们历史的门户。它是通向现在和心理学的人际动态的门户。它是通向未来的门户，就我们将在哪里让这些模仿性的欲望失控并走向世界末日的暴力而言…… 它也有一种对未来的危险和希望的感觉。所以这是一个全景式的理论…… 它是超级强大的，与人们通常听到的东西特别不同。几乎有一种类似邪教的元素，你有这些人是吉拉德的追随者，这是一种感觉，我们以一种别人没有的方式弄清了世界的真相。
+> _"吉拉德的思想是一个通往过去、通往人类起源和我们历史的门户。它是通向现在和心理学的人际动态的门户。它是通向未来的门户，就我们将在哪里让这些模仿性的欲望失控并走向世界末日的暴力而言…… 它也有一种对未来的危险和希望的感觉。所以这是一个全景式的理论…… 它是超级强大的，与人们通常听到的东西特别不同。几乎有一种类似邪教的元素，你有这些人是吉拉德的追随者，这是一种感觉，我们以一种别人没有的方式弄清了世界的真相。_
 
 
 Thiel credits Girard with inspiring him to switch careers. Before he internalized Girard’s ideas, Thiel was on track to become a lawyer. He worked as an associate for _Sullivan &_ _Cromwell_ in New York City, where the hours were long and the competition was cutthroat. As Thiel recounts, all the lawyers competed for the same shared goals. They ranked themselves not by absolute progress towards a transcendent end goal, but by progress within their peer group. 
@@ -141,7 +140,7 @@ As Peter Thiel [recounted](http://taxprof.typepad.com/taxprof_blog/2016/05/peter
 
 > _“When I left after seven months and three days, one of the lawyers down the hall from me said, ‘You know, I had no idea it was possible to escape from Alcatraz.’ Of course that was not literally true, since all you had to do was go out the front door and not come back. But psychologically this was not what people were capable of. Because their identity was defined by competing so intensely with other people, they could not imagine leaving… On the outside, everybody wanted to get in. On the inside, everybody wanted to get out.”_
 
-> _"当我在七个月零三天后离开时，我楼下的一个律师说，'你知道，我不知道有可能从恶魔岛逃出来。当然，这不是字面上的意思，因为你所要做的就是从前门出去，不要再回来。但在心理上，这不是人们能够做到的。因为他们的身份被定义为与其他人竞争如此激烈，他们无法想象离开…… 在外面，每个人都想进去。在外面，每个人都想进去，在里面，每个人都想出来。
+> _"当我在七个月零三天后离开时，我楼下的一个律师说，'你知道，我不知道有可能从恶魔岛逃出来。当然，这不是字面上的意思，因为你所要做的就是从前门出去，不要再回来。但在心理上，这不是人们能够做到的。因为他们的身份被定义为与其他人竞争如此激烈，他们无法想象离开…… 在外面，每个人都想进去。在外面，每个人都想进去，在里面，每个人都想出来。_
 
 
 Competition distracts us from things that are more important, meaningful, or valuable. We [buy](https://www.rottentomatoes.com/m/fight_club/quotes/) things we don’t need with money we don’t have to impress people we don’t like. Trapped in a never-ending rat race, lawyers climbed the corporate ladder by winning favor with partners at the top. Others engaged in small acts of sabotage against their coworkers. 
@@ -156,9 +155,7 @@ Law school was worse. Like lobsters in a bucket, wannabe lawyers battled for law
 
 * * *
 
-### **How Girard Influenced Thiel in Business**
-
-### **吉拉德是如何在商业上影响泰尔的**
+### **How Girard Influenced Thiel in Business（吉拉德是如何在商业上影响泰尔的）**
 
 Thiel sees the world at a strange angle. His contrarian streak runs through everything he does. But until now, nobody has explained the roots of his singular philosophy. 
 
@@ -177,7 +174,7 @@ In the [words](https://amzn.to/2JZ6LiF) of one of his friends: 
 
 >  _“Peter is of two minds on everything. If you were able to open his skull, you would see a number of Mexican standoffs between powerful antagonistic ideas you wouldn’t think could be safely housed in the same brain.”_
 
-> _"彼得对任何事情都有两种想法。如果你能打开他的头盖骨，你会看到一些像墨西哥人对峙一样的强大的对立的想法，你不会认为它们可以安全地放在同一个大脑中。
+> _"彼得对任何事情都有两种想法。如果你能打开他的头盖骨，你会看到一些像墨西哥人对峙一样的强大的对立的想法，你不会认为它们可以安全地放在同一个大脑中。_
 
 
 Before playing a game, you have to know the rules. Breakthrough businesses are so innovative that people don’t have the words to describe them. He focuses on questions as much as answers, so he can identify the difference that makes the difference. For example, people still talk about Google as a search engine and Facebook as a social networking site. Both descriptions miss the point. Google succeeded because it’s a _machine-powered_ search engine. Until Facebook, social networks mostly helped people become virtual cats and dogs. Facebook succeeded because it helped people create real identities online. 15 years after its founding, people incorrectly frame the history of social networks. He doesn’t just focus on the brushstrokes. He looks at how the painting is framed. 
@@ -212,7 +209,7 @@ In an epic exchange between two billionaires, Jeff Bezos said: 
 
 _“Peter Thiel is a contrarian, first and foremost. You just have to remember that  contrarians are usually wrong.”_
 
-彼得·蒂尔首先是一个逆向思维者。你只需记住，逆向思维者通常是错误的。"_
+_彼得·蒂尔首先是一个逆向思维者。你只需记住，逆向思维者通常是错误的。"_
 
 
 In an email to [Ryan Holiday](https://amzn.to/32HoS58), Peter responded as such: 
@@ -222,7 +219,7 @@ In an email to [Ryan Holiday](https://amzn.to/32HoS58), Peter responded as such:
 
 _“Contrarians may be mostly wrong, but when they get it right, they get it really right.”_
 
-“反叛者可能大部分都是错的，但当他们做对了，他们就真的做对了。”
+_“反叛者可能大部分都是错的，但当他们做对了，他们就真的做对了。”_
 
 
 Across PayPal and Facebook, Peter Thiel’s philosophy can be summarized in a single sentence: Don’t copy your neighbors. It’s like a search for keys. Instead of looking in the light, Thiel and his employees look in the dark, where nobody else is looking.
@@ -232,13 +229,12 @@ Across PayPal and Facebook, Peter Thiel’s philosophy can be summarized in a si
 
 * * *
 
-**Section 1: Don’t Copy Your Neighbors**
-**第 1 节：不要模仿你的邻居**。
+**Section 1: Don’t Copy Your Neighbors（第 1 节：不要模仿你的邻居）**
 ----------------------------------------
 
 _“Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world. And the world is passing away, and the lust of it; but he who does the will of God abides forever.”_ — 1 John 2: 15–17
 
-不要爱世界和世界上的东西。若有人爱世界，父的爱就不在他里面了。因为凡是世上的事 —— 肉体的情欲、眼目的情欲、生命的骄傲，都不是从父来的，乃是从世界来的。世界和它的情欲都要过去，惟有遵行神旨意的，是永远常在。
+_不要爱世界和世界上的东西。若有人爱世界，父的爱就不在他里面了。因为凡是世上的事 —— 肉体的情欲、眼目的情欲、生命的骄傲，都不是从父来的，乃是从世界来的。世界和它的情欲都要过去，惟有遵行神旨意的，是永远常在。_—— 约翰福音2: 15–17
 
 
 Everybody imitates. We cannot resist Mimetic contagion, and that will never change. But there are bad ways to copy and good ways to copy. Bad imitators follow the crowd and mirror false idols, while good imitators copy a transcendent goal or figure. 
@@ -286,9 +282,7 @@ Choose your enemies well. Like two children who fight for a toy, the more you fi
 
 ![26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/26B2A8CC-076C-41F2-822D-569AFBF71C3A.jpg?w=750&ssl=1)
 
-### **Toys: Lessons from Rene Girard**    
-
-### **玩具：来自 Rene Girard 的教训**    
+### **Toys: Lessons from Rene Girard（玩具：来自 Rene Girard 的教训）**    
 
 
 I’ll be honest. When I first read about Mimetic Theory, I was skeptical. Girard’s ideas seemed trivial and I couldn’t find any evidence to support them. Then, I started seeing his ideas everywhere. Once I saw empirical evidence of Girard’s ideas, I started taking them seriously.  
@@ -311,14 +305,12 @@ Our capacity for imitation leads to envy. Babies’ interest in a particular toy
 
 * * *
 
-### **Toys: Lessons from Joseph Henrich**
-
-### **玩具：约瑟夫-亨里奇的教训**
+### **Toys: Lessons from Joseph Henrich（玩具：约瑟夫-亨里奇的教训）**
 
 
 Harvard anthropologist Joseph Henrich found empirical evidence for Girard’s observations about children and toys. In his book, [_The Secret of Our Success_](https://amzn.to/2K5gjZh)_,_ he shows that humans are cultural learners. Mimetic desire is innate, not learned. We copy other people spontaneously, automatically, and unconsciously. And we are especially likely to copy people who are more successful than us, especially in moments of difficulty or uncertainty. 
 
-哈佛大学人类学家 Joseph Henrich 为吉拉德关于儿童和玩具的观察找到了经验证据。在他的书中，[_ 我们成功的秘密 _](https://amzn.to/2K5gjZh)_，他表明，人类是文化学习者。模仿的欲望是与生俱来的，而不是学来的。我们自发地、自动地、无意识地模仿他人。而且我们特别容易模仿比我们更成功的人，特别是在困难或不确定的时刻。 
+哈佛大学人类学家 Joseph Henrich 为吉拉德关于儿童和玩具的观察找到了经验证据。在他的书中，[ 我们成功的秘密 ](https://amzn.to/2K5gjZh)，他表明，人类是文化学习者。模仿的欲望是与生俱来的，而不是学来的。我们自发地、自动地、无意识地模仿他人。而且我们特别容易模仿比我们更成功的人，特别是在困难或不确定的时刻。 
 
 Henrich illustrates our Mimetic nature by studying children and how they desire toys. Even at a young age, and especially in moments of confusion, they emulate people around them. In one study, Henrich found that babies engaged in social referencing four times more often when an ambiguous toy was placed in front of them. When faced with an ambiguous toy, babies altered their behavior based on adults’ emotional reactions. In their early years, babies depend on elders to navigate the world and outsource their decisions to them. 
 
@@ -350,9 +342,7 @@ Mimetic competition is visible in every aspect of social life. People shift thei
 
 * * *
 
-### **Competitive Strategy in Business**
-
-### **商业中的竞争战略**。
+### **Competitive Strategy in Business（商业中的竞争战略）**
 
 
 Thiel’s Christianity-inspired worldview lines up with Michael Porter’s philosophy of business strategy. Porter is a Harvard Business School professor known for his theories on economics and business strategy. He believed that strong businesses aim to be unique, not the best. Trying to outcompete rivals leads to mediocre performance, so companies should avoid competition and seek to create value instead of beating rivals. 
@@ -367,7 +357,7 @@ As Thiel once wrote: 
 
 > _“Once you have many people doing something, you have lots of competition and little differentiation. You, generally, never want to be part of a popular trend… So I think trends are often things to avoid. What I prefer over trends is a sense of mission. That you are working on a unique problem that people are not solving elsewhere.”_
 
-> _"一旦你有很多人在做某件事，你就会有很多竞争，而且几乎没有差异化。一般来说，你永远不想成为流行趋势的一部分…… 所以我认为趋势往往是要避免的东西。与趋势相比，我更喜欢的是一种使命感。你正致力于解决一个其他人没有解决的独特的问题。
+> _"一旦你有很多人在做某件事，你就会有很多竞争，而且几乎没有差异化。一般来说，你永远不想成为流行趋势的一部分…… 所以我认为趋势往往是要避免的东西。与趋势相比，我更喜欢的是一种使命感。你正致力于解决一个其他人没有解决的独特的问题。_
 
 
 After the 2008 financial crisis, when the new General Motors went public in 2010, CEO Dan Akerson announced that his company was free of legacy costs and ready to compete again. As he shouted to reporters: “May the best car win!” This phrase reflects an assumption that competition is the best way to grow shareholder value. It implies that if you want to win, you should try to be the best. But this is the wrong way to think about competition. 
@@ -425,12 +415,12 @@ As a contrast to the hyper-competitive airline business, consider Google. Here�
 
 > _“Compare \[the airlines\] to Google, which creates less value but captures far more. Google brought in $50 billion in 2012 (versus $160 billion for the airlines), but it kept 21% of those revenues as profits—more than 100 times the airline industry’s profit margin that year._ 
 
-> _"比较一下谷歌 —— 它创造的价值较少，但捕获的价值却多得多。谷歌在 2012 年带来了 500 亿美元的收入（而航空公司为 1600 亿美元），但它将这些收入的 21% 作为利润，是当年航空业利润率的 100 倍以上。 
+> _"比较一下谷歌 —— 它创造的价值较少，但捕获的价值却多得多。谷歌在 2012 年带来了 500 亿美元的收入（而航空公司为 1600 亿美元），但它将这些收入的 21% 作为利润，是当年航空业利润率的 100 倍以上。_ 
 
 > 
 > _Google makes so much money that it’s now worth three times more than every U.S. airline combined. The airlines compete with each other, but Google stands alone.”_
 
-> _ 谷歌赚了很多钱，它现在的价值是美国所有航空公司总和的三倍。航空公司相互竞争，但谷歌却独善其身。"_
+> _谷歌赚了很多钱，它现在的价值是美国所有航空公司总和的三倍。航空公司相互竞争，但谷歌却独善其身。"_
 
 
 Perfect competition is the default state in Economics 101. In a perfectly competitive market, undifferentiated companies sell homogenous and substitutable products. Firms don’t have market power, so their prices are determined by the iron laws of supply and demand. 
@@ -453,14 +443,12 @@ Don’t copy your neighbors.
 
 * * *
 
-**Section 2: Time Moves Forward**
-
-**第 2 节：时间向前推移**。
+**Section 2: Time Moves Forward（第 2 节：时间向前推移）**
 ---------------------------------
 
 _“The twentieth century was great and terrible, and the twenty-first century promises to be far greater and more terrible.” — Peter Thiel_
 
-_“二十世纪是伟大而可怕的，而二十一世纪有望变得更伟大、更可怕”。- 彼得·蒂尔 _
+_“二十世纪是伟大而可怕的，而二十一世纪有望变得更伟大、更可怕”。- 彼得·蒂尔_
 
 
 In this section of the essay, we will depart from a focus on Thiel. Instead, we’ll explore Christianity and the history of time. By doing so, we will have the necessary context to frame Thiel’s worldview in the next section. 
@@ -498,9 +486,7 @@ With Jesus as its savior, Christianity is the only religion that sees a human as
 
 * * *
 
-### **From Cyclical to Linear Time**
-
-### **从周期性时间到线性时间**。
+### **From Cyclical to Linear Time（从周期性时间到线性时间）**
 
 
 Religious or not, it’s worth studying Jesus Christ. He’s had more influence than anybody in human history. For example, Western Civilization divides time into two periods: before and after Jesus Christ. He’s a universal icon. 
@@ -515,7 +501,7 @@ In a letter called [_One Solitary Life_](http://www.john3-16.net/OneLife.htm)_,_
 
 > _“Twenty centuries have come and gone, and today he is the central figure of the human race. I am well within the mark when I say that all the armies that ever marched, all the navies that ever sailed, all the parliaments that ever sat, all the kings that ever reigned—put together—have not affected the life of man on this earth as much as that one, solitary life.”_
 
-> 20 个世纪过去了，今天，他是人类的核心人物。我说，所有曾经出征的军队、所有曾经航行的海军、所有曾经开会的议会、所有曾经在位的国王 —— 加在一起 —— 都没有像那个孤独的生命那样对地球上的人的生活产生影响，这话很有道理。
+> _20 个世纪过去了，今天，他是人类的核心人物。我说，所有曾经出征的军队、所有曾经航行的海军、所有曾经开会的议会、所有曾经在位的国王 —— 加在一起 —— 都没有像那个孤独的生命那样对地球上的人的生活产生影响，这话很有道理。_
 
 
 Earlier this year, I attended a series of _Questioning Christianity_ lectures in New York City. Every Thursday, Tim Keller spoke about the core tenets of Christianity: faith, meaning, satisfaction, identity, morality, justice, and hope. In one of his talks, he spoke about the human transition from hope to optimism. From praying for a better world to working hard to ensure a better future. In the sermon, Keller argued that humans are future-oriented beings. If we don’t have a positive vision for our future, we become slaves to the desires of the present day and crumble under the suffering of daily life. That’s why we need to believe that our lives are marching towards an end that’s worth striving for. Otherwise, we will become adrift like a log in the ocean. 
@@ -569,8 +555,7 @@ If time is cyclical, the future will look like the present. The arrow of time po
 
 * * *
 
-### **Girardian Sacrifice: How Violence Stops Violence**
-### ** 暴力如何阻止暴力**
+### **Girardian Sacrifice: How Violence Stops Violence（暴力如何阻止暴力）**
 
 
 Once Tim Keller’s lectures were over and I understood Nisbet’s philosophy of progress, I turned to a series of Rene Girard interviews. As I started reading, I was shocked to see Nisbet’s idea of progress fit Girard’s theory of Mimetics like a pair of puzzle pieces. 
@@ -601,9 +586,7 @@ Ritual protects communities from the great violence of Mimetic disorder thanks t
 
 * * *
 
-### **How Time Relates to Girardian Sacrifice**
-
-### **时间如何与吉拉德的牺牲有关**
+### **How Time Relates to Girardian Sacrifice（时间如何与吉拉德的牺牲有关）**
 
 
 It’s hard to gauge the impact of various philosophies of time. Even as I argue for it, I’m skeptical that a linear perspective on time is a meaningful driver of innovation and technological progress. And yet, my skepticism is balanced by my own relationship with my future self. 
@@ -634,9 +617,7 @@ Girard offers a historical perspective for the transition from cyclical time to 
 
 * * *
 
-### **How Linear Time Drives Progress and Long-Term Thinking**
-
-### **线性时间是如何推动进步和长期思维的**
+### **How Linear Time Drives Progress and Long-Term Thinking（线性时间是如何推动进步和长期思维的）**
 
 
 To Peter Thiel, short-term thinking is the essence of sin. Like _The Bible_, he advises us to make plans and sacrifice the present for the future. Greatness is like chess. To win, you must study the end game and work towards the one you want to see. Thiel’s favorite chess player was José Raúl Capablanca who [said](https://amzn.to/2JSBbo5): “To begin you must study the end. You don’t want to be the first to act, you want to be the last man standing.” 
@@ -696,10 +677,7 @@ Guided by this belief in the possibility of progress, Christians follow a high-r
 
 * * *
 
-**Section 3: The Future will Be Different From the Present**
-
-**第 3 节：未来将与现在不同**。
-
+**Section 3: The Future will Be Different From the Present（第 3 节：未来将与现在不同）**
 ------------------------------------------------------------
 
 _“And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.”_ — Revelation 21:1
@@ -712,9 +690,7 @@ _“The cliche goes like this; live each day as if it were your last. The best w
 “老生常谈” 是这样说的：把每一天当作最后一天来过。接受这个建议的最好方法是做完全相反的事情：把每一天都当作你会永远活着一样来过。"  —— 彼得·蒂尔
 
 
-### **A New Heaven and a New Earth**
-
-### **新天堂和新地球**
+### **A New Heaven and a New Earth（新天堂和新地球）**
 
 
 The _Book of Revelation_ is the last chapter in the New Testament. In this section, I interpret it in a way that supports the rest of Thiel’s conclusions. Inevitably, I have misspoken here. If I met Thiel, this is the section I would focus on. It’s foundational to Thiel’s worldview and I’ve never heard him speak about this section of _The Bible_ in public. 
@@ -786,7 +762,7 @@ Here are Thiel’s words: 
 
 > "基督教政治家或女政治家知道，现代时代不会是永久的，最终会让位给非常不同的东西。我们决不能忘记，有一天一切都会被揭露，所有的不公正都会被曝光，而那些犯下这些罪行的人将被追究责任。
 
-> 
+
 > _The postmodern world would differ from the modern world in a way that is much worse or much better — the limitless violence of runaway mimesis or the peace of the kingdom of God… One must never forget that one day all will be revealed, that all injustices will be exposed, and that those who perpetrated them will be held to account.”_
 
 > 后现代世界与现代世界的不同之处在于，是更糟糕还是更好 —— 是失控的模仿的无限暴力，还是上帝之国的和平…… 人们决不能忘记，有一天一切都将被揭露，所有的不公正都将被曝光，那些犯下这些罪行的人将被追究责任。" 
@@ -804,13 +780,11 @@ If so, the cure is nested inside the disease. Online, social-media based argumen
 
 * * *
 
-### **Four Ways of Thinking About the Future**
-
-### **对未来的四种思考方式**
+### **Four Ways of Thinking About the Future（对未来的四种思考方式）**
 
 The pull towards Girardian conflict stems from pessimism and short-term thinking. In _Zero to One,_ Peter Thiel describes four ways of thinking about the future: definite optimism, indefinite optimism, definite pessimism, and indefinite pessimism. In a definite world, the future is knowable. There is a predetermined plan for what the future will look like. An indefinite world is more of a random walk. Like a lottery, the future is out of our control. It’s governed solely by probabilities and chance events, which makes it impossible to act with any agency. 
 
-悲观主义和短期思维讲导致吉拉德冲突。在《从零到一》中，彼得·蒂尔描述了四种思考未来的方式：明确的乐观主义，不确定的乐观主义，明确的悲观主义，以及不确定的悲观主义。在一个确定的世界里，未来是可知的。对于未来会是什么样子，有一个预定的计划。一个不确定的世界更像是一个随机漫步。像彩票一样，未来不受我们控制。它完全受概率和偶然事件的支配，这使得我们不可能以行事。 
+悲观主义和短期思维讲导致吉拉德冲突。在《从零到一》中，彼得·蒂尔描述了四种思考未来的方式：明确的乐观主义，不确定的乐观主义，明确的悲观主义，以及不确定的悲观主义。在一个确定的世界里，未来是可知的。对于未来会是什么样子，有一个预定的计划。一个不确定的世界更像是一个随机漫步。像彩票一样，未来不受我们控制。它完全受概率和偶然事件的支配，这使得我们不可能以像任何ji行事。 
 
 Thiel defines the four quadrants as such:
 
@@ -828,9 +802,7 @@ Thiel defines the four quadrants as such:
 
 ![IMG_ADBE7063D097-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_ADBE7063D097-1.jpeg?w=750&ssl=1)
 
-### **Background to Definite Optimism**
-
-### **明确的乐观主义的背景**
+### **Background to Definite Optimism（明确的乐观主义的背景）**
 
 Innovation begins with inspiration. Positive visions of the future inject people with imagination, which pulls the future forward. 
 
@@ -840,9 +812,7 @@ A quick browse through the history books shows that Americans, and especially th
 
 快速浏览一下历史书就会发现，美国人，尤其是政府，曾经制定过大的计划，并以明确的乐观态度生活。为了说明这个观点，让我们来看看我最喜欢的例子： 雷伯计划。
 
-### **Reber Plan**
-
-### **瑞博计划**
+### **Reber Plan（雷伯计划）**
 
 
 The Reber Plan is my favorite example of Definite Optimism. In the 1940s a San Francisco-based teacher and amateur theater producer devised a plan to reconstruct the San Francisco Bay Area. People took the plan seriously. Newspaper boards across California endorsed it.
@@ -859,9 +829,7 @@ Ultimately, the Reber Plan didn’t work. The freshwater lakes would have evapor
 
 ![IMG_4393427F321B-1.jpeg](https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_4393427F321B-1.jpeg?w=750&ssl=1)
 
-### **Ford Motors Airplanes During World War II**
-
-### **二战期间福特汽车公司的飞机**。
+### **Ford Motors Airplanes During World War II（二战期间福特汽车公司的飞机）**
 
 
 As Americans geared up for World War II in the early 1940s, President Franklin D. Roosevelt (FDR) called upon the nation to increase its production of airplanes. But in a 1940 [speech](https://www.mtholyoke.edu/acad/intrel/WorldWar2/fdr16.htm) to Congress, FDR said: “I should like to see this Nation geared up to the ability to turn out at least 50,000 planes a year.” At the time, nobody thought FDR’s goal was possible. 
@@ -893,9 +861,7 @@ We’ve moved from an atmosphere of utopian promises to one of dystopian threats
 
 * * *
 
-### **The End of the Future**
-
-### **未来的尽头**
+### **The End of the Future（未来的尽头）**
 
 Since the Financial Crisis, tens of thousands of Americans have moved into the Indefinite Optimism and Definite Pessimism quadrants. 
 
@@ -909,7 +875,7 @@ According to Thiel, this shift has been worse than acknowledged. A 2011 essay ca
 
 Today, we’ve narrowed the definition of technology to Angry Birds and goofy SnapChat filters. That’s why Thiel longs for the days when technology alluded to space, airplanes, and rockets that generated more energy than a small atomic bomb. 
 
-今天，我们已经把技术的定义缩小到《愤怒的小鸟》和愚蠢的 SnapChat 滤镜。这就是为什么泰尔渴望着科技暗指太空、飞机和产生比小型原子弹更多能量的火箭的时代。 
+今天，我们已经把技术的定义缩小到《愤怒的小鸟》和愚蠢的 SnapChat 滤镜。这就是为什么泰尔渴望曾经的时代 —— 科技暗指太空、飞机和产生比小型原子弹更多能量的火箭。 
 
 
 NASA’s star spangled splendor transformed consciousness. Astronauts with stomachs of steel traveled the impossible distances of space. The Apollo 8 mission required superhuman precision, equivalent in scale to throwing a dart at a peach from a distance of 28 feet, and grazing the top of the fuzz without touching the fruit’s skin. To reach the moon, America’s pioneers traveled across 240,000 miles, about fifty-eight times the distance Columbus sailed when he discovered the Western world. As the Apollo rockets pierced through the stratosphere, and navigated the pin-drop silence of outer space, they inspired people back on earth to expand their horizons.
@@ -980,7 +946,7 @@ From a distance, we see a mirage of progress. From up-close, once we remove the 
 
 > _“Younger Americans today are perhaps the first generation to be certain that they are and will be “worse off” than their parents. The interconnected nature of the world makes nightmare scenarios—pandemics, global economic collapse, climate-change disaster, cyberattacks, terrorism—all seem like genuine possibilities, even probabilities… Today hope has narrowed to the vanishing point of the self alone. In our current phase of American history we have lost belief in God and salvation, or in any shared sense of national greatness and destiny.”_
 
-> _“今天的美国年轻人也许是第一代确信他们现在和将来都会比他们的父母” 更糟糕 "的人。世界的相互关联性使得噩梦般的情景 —— 大流行病、全球经济崩溃、气候变化灾难、网络攻击、恐怖主义 —— 似乎都是真正的可能性，甚至是概率…… 今天，希望已经缩小到了自我的消失点。在我们当前的美国历史阶段，我们已经失去了对上帝和救赎的信仰，或者对任何共同的国家伟大和命运的感觉。
+> _“今天的美国年轻人也许是第一代确信他们现在和将来都会比他们的父母” 更糟糕 "的人。世界的相互关联性使得噩梦般的情景 —— 大流行病、全球经济崩溃、气候变化灾难、网络攻击、恐怖主义 —— 似乎都是真正的可能性，甚至是概率…… 今天，希望已经缩小到了自我的消失点。在我们当前的美国历史阶段，我们已经失去了对上帝和救赎的信仰，或者对任何共同的国家伟大和命运的感觉。_
 
 
 This intuition is supported by data. [Millennials](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf) are less well off than members of earlier generations were when they were young. They have lower earnings, fewer assets, and less wealth. Children born in 1940 had a 90% chance of earning more than their parents. But [children](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/) born in the 1980s have only a 50% chance. Christoper Kurz, an [economist](https://www.wsj.com/articles/playing-catch-up-in-the-game-of-life-millennials-approach-middle-age-in-crisis-11558290908) at the Federal Reserve has shown that millennial households had an average net worth of about $92,000 in 2016, nearly 40% less than Gen X households in 2001, adjusted for inflation, and about 20% less than baby boomer households in 1989. Wages tell a similar story. In short, millennials have it tough and it isn’t their fault. With the [rise](https://foundersfund.com/2016/06/thought-thoughts-future/) of dystopian films, Hollywood creates and reflects these dark predictions about the future.
@@ -1002,9 +968,7 @@ One friend doesn’t want to have kids because “the entire state of California
 
 * * *
 
-### **Millennials: Young and Yearning**
-
-### **千禧一代： 年轻和渴望**
+### **Millennials: Young and Yearning（千禧一代： 年轻和渴望）**
 
 
 When I speak with friends and travel the 50 states, I’m struck by how numb many people are to the world. Besides immigrants and their children, both of whom inspire me with their ambition and passionate work ethic, I see fear, complacency, and extreme risk-aversion everywhere. 
@@ -1030,7 +994,7 @@ There’s a lack of differentiation. As Thiel observed: 
 
 > _“There is something very odd about a society where the most talented people get all tracked toward the same elite colleges, where they end up studying the same small number of subjects and going into the same small number of careers… It’s very limiting for our society as well as for those students.”_
 
-> _“在一个社会中，最有才华的人都被追踪到相同的精英学院，他们最终学习相同的少数科目，进入相同的少数职业，这是非常奇怪的事情…… 这对我们的社会和这些学生来说都是非常有限的。” _
+> _“在一个社会中，最有才华的人都被追踪到相同的精英学院，他们最终学习相同的少数科目，进入相同的少数职业，这是非常奇怪的事情…… 这对我们的社会和这些学生来说都是非常有限的。”_
 
 
 The top colleges have become vocational schools for investment banking and management consulting. In 2007, for example, half of Harvard seniors took jobs in finance or consulting. This mirrors my own experience. My college jobs department steered us towards high-status jobs instead of high-impact ones. Students, professors, and advisors cared more about perception than reality. It felt as if the goal of life wasn’t to improve the world, but to win awards and build an impressive resume. Instead, my smartest friends were pushed towards a handful of fields: law, management consulting, and investment banking. Other options were peripheral and besides the point. 
@@ -1126,9 +1090,7 @@ We increasingly believe that progress is inevitable. Progress, though, is not gu
 
 * * *
 
-### **The Promise of Christianity** 
-
-### **基督教的承诺**。 
+### **The Promise of Christianity（基督教的承诺）** 
 
 
 To offer solutions, Thiel turns to the Christian value of hope. He has a heterodox view of Christianity. In his reading of history, the non-violence of Jesus is the antidote to Mimetic conflict. 
@@ -1173,10 +1135,7 @@ Technological growth is the best way to reduce suffering in the world. Technolog
 
 * * *
 
-**Section 4: Peter Thiel’s Advice**
-
-**第四部分：彼得·蒂尔的建议**。
-
+**Section 4: Peter Thiel’s Advice（第四部分：彼得·蒂尔的建议）**
 -----------------------------------
 
 _“Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it.” (Matthew 7:13)_
@@ -1190,14 +1149,12 @@ Now that we’ve outlined the Christianity-inspired foundations of Peter Thiel�
 
 * * *
 
-### **Search for Secrets**
-
-### **寻找秘密**
+### **Search for Secrets（寻找秘密）**
 
 
 _“It is the glory of God to conceal a matter; to search out a matter is the glory of kings.” —_ Proverbs 25:2
 
-“隐瞒一件事，是神的荣耀；查出一件事，是君王的荣耀。” -_ 箴言 25:2
+_“隐瞒一件事，是神的荣耀；查出一件事，是君王的荣耀。” -_ 箴言 25:2
 
 
 Thiel opposes the idea that luck is all-powerful. He encourages human agency and believes in the power of a single individual to bend the future to their will. Thiel believes we attribute too much to luck, which stops us from actually doing things. As he proclaimed, “you are not a lottery ticket… you can either dispassionately accept the universe for what it is, or put your dent in it, but not both.”
@@ -1246,7 +1203,7 @@ Strauss did not believe in transparency. He believed that even in the most open-
 
 _“It has all the advantages of private communication without having its greatest disadvantage—that it reaches only the writer’s acquaintances. It has all the advantages of public communication without having its greatest disadvantage—capital punishment for the author… Their literature is addressed, not to all readers, but to trustworthy and intelligent readers only.”_ 
 
-“它具有私人交流的所有优点，但没有其最大的缺点 —— 它只接触到作者的熟人。它具有公共传播的所有优点，但没有其最大的缺点 —— 对作者的资本惩罚…… 他们的文学作品不是针对所有的读者，而是只针对值得信赖和聪明的读者。”_ 
+_“它具有私人交流的所有优点，但没有其最大的缺点 —— 它只接触到作者的熟人。它具有公共传播的所有优点，但没有其最大的缺点 —— 对作者的资本惩罚…… 他们的文学作品不是针对所有的读者，而是只针对值得信赖和聪明的读者。”_ 
 
 
 Sometimes, Straussians hide truths in plain sight. When they do, they’re concealed in unpopular characters, such as devils, beggars, and buffoons. Pseudonymous Twitter accounts are the new Straussian philosophers, but with one important twist. Instead of sharing their names and hiding the truth, today’s Straussians hide their names, but share the truth.  
@@ -1256,14 +1213,12 @@ Sometimes, Straussians hide truths in plain sight. When they do, they’re conce
 
 * * *
 
-### **Be Careful Who You Copy**
-
-### **小心你复制的对象**。
+### **Be Careful Who You Copy（小心你复制的对象）**
 
 
 _“Then I saw that all toil and all skill in work come from a man’s envy of his neighbor. This also is vanity and a striving after wind.” —_ Ecclesiastes 4:4
 
-后来我看见一切的劳苦和工作的技巧，都是出于人对邻舍的嫉妒。这也是虚妄，是争风吃醋。" -《传道书》4:4
+_后来我看见一切的劳苦和工作的技巧，都是出于人对邻舍的嫉妒。这也是虚妄，是争风吃醋。"_-《传道书》4:4
 
 
 Even if imitation is inevitable, we can reduce the negative effects of it. We can avoid the kinds of competition that lead to violence. If Girard is right, we are not as individualistic as we think we are. If we must copy others, we should be careful who we copy. 
@@ -1318,13 +1273,10 @@ Great people trade the temptations of today for the trophies of tomorrow. Think 
 
 * * *
 
-### **Follow the Ten Commandments**
-
-### **遵循十条诫命***
-
+### **Follow the Ten Commandments（遵循十条诫命）**
 
 _“Thou shalt not covet your neighbor’s goods.” — 10th Commandment_
-_“你不可贪恋邻居的财物。” - 第十条诫命 _
+_“你不可贪恋邻居的财物。” - 第十条诫命_
 
 
 To return to our initial question about the significance of the Cain and Abel story, we return to Rene Girard. From history, Girard learned that human relations are built on the primacy of violence. That’s why the Cain and Abel story is the archetypal example of Mimetic conflict, and Thiel sees Christianity as the optimal solution to apocalyptic violence. 
@@ -1366,9 +1318,7 @@ Guided by the Cain and Abel story, remember the danger of imitating the wrong pe
 
 * * *
 
-### **Footnotes**
-
-### **脚注**
+### **Footnotes（脚注）**
 
 
 ¹ In addition to St. Augustine, writers such as Adam Smith, Thomas Jefferson, and Benjamin Franklin supported Christian ideals of progress. Adam Smith’s book, The Wealth of Nations is regarded as economics’ foundational text. Smith declares that there’s a natural order to the progress of nations. His “invisible hand” doesn’t just speak to the stability of the economic system, but also to the natural progress of wealth, labor, skill, rent, and profits. Western civilization is built on these ideals. Two of America’s founding fathers, Thomas Jefferson and Benjamin Franklin operated with a similar progress-inspired philosophy.
